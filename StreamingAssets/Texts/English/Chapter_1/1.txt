@@ -1,0 +1,126 @@
+﻿//Start of chapter 1
+
+[Music gideons_theme]
+[BG gideon_house_morning]
+[TRANS hide]
+[Narrator]
+Pacifica arrives at Gideon’s house.
+[Sound door_knock]
+She excitedly walks up to the door and gives it a knock.
+
+
+[CHARF Pacifica set happy show from outright flip left]
+//[Voice Pacifica_Hey_2]
+Gideon! It’s Pacifica! The girl you met yesterday, rememb-?
+
+[Sound right door_open]
+[Narrator]
+Abruptly, the door swings open with a distressed Gideon standing in the doorway.
+
+
+[CHARF Gideon set scared show from outleft]
+Pacifica! Shhh!
+
+
+[Pacifica]
+Oh, hey Gideon! What’s up? You answer the door fast! Usually it takes me a whole minute to get to it-
+
+[Gideon]
+Pacifica, please, you need to leave before-
+
+
+//Bud doesn’t appear on screen.
+[Bud]
+[Voice Bud_Boy_1]
+GIDEON!!!
+WHO IS AT THE DOOR THIS EARLY IN THE MORNING? 
+IT BETTER NOT BE THE POLICE!
+
+
+[CHARF Pacifica set perplexed]
+Gideon, is that your dad?
+
+
+[Gideon]
+Yeah, but there’s no need to-
+
+
+[CHARF Pacifica set confident]
+HELLO SIR, I AM JUST PICKING GIDEON UP FOR THE DAY!
+
+
+[Bud]
+IS THAT A GIRL’S VOICE?!
+
+
+[CHARF Gideon set anxious]
+On second thought, I’ll come with you. Just as long as it’s far, far away and we don’t come back for a couple of hours.
+
+
+[CHARF Pacifica set happy]
+Sure! I’ll take you someplace that’ll blow your mind...
+
+
+[CHARF Gideon set idle]
+Yeah, whatever. Let’s just get out of here first.
+
+
+//The two start moving away and the scenery changes into the town.
+
+[CHAR hide all outright]
+[TRANS show]
+[BG Town]
+[CHAR Pacifica Gideon show from outleft]
+[CHARF Pacifica set perplexed]
+[TRANS hide]
+Sooo, your dad seemed like a really nice guy!
+Why did we have to leave so fast?
+
+
+[CHARF Gideon set anxious]
+Ah... He can just get a little... weird, about... Surprise guests.
+You... eh, should call before you come over next time.
+
+
+[CHARF Pacifica set disappointed]
+Oh...
+
+
+[CHARF Gideon set embarrassed]
+Ahem... So where are we going?
+Please don’t tell me you just found some rare bird’s nest or something weird...
+
+
+[CHARF Pacifica set happy]
+Pfft! Who do you think I am? No, no. I have something far better.
+
+
+[CHARF Gideon set anxious]
+I’m getting worried...
+
+
+[CHARF Pacifica set happy]
+Did you eat breakfast?
+
+
+[CHARF Gideon set confused]
+Of course not! It’s really early!
+
+
+[CHARF Pacifica set perplexed]
+It’s actually 10 am... But your answer was perfect!
+
+
+[CHARF Gideon set confused]
+Wait a minute... Are you taking me out for breakfast?
+
+
+[CHARF Pacifica set confident]
+Hehe, yep! And here we are!
+By the way, did you know that this place has the most amazing pancakes...?
+Melting chocolate chip bliss, with a fresh drop of whipped cream and a juicy cherry on top...
+
+[CHAR hide all outright]
+[BG diner_inside]
+
+[autonext]

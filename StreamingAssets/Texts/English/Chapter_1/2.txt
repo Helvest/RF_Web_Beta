@@ -1,0 +1,122 @@
+//2 - Arrive at the diner
+
+[Music diner_theme]
+[BG diner]
+[TRANS hide]
+
+[CHAR Pacifica set happy show from outright flip]
+[CHARF Gideon set confused show from outleft]
+You have got to be kidding me.
+I made my dad angry, just for this?!
+He's going to murder me when I get home!
+
+
+[CHARF Pacifica set cheeky]
+Not just any food, my dear Gideon. //Add tsk sound effect
+This is top quality breakfast, one of a kind in Reverse Falls!
+
+
+[CHARF Gideon set skeptical]
+Considering the size of this town I doubt it'd be hard to find.
+
+
+[CHARF Pacifica set unclear]
+Don't be grumpy... Just take a look at the menu!
+
+
+[Gideon]
+If you think a menu is going to-[CHARF Gideon set confused] Hey, they have cake flavored pizza!
+
+
+[CHARF Pacifica set joyful]
+Hehe, told you so! Order anything you'd like, it's on me.
+
+
+[CHARF Gideon set perplexed]
+Really...?
+
+[TRANS show]
+[BG diner_inside]
+[TRANS hide]
+[Narrator]
+The two enter at the diner and take a seat by the counter.
+
+[Server]
+Alright... What do you two want... ?
+
+
+[CHARF Gideon set anxious]
+Uhhh... The cake flavored pizza please... Extra um... Sprinkles?
+
+
+[Pacifica]
+And the usual pancakes for me!
+With lots of whipped cream please!
+
+
+[Server]
+Coming right up.
+
+
+[CHARF Gideon set submissive]
+Are you sure? I don't mind paying.
+
+
+[CHARF Pacifica set joyful]
+Yeah, it'd be my pleasure! to commemorate our newfound friendship and all.
+
+
+[CHARF Gideon set happy]
+Wow that's... that's actually really kind of you.
+Thanks...
+
+
+[CHARF Pacifica set happy]
+Don't sweat it, after all I love making my friends happy!
+Though... I haven't really been making a lot of friends around here, so I'm super happy I can call you my friend!.
+Plus I still need your help hunting down that thing from yesterday!
+
+
+[CHARF Gideon set embarrassed]
+Right, so...
+What should we do about that little blue dorito?
+Didn't you want to catch him?
+
+
+[CHARF Pacifica set joyful] 
+Yup, but I'm not really sure how to start just yet...
+So we should figure out a plan after we've eaten.
+After all, the best ideas come once you've eaten lots of sugar...
+...or something like that.
+
+
+[Narrator]
+There is a sudden amount of commotion in the diner.
+
+[CHAR Pacifica flip]
+[???]
+No!!! That ascot was a gift!
+You can't just replace it like that!
+I just can't deal with you anymore...
+We're through!
+
+
+[Scot]
+But... But Linda!
+It wasn't my fault! Some weird monster destroyed it!
+
+
+[???]
+Who would actually believe that?!
+You're such an ass, Scot!
+
+[Scot]
+Linda! NOOOOOOOOOOOOOO!!!
+
+[Linda]
+We're through!
+
+[Narrator]
+The woman stands up and quickly leaves the dinner, a stifling silence left in her wake.
+
+[autonext]

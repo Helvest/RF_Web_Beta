@@ -75,7 +75,7 @@ Yeah, whatever. Let’s just get out of here first.
 
 [CHAR hide all outright]
 [TRANS show]
-[MUSIC pacifica_theme 0,4]
+[MUSIC pacifica_theme 0.4]
 [BG town_street_day]
 [CHAR Pacifica Gideon show from outleft]
 [CHARF Pacifica set perplexed]

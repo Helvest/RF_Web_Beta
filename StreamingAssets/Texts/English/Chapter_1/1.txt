@@ -1,5 +1,5 @@
 ﻿//Start of chapter 1 - Scene 1
-//
+
 [Music gideons_theme]
 [BG gideon_house_morning]
 [TRANS hide]

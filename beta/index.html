@@ -31,13 +31,13 @@
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
     <script>
-      const hideFullScreenButton = "";
+      const hideFullScreenButton = "true";
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/beta.loader.js";
       const config = {
-        dataUrl: buildUrl + "/beta.data.unityweb",
-        frameworkUrl: buildUrl + "/beta.framework.js.unityweb",
-        codeUrl: buildUrl + "/beta.wasm.unityweb",
+        dataUrl: buildUrl + "/beta.data.gz",
+        frameworkUrl: buildUrl + "/beta.framework.js.gz",
+        codeUrl: buildUrl + "/beta.wasm.gz",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",

@@ -1,0 +1,8 @@
+[BG signal_interrupted_blue]
+
+[trans hide]
+
+[Narrator]
+End of the Beta, click to restart
+
+[trans show][next Chapter_1/1][end]

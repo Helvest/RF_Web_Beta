@@ -1,0 +1,8 @@
+[BG change signal_interrupted_blue]
+
+[trans hide]
+
+[Narrator]
+Link no valid
+
+[autonext Chapter_1/1]

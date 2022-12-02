@@ -1,6 +1,0 @@
-[BG gideon_house_morning]
-
-[trans hide]
-
-[Narrator]
-Is all for the moment, see you soon for more

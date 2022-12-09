@@ -31,7 +31,7 @@
     </div>
     <div id="unity-fullscreen-button" style="display: none;"></div>
     <script>
-      const hideFullScreenButton = "true";
+      const hideFullScreenButton = "";
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/RF_Web_Beta.loader.js";
       const config = {
@@ -68,6 +68,10 @@
         return false;
       }());
 
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        //config.devicePixelRatio = 1;
+      }
       loadingCover.style.display = "";
 
       const script = document.createElement("script");

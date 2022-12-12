@@ -47,17 +47,13 @@
       // way that non-critical warnings and error messages are presented to the
       // user.
       function unityShowBanner(msg, type) {
-        console.log("unityShowBanner: " + msg + " | " + type);
-
+        console.log(msg);
         function updateBannerVisibility() {
           warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
-          console.log("updateBannerVisibility: " + warningBanner.style.display);
         }
-
         var div = document.createElement('div');
         div.innerHTML = msg;
         warningBanner.appendChild(div);
-
         if (type == 'error') div.style = 'background: red; padding: 10px;';
         else {
           if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
@@ -80,7 +76,7 @@
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
         productVersion: "1.0",
-
+        matchWebGLToCanvasSize: false,
         showBanner: unityShowBanner,
       };
 
@@ -107,14 +103,49 @@
         return false;
       }());
 
+      var scale = 1;
+      var abs_width = window.innerWidth * window.devicePixelRatio;
+      var abs_height = window.innerHeight * window.devicePixelRatio;
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        scale = 2;
+      }
+
       loadingCover.style.display = "";
 
-      var isStandalone = window.matchMedia('(display-mode: standalone)').matches;
+      function IsPWA() {
+        // For iOS
+        if(window.navigator.standalone) return true
+        // For Android
+        if(window.matchMedia('(display-mode: standalone)').matches) return true
+        // If neither is true, it's not installed
+        return false
+      }
+
+      function Test(value) {
+
+      }
+
+      function ScaleRez(value)
+      {
+        scale = value;
+        canvas.width = abs_width / scale;
+        canvas.height = abs_height / scale;
+      }
+
+      function OnResize()
+      {
+        abs_width = window.innerWidth * window.devicePixelRatio;
+        abs_height = window.innerHeight * window.devicePixelRatio;
+        ScaleRez(scale);
+      }
+
+      window.addEventListener("resize", OnResize);
+      ScaleRez(scale);
 
       const script = document.createElement("script");
-
       script.src = loaderUrl;
-
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";
@@ -123,13 +154,10 @@
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
           if (canFullscreen) {
-            
-            unityShowBanner('isStandalone 1: ' + isStandalone, 'error')
 
-            if (isStandalone) {
-              unityInstance.SetFullscreen(1);
-            }
-            else if (!hideFullScreenButton) {
+            unityShowBanner("IsPWA: " + IsPWA(), "error");
+
+            if (!IsPWA() && !hideFullScreenButton) {
               fullscreenButton.style.display = "";
               fullscreenButton.onclick = () => {
                 unityInstance.SetFullscreen(1);
@@ -138,8 +166,6 @@
           }
         }).catch((message) => {
           alert(message);
-
-          unityShowBanner('isStandalone 2: ' + isStandalone, 'error')
         });
       };
       document.body.appendChild(script);

@@ -47,12 +47,17 @@
       // way that non-critical warnings and error messages are presented to the
       // user.
       function unityShowBanner(msg, type) {
+        console.log("unityShowBanner: " + msg + " | " + type);
+
         function updateBannerVisibility() {
           warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+          console.log("updateBannerVisibility: " + warningBanner.style.display);
         }
+
         var div = document.createElement('div');
         div.innerHTML = msg;
         warningBanner.appendChild(div);
+
         if (type == 'error') div.style = 'background: red; padding: 10px;';
         else {
           if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
@@ -102,20 +107,14 @@
         return false;
       }());
 
-      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-        container.className = "unity-mobile";
-        //config.devicePixelRatio = 1;
-      }
       loadingCover.style.display = "";
 
-      const isStandalone = navigator.standalone || window.matchMedia('(display-mode: standalone)').matches;
-
-      console.log('navigator.standalone: ' + navigator.standalone);
-      console.log('window.matchMedia: ' + window.matchMedia('(display-mode: standalone)').matches);
-      console.log('isStandalone: ' + isStandalone);
+      var isStandalone = window.matchMedia('(display-mode: standalone)').matches;
 
       const script = document.createElement("script");
+
       script.src = loaderUrl;
+
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";

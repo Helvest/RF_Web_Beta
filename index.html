@@ -38,7 +38,7 @@
         }
       });
 
-      var warningBanner = document.querySelector("#unity-warning");
+      let warningBanner = document.querySelector("#unity-warning");
 
       // Shows a temporary message banner/ribbon for a few seconds, or
       // a permanent error message on top of the canvas if type=='error'.
@@ -51,7 +51,7 @@
         function updateBannerVisibility() {
           warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
         }
-        var div = document.createElement('div');
+        let div = document.createElement('div');
         div.innerHTML = msg;
         warningBanner.appendChild(div);
         if (type == 'error') div.style = 'background: red; padding: 10px;';
@@ -72,6 +72,7 @@
         dataUrl: buildUrl + "/RF_Web_Beta.data.unityweb",
         frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js.unityweb",
         codeUrl: buildUrl + "/RF_Web_Beta.wasm.unityweb",
+        symbolsUrl: buildUrl + "/RF_Web_Beta.symbols.json.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
@@ -103,28 +104,36 @@
         return false;
       }());
 
-      var scale = 1;
-      var abs_width = window.innerWidth * window.devicePixelRatio;
-      var abs_height = window.innerHeight * window.devicePixelRatio;
+      let scale = 1;
+      let abs_width = window.innerWidth * window.devicePixelRatio;
+      let abs_height = window.innerHeight * window.devicePixelRatio;
 
-      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+      const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+      if (isMobile)
+      {
         container.className = "unity-mobile";
         scale = 2;
       }
 
       loadingCover.style.display = "";
 
-      function IsPWA() {
-        // For iOS
-        if(window.navigator.standalone) return true
+      function IsPWA()
+      {
+        if(!isMobile) return false;
         // For Android
-        if(window.matchMedia('(display-mode: standalone)').matches) return true
+        if(window.matchMedia('(display-mode: standalone)').matches) return true;
+        // For iOS
+        if(window.navigator.standalone) return true;
         // If neither is true, it's not installed
-        return false
+        return false;
       }
 
-      function Test(value) {
+      function Test(value)
+      {
+        unityShowBanner("Test: " + value, null);
 
+        //unityShowBanner("IsPWA: " + IsPWA(), null);
       }
 
       function ScaleRez(value)
@@ -154,9 +163,6 @@
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
           if (canFullscreen) {
-
-            unityShowBanner("IsPWA: " + IsPWA(), "error");
-
             if (!IsPWA() && !hideFullScreenButton) {
               fullscreenButton.style.display = "";
               fullscreenButton.onclick = () => {

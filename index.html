@@ -69,16 +69,16 @@
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/RF_Web_Beta.loader.js";
       const config = {
-        dataUrl: buildUrl + "/RF_Web_Beta.data.unityweb",
-        frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js.unityweb",
-        codeUrl: buildUrl + "/RF_Web_Beta.wasm.unityweb",
-        symbolsUrl: buildUrl + "/RF_Web_Beta.symbols.json.unityweb",
+        dataUrl: buildUrl + "/55146a9b1b66f6a8b4d44e02cd494bd9.data.unityweb",
+        frameworkUrl: buildUrl + "/cfe6b75c71d632710f52b8f055de42af.js.unityweb",
+        codeUrl: buildUrl + "/eb42f7484aa396d10d4172a52f8c0065.wasm.unityweb",
+        symbolsUrl: buildUrl + "/367bccff3c994f09a52cd6f4d2978ded.json.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
         productVersion: "1.0",
         matchWebGLToCanvasSize: false,
-        showBanner: unityShowBanner,
+        showBanner: unityShowBanner
       };
 
       const container = document.querySelector("#unity-container");
@@ -113,45 +113,82 @@
       if (isMobile)
       {
         container.className = "unity-mobile";
-        scale = 2;
+        scale = 0.77;
       }
 
       loadingCover.style.display = "";
 
-      function IsPWA()
-      {
-        if(!isMobile) return false;
-        // For Android
-        if(window.matchMedia('(display-mode: standalone)').matches) return true;
-        // For iOS
-        if(window.navigator.standalone) return true;
-        // If neither is true, it's not installed
-        return false;
+      // Fonction pour vérifier si la page est installée en tant que PWA
+      function isPWAInstalled() {
+        // Vérifier si l'API de service worker est disponible
+        if ('serviceWorker' in navigator) {
+          // Vérifier si la page est installée en tant que PWA
+          return navigator.serviceWorker.getRegistrations().then(function(registrations) {
+            return registrations.length > 0;
+          });
+        }
+        // Si l'API de service worker n'est pas disponible, la page n'est pas une PWA
+        return Promise.resolve(false);
       }
 
       function Test(value)
       {
         unityShowBanner("Test: " + value, null);
-
-        //unityShowBanner("IsPWA: " + IsPWA(), null);
       }
 
       function ScaleRez(value)
       {
         scale = value;
-        canvas.width = abs_width / scale;
-        canvas.height = abs_height / scale;
+        canvas.width = abs_width * scale;
+        canvas.height = abs_height * scale;
       }
+
+      const ratio_9_16 = 9 / 16;
+      const ratio_16_9 = 16 / 9;
 
       function OnResize()
       {
-        abs_width = window.innerWidth * window.devicePixelRatio;
-        abs_height = window.innerHeight * window.devicePixelRatio;
+        let width = window.innerWidth;
+        let height = window.innerHeight;
+
+        //let width = document.body.offsetWidth;
+        //let height = document.body.offsetHeight;
+
+        let isPaysage = width > height;
+
+        if (isPaysage)
+        { 
+          let idealWidth = height * ratio_16_9;
+
+          if(idealWidth <= width){
+            width = idealWidth;
+          }else{
+            let idealHeight = width * ratio_9_16;
+            height = idealHeight;
+          }
+        }else{
+          let idealHeight = width * ratio_16_9;
+
+          if(idealHeight <= height){
+            height = idealHeight;
+          }else{
+            let idealWidth = height * ratio_9_16;
+            width = idealWidth;
+          }
+        }
+
+        container.style.width = width + "px";
+        container.style.height = height + "px";
+
+        abs_width = width * window.devicePixelRatio;
+        abs_height = height * window.devicePixelRatio;
+
         ScaleRez(scale);
       }
 
+      window.addEventListener("load", OnResize);
       window.addEventListener("resize", OnResize);
-      ScaleRez(scale);
+      //OnResize(scale);
 
       const script = document.createElement("script");
       script.src = loaderUrl;
@@ -162,14 +199,17 @@
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
-          if (canFullscreen) {
-            if (!IsPWA() && !hideFullScreenButton) {
-              fullscreenButton.style.display = "";
-              fullscreenButton.onclick = () => {
-                unityInstance.SetFullscreen(1);
-              };          
-            }
-          }
+          if (canFullscreen){
+            if (!hideFullScreenButton){
+              // Appeler la fonction
+              isPWAInstalled().then(function(installed){
+                if (!installed){
+                  fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };   
+                  fullscreenButton.style.display = "";
+                }
+              });
+            }               
+          }        
         }).catch((message) => {
           alert(message);
         });

@@ -170,6 +170,12 @@
 
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
+      const isPWA = ('serviceWorker' in navigator && 'PushManager' in window);
+      const isInstalled = ('fullscreen' in window.navigator) && (window.navigator.fullscreen);
+
+      LogError("isPWA: " + isPWA);
+      LogError("isInstalled: " + isInstalled);
+
       const ratio_9_16 = 9 / 16;
       const ratio_16_9 = 16 / 9;
       const mobileRez = 0.77;
@@ -251,7 +257,7 @@
                 // Appeler la fonction
                 isPWAInstalled().then(function(installed){
                   LogWarning("isPWAInstalled: " + installed);
-                  SetFullscreenButton(!active);
+                  SetFullscreenButton(!installed);
                 });
               }else{
                 SetFullscreenButton(true);

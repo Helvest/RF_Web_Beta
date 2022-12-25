@@ -168,21 +168,21 @@
         return Promise.resolve(false);
       }
 
-      const isMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-      const isFullscreen = () => window.matchMedia('(display-mode: fullscreen)').matches;
-      const isStandalone = () => window.matchMedia('(display-mode: standalone)').matches;
-      const isIOS = () => !!navigator.userAgent && /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+      const isFullscreen = window.matchMedia('(display-mode: fullscreen)').matches;
+      const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
 
       function isInstalled() {
         if(navigator.fullscreen === true || navigator.standalone === true) return true;
         if (isIOS()) return /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent); 
-        return window.matchMedia('(display-mode: standalone)').matches || window.matchMedia('(display-mode: fullscreen)').matches;
+        return isFullscreen || isStandalone;
       }
 
-      LogError("isMobile: " + isMobile());
-      LogError("isFullscreen: " + isFullscreen());
-      LogError("isStandalone: " + isStandalone());
-      LogError("isIOS: " + isIOS());
+      LogError("isMobile: " + isMobile);
+      LogError("isIOS: " + isIOS);
+      LogError("isFullscreen: " + isFullscreen);
+      LogError("isStandalone: " + isStandalone);
       LogError("isInstalled: " + isInstalled());
 
       const ratio_9_16 = 9 / 16;
@@ -261,7 +261,13 @@
           loadingCover.style.display = "none";
           if (canFullscreen){
             fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };
-            SetFullscreenButton(!hideFullScreenButton || !isMobile() || !isInstalled());
+
+            LogError("F: hideFullScreenButton: " + hideFullScreenButton);
+            LogError("F: isMobile: " + isMobile);
+            LogError("F: isInstalled: " + isInstalled());
+            let result = !hideFullScreenButton || !isMobile || !isInstalled();
+            LogError("F: result: " + result);
+            SetFullscreenButton(result);
           }
         }).catch((message) => {
           alert(message);

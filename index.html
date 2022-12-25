@@ -156,7 +156,7 @@
       loadingCover.style.display = "";
 
       // Fonction pour vérifier si la page est installée en tant que PWA
-      function isPWAInstalled() {
+      function isServiceWorker() {
         // Vérifier si l'API de service worker est disponible
         if ('serviceWorker' in navigator) {
           // Vérifier si la page est installée en tant que PWA
@@ -169,18 +169,19 @@
       }
 
       const isMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-      const isPWA = () => window.matchMedia('(display-mode: fullscreen)').matches;
+      const isFullscreen = () => window.matchMedia('(display-mode: fullscreen)').matches;
+      const isStandalone = () => window.matchMedia('(display-mode: standalone)').matches;
       const isIOS = () => !!navigator.userAgent && /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
       function isInstalled() {
-        if (isIOS())
-          return !!navigator.standalone || /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent);
-        else
-          return !!navigator.standalone && window.matchMedia('(display-mode: standalone)').matches;
+        if(navigator.fullscreen === true || navigator.standalone === true) return true;
+        if (isIOS()) return /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent); 
+        return window.matchMedia('(display-mode: standalone)').matches || window.matchMedia('(display-mode: fullscreen)').matches;
       }
 
       LogError("isMobile: " + isMobile());
-      LogError("isPWA: " + isPWA());
+      LogError("isFullscreen: " + isFullscreen());
+      LogError("isStandalone: " + isStandalone());
       LogError("isIOS: " + isIOS());
       LogError("isInstalled: " + isInstalled());
 

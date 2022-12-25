@@ -179,12 +179,6 @@
         return isFullscreen || isStandalone;
       }
 
-      LogError("isMobile: " + isMobile);
-      LogError("isIOS: " + isIOS);
-      LogError("isFullscreen: " + isFullscreen);
-      LogError("isStandalone: " + isStandalone);
-      LogError("isInstalled: " + isInstalled());
-
       const ratio_9_16 = 9 / 16;
       const ratio_16_9 = 16 / 9;
       const mobileRez = 0.77;
@@ -241,13 +235,9 @@
       window.addEventListener("resize", OnResize);
       window.addEventListener("orientationchange", OnResize);
 
-      function SetFullscreenButton(active){
-        fullscreenButton.style.display = active ? '' : 'none';
-      }
-
       function Test(value)
       {
-        Debug("Test: " + value, null);
+        Debug("Test: " + value);
       }
 
       const script = document.createElement("script");
@@ -259,15 +249,9 @@
           progressBarFull.style.width = `${100 * progress}%`;
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
-          if (canFullscreen){
+          if (canFullscreen && !hideFullScreenButton && (!isMobile || !isInstalled())){
             fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };
-
-            LogError("F: hideFullScreenButton: " + hideFullScreenButton);
-            LogError("F: isMobile: " + isMobile);
-            LogError("F: isInstalled: " + isInstalled());
-            let result = !hideFullScreenButton || !isMobile || !isInstalled();
-            LogError("F: result: " + result);
-            SetFullscreenButton(result);
+            fullscreenButton.style.display = '';
           }
         }).catch((message) => {
           alert(message);

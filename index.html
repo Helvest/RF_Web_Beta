@@ -175,7 +175,7 @@
 
       function isInstalled() {
         if(navigator.fullscreen === true || navigator.standalone === true) return true;
-        if (isIOS()) return /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent); 
+        if (isIOS) return /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent); 
         return isFullscreen || isStandalone;
       }
 

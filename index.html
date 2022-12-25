@@ -168,18 +168,26 @@
         return Promise.resolve(false);
       }
 
-      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      const isMobile = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      const isPWA = () => window.matchMedia('(display-mode: fullscreen)').matches;
+      const isIOS = () => !!navigator.userAgent && /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
-      const isPWA = ('serviceWorker' in navigator && 'PushManager' in window);
-      const isInstalled = ('fullscreen' in window.navigator) && (window.navigator.fullscreen);
+      function isInstalled() {
+        if (isIOS())
+          return !!navigator.standalone || /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent);
+        else
+          return !!navigator.standalone && window.matchMedia('(display-mode: standalone)').matches;
+      }
 
-      LogError("isPWA: " + isPWA);
-      LogError("isInstalled: " + isInstalled);
+      LogError("isMobile: " + isMobile());
+      LogError("isPWA: " + isPWA());
+      LogError("isIOS: " + isIOS());
+      LogError("isInstalled: " + isInstalled());
 
       const ratio_9_16 = 9 / 16;
       const ratio_16_9 = 16 / 9;
       const mobileRez = 0.77;
-      let scale = isMobile ? mobileRez : 1;
+      let scale = isMobile() ? mobileRez : 1;
 
       let abs_width = window.innerWidth * window.devicePixelRatio;
       let abs_height = window.innerHeight * window.devicePixelRatio;
@@ -252,18 +260,8 @@
           loadingCover.style.display = "none";
           if (canFullscreen){
             fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };
-            if (!hideFullScreenButton){
-              if(isMobile){
-                // Appeler la fonction
-                isPWAInstalled().then(function(installed){
-                  LogWarning("isPWAInstalled: " + installed);
-                  SetFullscreenButton(!installed);
-                });
-              }else{
-                SetFullscreenButton(true);
-              }
-            }               
-          }        
+            SetFullscreenButton(!hideFullScreenButton || !isMobile() || !isInstalled());
+          }
         }).catch((message) => {
           alert(message);
         });

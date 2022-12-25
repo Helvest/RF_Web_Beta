@@ -17,10 +17,10 @@
     <meta name="theme-color" content="#ffffff">
   </head>
   <body class="dark">
-    <div id="unity-container" class="unity-desktop">
-      <div id="unity-warning"></div>
+    <div id="unity-container">
       <canvas id="unity-canvas"></canvas>
     </div>
+    <div id="unity-warning"></div>
     <div id="loading-cover" style="display:none;">
       <div id="unity-loading-bar">
         <div id="unity-logo"><img src="logo.png"></div>
@@ -38,7 +38,18 @@
         }
       });
 
-      let warningBanner = document.querySelector("#unity-warning");
+      const warningBanner = document.querySelector("#unity-warning");
+
+      function updateBannerVisibility()
+      {
+        warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+      }
+
+      function isEmptyString(value) {
+        return typeof value === 'string' && !value.trim();
+      }
+
+      const disableLog = "";
 
       // Shows a temporary message banner/ribbon for a few seconds, or
       // a permanent error message on top of the canvas if type=='error'.
@@ -46,33 +57,71 @@
       // Modify or remove this function to customize the visually presented
       // way that non-critical warnings and error messages are presented to the
       // user.
-      function unityShowBanner(msg, type) {
-        console.log(msg);
-        function updateBannerVisibility() {
-          warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
-        }
-        let div = document.createElement('div');
-        div.innerHTML = msg;
-        warningBanner.appendChild(div);
-        if (type == 'error') div.style = 'background: red; padding: 10px;';
-        else {
-          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+      function unityShowBanner(msg, type)
+      {
+        if(disableLog) return;
+        if(msg == null || isEmptyString(msg)) return;
+
+         // Création de la bannière
+        const banner = document.createElement('div');
+        banner.classList.add('banner');
+
+        // Création du texte
+        const text = document.createElement('div');
+        text.classList.add('text');
+        text.textContent = msg;
+
+        // Ajout du texte à la bannière
+        banner.appendChild(text);
+
+        // Ajout de la bannière au conteneur
+        warningBanner.appendChild(banner);
+
+        warningBanner.scrollTop = warningBanner.scrollHeight;
+
+        if (type == 'error') {
+          banner.classList.add('error');
+          console.error(msg);
+        }else{
+          if (type == 'warning'){
+            banner.classList.add('warning');
+            console.warn(msg);
+          }else{
+            console.debug(msg);
+          }
           setTimeout(function() {
-            warningBanner.removeChild(div);
+            warningBanner.removeChild(banner);
             updateBannerVisibility();
           }, 5000);
         }
+
         updateBannerVisibility();
       }
 
+      function Debug(message)
+      {   
+        unityShowBanner(message, null);
+      }
+
+      function LogError(message)
+      {
+        unityShowBanner(message, "error");
+      }
+
+      function LogWarning(message)
+      {
+        unityShowBanner(message, "warning");
+      }
+
+  
       const hideFullScreenButton = "";      
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/RF_Web_Beta.loader.js";
       const config = {
-        dataUrl: buildUrl + "/55146a9b1b66f6a8b4d44e02cd494bd9.data.unityweb",
-        frameworkUrl: buildUrl + "/cfe6b75c71d632710f52b8f055de42af.js.unityweb",
-        codeUrl: buildUrl + "/eb42f7484aa396d10d4172a52f8c0065.wasm.unityweb",
-        symbolsUrl: buildUrl + "/367bccff3c994f09a52cd6f4d2978ded.json.unityweb",
+        dataUrl: buildUrl + "/RF_Web_Beta.data.unityweb",
+        frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js.unityweb",
+        codeUrl: buildUrl + "/RF_Web_Beta.wasm.unityweb",
+        symbolsUrl: buildUrl + "/RF_Web_Beta.symbols.json.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
@@ -104,18 +153,6 @@
         return false;
       }());
 
-      let scale = 1;
-      let abs_width = window.innerWidth * window.devicePixelRatio;
-      let abs_height = window.innerHeight * window.devicePixelRatio;
-
-      const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-
-      if (isMobile)
-      {
-        container.className = "unity-mobile";
-        scale = 0.77;
-      }
-
       loadingCover.style.display = "";
 
       // Fonction pour vérifier si la page est installée en tant que PWA
@@ -131,48 +168,47 @@
         return Promise.resolve(false);
       }
 
-      function Test(value)
-      {
-        unityShowBanner("Test: " + value, null);
-      }
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+      const ratio_9_16 = 9 / 16;
+      const ratio_16_9 = 16 / 9;
+      const mobileRez = 0.77;
+      let scale = isMobile ? mobileRez : 1;
+
+      let abs_width = window.innerWidth * window.devicePixelRatio;
+      let abs_height = window.innerHeight * window.devicePixelRatio;
 
       function ScaleRez(value)
       {
         scale = value;
         canvas.width = abs_width * scale;
         canvas.height = abs_height * scale;
-      }
-
-      const ratio_9_16 = 9 / 16;
-      const ratio_16_9 = 16 / 9;
+      }  
 
       function OnResize()
       {
         let width = window.innerWidth;
         let height = window.innerHeight;
 
-        //let width = document.body.offsetWidth;
-        //let height = document.body.offsetHeight;
-
         let isPaysage = width > height;
 
         if (isPaysage)
         { 
-          let idealWidth = height * ratio_16_9;
+          const idealWidth = height * ratio_16_9;
 
           if(idealWidth <= width){
             width = idealWidth;
           }else{
-            let idealHeight = width * ratio_9_16;
+            const idealHeight = width * ratio_9_16;
             height = idealHeight;
           }
         }else{
-          let idealHeight = width * ratio_16_9;
+          const idealHeight = width * ratio_16_9;
 
           if(idealHeight <= height){
             height = idealHeight;
           }else{
-            let idealWidth = height * ratio_9_16;
+            const idealWidth = height * ratio_9_16;
             width = idealWidth;
           }
         }
@@ -188,7 +224,16 @@
 
       window.addEventListener("load", OnResize);
       window.addEventListener("resize", OnResize);
-      //OnResize(scale);
+      window.addEventListener("orientationchange", OnResize);
+
+      function SetFullscreenButton(active){
+        fullscreenButton.style.display = active ? '' : 'none';
+      }
+
+      function Test(value)
+      {
+        Debug("Test: " + value, null);
+      }
 
       const script = document.createElement("script");
       script.src = loaderUrl;
@@ -200,14 +245,17 @@
         }).then((unityInstance) => {
           loadingCover.style.display = "none";
           if (canFullscreen){
+            fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };
             if (!hideFullScreenButton){
-              // Appeler la fonction
-              isPWAInstalled().then(function(installed){
-                if (!installed){
-                  fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };   
-                  fullscreenButton.style.display = "";
-                }
-              });
+              if(isMobile){
+                // Appeler la fonction
+                isPWAInstalled().then(function(installed){
+                  LogWarning("isPWAInstalled: " + installed);
+                  SetFullscreenButton(!active);
+                });
+              }else{
+                SetFullscreenButton(true);
+              }
             }               
           }        
         }).catch((message) => {

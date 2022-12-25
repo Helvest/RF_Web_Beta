@@ -2,7 +2,7 @@
   "name": "Reverse Falls Open Project",
   "short_name": "Reverse Falls Open Project",
   "start_url": "index.html",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#385EA1",
   "theme_color": "#000",
   "description": "Reverse Falls Open Project",

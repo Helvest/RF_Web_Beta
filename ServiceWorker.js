@@ -1,9 +1,9 @@
 const cacheName = "Helvest-Reverse Falls Open Project-1.0";
 const contentToCache = [
     "Build/RF_Web_Beta.loader.js",
-    "Build/RF_Web_Beta.framework.js",
-    "Build/RF_Web_Beta.data",
-    "Build/RF_Web_Beta.wasm",
+    "Build/RF_Web_Beta.framework.js.unityweb",
+    "Build/RF_Web_Beta.data.unityweb",
+    "Build/RF_Web_Beta.wasm.unityweb",
     "TemplateData/style.css"
 ];
 self.addEventListener('install', function (e) {

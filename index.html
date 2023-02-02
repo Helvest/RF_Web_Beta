@@ -118,10 +118,9 @@
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/RF_Web_Beta.loader.js";
       const config = {
-        dataUrl: buildUrl + "/RF_Web_Beta.data.unityweb",
-        frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js.unityweb",
-        codeUrl: buildUrl + "/RF_Web_Beta.wasm.unityweb",
-        symbolsUrl: buildUrl + "/RF_Web_Beta.symbols.json.unityweb",
+        dataUrl: buildUrl + "/RF_Web_Beta.data",
+        frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js",
+        codeUrl: buildUrl + "/RF_Web_Beta.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
@@ -155,19 +154,6 @@
 
       loadingCover.style.display = "";
 
-      // Fonction pour vérifier si la page est installée en tant que PWA
-      function isServiceWorker() {
-        // Vérifier si l'API de service worker est disponible
-        if ('serviceWorker' in navigator) {
-          // Vérifier si la page est installée en tant que PWA
-          return navigator.serviceWorker.getRegistrations().then(function(registrations) {
-            return registrations.length > 0;
-          });
-        }
-        // Si l'API de service worker n'est pas disponible, la page n'est pas une PWA
-        return Promise.resolve(false);
-      }
-
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
       const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
       const isFullscreen = window.matchMedia('(display-mode: fullscreen)').matches;
@@ -181,9 +167,9 @@
 
       const ratio_9_16 = 9 / 16;
       const ratio_16_9 = 16 / 9;
-      const mobileRez = 0.77;
-      let scale = isMobile ? mobileRez : 1;
-
+      //const mobileRez = 0.77;
+      
+      let scale = 1;//isMobile ? mobileRez : 1;
       let abs_width = window.innerWidth * window.devicePixelRatio;
       let abs_height = window.innerHeight * window.devicePixelRatio;
 
@@ -252,7 +238,7 @@
           if (canFullscreen && !hideFullScreenButton && (!isMobile || !isInstalled())){
             fullscreenButton.onclick = () => { unityInstance.SetFullscreen(1); };
             fullscreenButton.style.display = '';
-          }
+          }       
         }).catch((message) => {
           alert(message);
         });

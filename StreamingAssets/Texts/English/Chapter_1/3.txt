@@ -1,14 +1,15 @@
+//Scene 3 - Still in the Diner
 [Music diner_theme]
 [BG diner_inside]
 [TRANS hide]
 
-[CHARF Gideon set awkward show from outright]
+[CHARF Gideon set unclear show from outright]
 [CHAR Pacifica set cheeky show from outright flip]
 
 Yeesh... Awkward...
 
 
-[CHARF Pacifica set cheeky]
+[Pacifica]
 Well that was unexpected...
 But that's just another thing I love about this diner.
 Everyone has a different story to tell!
@@ -48,7 +49,7 @@ You think it might've been one of those hobos that people have been talking abou
 Apparently we got a ton that suddenly moved into town.
 
 
-[CHARF Tyler setthinking]
+[CHARF Tyler set thinking]
 That is super weird...
 
 

@@ -1,0 +1,959 @@
+﻿[music conversation_1 0.1]
+[BG town_street_day]
+[Editor wait 0.5]
+[TRANS hide]
+
+[CF Xbox set idle show from outright]
+[voice host-01]
+Ladies and gentlemen, pigs and goats… 
+[voice host-02]
+Welcome to the Reverse Falls questions and answers video!
+[CF Xbox set idle]
+[voice host-03]
+I am your host for today’s Q&A, the Xbox Fridge. 
+[voice host-04]
+I am a voice actor for the game, however I am not allowed to disclose this with you right now. But, I will be giving out little teeny-tiny hints throughout this entire session.
+[CF Xbox set happy]
+[voice host-05]
+So, let us bring out our participants for today’s Q&A! Starting off with Aki…
+
+[CF Aki set happy show from outright flip]
+[voice aki-01]
+Hello! I’m Aki, I play Pacifica. That’s all you need to know about me, yeah.
+[C Aki hide]
+
+[CF Xbox set idle]
+[voice host-06]
+Uh, okay… Ethan?
+
+[CF Ethan set idle show from outright flip]
+[voice ethan-01]
+Hello! Uh, I’m Ethan. I play Dipper, and I’m really excited to be here!
+[C Ethan hide]
+
+[F Xbox]
+[voice host-07]
+Thank you. And for our Voice Director, Rune?
+
+[CF Rune set happy show from outright]
+[voice rune-01]
+Hi, I’m Rune, and I’m the voice director. So I organize all the voices.
+[C Rune hide]
+
+[F Xbox]
+[voice host-08]
+Um… Morgan?
+
+[CF Morgan set happy show from outright flip]
+[voice morgan-01]
+Hello. I’m Morgan. And not only am I the music director, I play the alcoholic father of Gideon, Bud, and also the narrator.
+[C Morgan hide]
+
+[F Xbox]
+[voice host-09]
+And… Grig.
+
+[CF Grig set happy show from outright]
+[voice grig-01]
+Yo, I’m Grig! I do general writing, directing. It’s the work.
+[C Grig hide]
+
+[F Xbox]
+[voice host-10]
+Alright, so for everyone, um… 
+[voice host-11]
+So what have you been doing so far for this project?
+
+[CF Grig set nervous show from outright]
+[voice grig-02]
+Ooh, a big question. Uh …
+[voice grig-03]
+I guess I can start?
+[CF Grig set happy]
+[voice grig-04]
+For this project, I’ve been basically managing the writing team and ensuring we have a cohesive story going forward, and that the different teams are communicating with the writers, and that we
+[voice grig-04.5]
+…make sure the ideas we have are on the same level. Or at least try to, it’s not always super easy.
+[C Grig hide]
+[C Xbox flip]
+[CF Morgan set idle show from outleft flip]
+[voice morgan-02]
+In the music department, it’s a lot of… sound design, really. Figuring out where to add things or how to make things more ambient for the player… 
+[voice morgan-02.5]
+But it’s coming in nicely, as well as with adding in voices. 
+[C Morgan hide]
+[C Xbox flip]
+[CF Rune set nervous show from outright]
+[voice rune-02]
+Uh, for voice acting, I mostly just give out the lines, the voice actors do a really good job, then I usually cut them and give them to everybody else so they can put them in the game.
+[C Rune hide]
+
+[CF Aki set happy show]
+[voice aki-02]
+I voice act Pacifica in the game, and I just record lines and send them to the voice acting director, yeah.
+[C Aki hide]
+
+[CF Ethan set idle show]
+[voice ethan-02]
+I have yet to record lines, but I am prepping for when I eventually do.
+[C Ethan hide]
+
+[CF Xbox set idle]
+[voice host-12]
+Well, that’s great…
+[CF Xbox set happy]
+[voice host-13]
+But before we begin today’s question and answers video, I just want to give a big ole thanks to Charlotte for her artwork for today. Thank you.
+[CF Xbox set idle]
+[voice host-14]
+Now, let us move on to the questions for our… our three directors. 
+[voice host-15]
+Starting off with, “This is probably a question you guys get a lot, but how is the game coming along?”
+[C Xbox hide]
+
+[CF Grig set nervous show center]
+[voice grig-05]
+Um, who wants to start with that one?
+
+[CF Morgan set nervous show from outleft]
+[voice morgan-03]
+I think it’s a difficult position[C Rune show from outright set joyful][C Grig set happy] to say how it is coming along because there’s always more you want to add to it… 
+[voice morgan-03.5]
+But there’s also, things have been getting done, and it’s great to see it coming together as it does. 
+
+[CF Rune set joyful show]
+[voice rune-03]
+There’s a lot of moving parts, so it kinda depends on what part you’re in, haha.
+
+[CF Grig set idle]
+[voice grig-06]
+Oh, absolutely.
+[CF Grig set nervous]
+[voice grig-07]
+Um, well I guess, we have chapter 1 written. 
+[voice grig-08]
+We have chapter 2… basically written? Although it needs a bit of editing work. 
+[CF Grig set embarrassed]
+[voice grig-09]
+A lot of editing work.
+[CF Grig set nervous]
+[voice grig-10]
+Chapter 3 is… sort of, a step in between the major overarching narratives, so there are multiple smaller chapters in it… and those are coming along well enough.
+[voice grig-11]
+So, it’s uh, churning.
+
+[C all hide]
+
+[CF Xbox set idle show center]
+[voice host-16]
+Alright, great. Now, moving on…
+[voice host-17]
+Is there an estimated release date for chapter 1?
+[C Xbox hide]
+
+[CF Grig set nervous show center from outright]
+[wait 0.5].[wait 0.5].[wait 0.5].
+[voice grig-12]
+That’s a hard-
+
+[CF Morgan set joyful show from outleft]
+[voice morgan-04]
+The silence speaks volumes.
+
+[C Grig set joyful]
+[CF Rune set joyful show from outright]
+[voice rune-04]
+Yes, it does.
+
+[CF Grig set nervous]
+[voice grig-13]
+Uh… we’re working on it? We don’t really have a specific “oh it’s definitely gonna be by then.” But we do want it to come, as Helvest put it, “soon.”
+
+[CF Rune set joyful]
+[voice rune-05]
+Soon can mean a lot of things, but yes, soon.
+
+[CF Grig set nervous]
+[voice grig-14]
+Yeah, soonTM. The best time.
+[C all hide]
+
+[CF Xbox set joyful show]
+[voice host-18]
+Let’s just say that it’ll probably be ready when it’s actually ready.
+
+[CF Rune set joyful show]
+[voice rune-06]
+Yeah.
+
+[CF Xbox set happy]
+[voice host-19]
+Alright. 
+
+[CF Grig set joyful show]
+[voice grig-15]
+90% sure this year. 
+
+[CF Xbox Rune | set joyful]
+[voice host-20]
+Good to know, good to know.
+[C Grig Rune | hide]
+
+[CF Xbox set idle]
+[voice host-21]
+Okay, now this is probably gonna be a bit of a needy question, but I’m gonna say the entire thing, so I hope you don’t mind.
+[voice host-22]
+“I need to, NEED TO” - and they literally mean need to - “know if Gravity Falls characters will be connected to the Reverse Falls story and… 
+[voice host-22.5]
+…be part of it like an alternate reality meets main reality type of thing or if it's just gonna be reverse fall characters and their story.”
+[voice host-23]
+Um, I think what they’re trying to say is if the main universe and alternate universe are kinda, going together, in a way? If that makes sense. 
+
+[CF Grig set nervous show from outright]
+[voice grig-16]
+…Right. Oh dear.
+[voice grig-17]
+Uh, that’s a hard one to unpack.
+[CF Grig set idle]
+[voice grig-18]
+There… to avoid going into, like, spoiler territory and absolutes or anything like that… 
+[voice grig-19]
+We’ve changed up how we’re publishing the story a fair few times throughout development, because… 
+[voice grig-19.5]
+As you might imagine with a project like this, there are a lot of people who come and join, and a lot of people who leave. 
+[voice grig-20]
+We have all kinds of different starting points and plans that get shot up and then get trashed and oh, “this sounds like a good idea, maybe we try this” and so and so forth.
+[voice grig-21]
+Um, one of those early ideas was a massively branching story, which, that’s incredibly ambitious, and we started out with plans to follow in that direction. 
+[voice grig-22]
+Which means, multiple ends were planned, or at least… vaguely, in a nebulous cloud of ideas put down.
+[voice grig-23]
+Currently, we are following one of those plans and trying to get to at least one full storyline all the way through the game…
+[CF Grig set nervous]
+[voice grig-24]
+…and then we might add more later, if we have the will, at that distant point in the future.
+[CF Grig set idle]
+[voice grig-25]
+That current path… does not fully, uh, emit for a lot of Reverse Falls to Gravity Falls crossover-y stuff. 
+[voice grig-25.5]
+We’re probably just gonna be sticking with the Reverse Falls characters, and taking their story all the way through to the end. 
+[CF Grig set happy]
+[voice grig-26]
+ Then maybe later we’ll add more, maybe we’ll add some, like, bonus or hidden content, or meta stuff. We’ll see, honestly.
+[voice grig-27]
+But as it stands, they are separate, and I hope you get to enjoy the story.
+[C Grig hide]
+
+[music reverse_falls_theme 0.1]
+[CF Xbox set idle show]
+[voice host-24]
+Great, alright, let’s segway to the next question.
+[voice host-25]
+“How in the world did this go from a Mike Inel sketch to an actual project? I’d just like to know when you guys realized this stopped being a joke and became real.
+
+[C Xbox flip]
+[CF Aki set unclear show from outleft flip]
+[voice aki-03]
+I joined like later on so I really-
+[C Aki hide]
+
+[C Xbox flip]
+[CF Grig set embarrassed show from outright]
+[voice grig-28]
+Anyone here besides me here from the start?[C Xbox set joyful]
+[wait 0.5].[wait 0.5].[wait 0.5].
+
+[C Xbox flip]
+[CF Rune set nervous show]
+[voice rune-07]
+Me too, I only joined more recently.
+[C Rune hide]
+
+[C Xbox flip]
+[CF Grig set embarrassed]
+[voice grig-29]
+Right… Uh…
+[voice grig-30]
+I will try to get my thoughts together… 
+[voice grig-31]
+Can you guys share like, how y’all ended up joining while I do that?
+[C Grig hide]
+
+[C Xbox flip]
+[CF Rune set joyful show]
+[voice rune-08]
+Um, of course. 
+[CF Rune set happy]
+[voice rune-09]
+Um, I accidentally found the game, and I thought it was super cool, so when I joined the Discord and found out they needed some help, I asked if I could…
+[CF Rune set joyful]
+[voice rune-10]
+…and through processes, I got to be the director of the voice actors. 
+[C Rune hide]
+
+[CF Morgan set happy show]
+[voice morgan-05]
+There was some word of mouth through years, and it got an artist to ask me to join the team early on. 
+[voice morgan-06]
+I’m not sure if chapter 0 was already released, but I was just a musician. So I was another resource waiting for stuff to do. 
+[voice morgan-07]
+Long time later, I was asked if I’d like to do more as somebody who knows music.
+[C Morgan hide]
+
+[CF Aki set thinking show]
+[voice aki-04]
+I could say how I found the project, so sure.
+[voice aki-05]
+I had always kinda, like, known about this project from when the first trailer came out. I just didn’t realize that it- I thought it was still going forward, I didn’t know it needed more people. 
+[voice aki-06]
+So I joined the discord server, and I kinda just was like, “Oh, I wanna voice act in this project, I don’t really care who I get” and[C Aki set happy] I got Pacifica, so, that’s fun.
+[C Aki hide]
+
+[C Xbox flip]
+[CF Grig set happy show]
+[voice grig-32]
+Ethan, you wanna, add something? 
+[C Rune set joyful]
+[C Grig Rune | hide]
+
+[CF Ethan set cheeky show from outright]
+[voice ethan-03]
+For sure! 
+[CF Ethan set idle]
+[voice ethan-04]
+Um, in all honesty, I’m pretty new to the project. I just discovered it last year.
+[voice ethan-05]
+I heard about it before, seen the trailer videos, but that was a long time ago, so sort of back of the mind stuff. 
+[voice ethan-06]
+And then, I sorta stumbled upon- uh, there was a casting call for voice actors, and because of how interested I was in the project… 
+[voice ethan-06.5]
+…I just applied for everything I possibly could hoping to be involved in some capacity. And then I was really excited, and then grateful, to be able to do Dipper.
+[C Ethan hide]
+
+[CF Xbox set happy show]
+[voice host-26]
+I mean, yeah, that’s- that’s great.
+[voice host-27]
+I mean, I’m kinda in the same boat with you. I just stumbled across the casting call online, and just put in an audition, and here we are, right?
+[C Xbox hide]
+
+[CF Grig show from outright set idle]
+[voice grig-33]
+Everyone saw the trailer 5 years ago, I assume. 
+[CF Grig set nervous]
+[voice grig-34]
+Or at some point between five years ago and now.
+[CF Grig set idle]
+[voice grig-35]
+Back way when, Molochitis started poking around in the gravity falls, reverse falls, reddit threads, and basically asked, “Hey, are there people actually interested in turning this into a legit game?” 
+[voice grig-35.5]
+They came across Helvest, and some other people like, uh, Raether, and the Catacat. 
+[voice grig-36]
+Uh, and they basically began putting together a very quick demo. Um, I think the demo is still available up on Gamejolt?
+[voice grig-37]
+And the dialogue for that one was thrown together by Helvest, I believe, and uh, very quickly, they just put something out there to like, see okay, can we build something with this?
+[voice grig-38]
+From there, I joined to help with proofreading and like, doing editing, and making sure the English came across well and to translate it to 4 other languages. 
+[voice grig-39]
+Um, and then, we basically just, began cobbling things together. 
+[CF Grig set nervous]
+[voice grig-40]
+By some strange twist of fate, I ended up assigned the… writing director? On accident, I think?? Or temporarily?? And I’ve just been stuck with it sense?
+[voice grig-41]
+And we just sorta kept going? And the ball just kept rolling and rolling and rolling, and eventually we came here.
+[voice grig-42]
+It’s a little bit of an accident that happened in a discord server. That’s sorta how it came to be.
+[C all hide]
+
+[CF Xbox set idle show]
+[voice host-28]
+Well, sometimes the best things can be just a little unexpected.
+
+[music forest_day_2 0.1]
+[voice host-29]
+Well, okay, let’s move on to the next question here.
+[voice host-30]
+What - for the directors, “what is your favorite part of working on the game?”
+[wait 0.5].[wait 0.5].[wait 0.5].
+
+[C Xbox flip]
+[CF Rune set joyful show from outleft]
+[voice rune-11]
+I love how none of us wanna start, haha.
+[voice rune-12]
+Um-
+
+[CF Morgan set joyful show]
+[voice morgan-08]
+I always feel like I’m going to interrupt.
+
+[CF Rune set joyful]
+[voice rune-13]
+Me too.
+[CF Rune set happy]
+[voice rune-14]
+Um… my part, even though I’m like a director, it’s actually pretty small, but I really like seeing the voices end up being in the demo that we directors get to see, after everyone puts them together. 
+[voice rune-15]
+It’s really cool to hear them actually have a conversation instead of the individual lines, so… I think that’s my favorite part.
+[C Rune hide]
+
+[CF Morgan set idle show]
+[voice morgan-09]
+I think I definitely have to agree.
+[voice morgan-10]
+It’s not exactly… the position that I’m working from that I get to have the best part of it.
+[voice morgan-11]
+It’s seeing the communication… and the dedication to the art, where we want things to sound better. Can we change it this way, this way? 
+[voice morgan-11.5]
+Or really just add something we personally have ideas for on the team.
+[C Morgan hide]
+
+[C Xbox flip]
+[CF Grig set idle show]
+[voice grig-43]
+Um, for me, I guess it’s just getting to read and see and interact with everybody on the team. 
+[voice grig-44]
+I personally don’t do a lot of the writing, as I don’t feel particularly confident in it, so instead I get to… 
+[voice grig-44.5]
+Um, like help direct, answer questions, and function as a sort of information well.
+[voice grig-45]
+Um, what came before and seeing how it’s all grown into what it is now, and just seeing and remembering, and watching everybody around the- like, the team-
+[voice grig-45.5]
+Just putting so much effort into something that I’ve followed for so long - that’s probably the most exciting bit. 
+[C Grig hide]
+
+[CF Xbox set idle show]
+[voice host-31]
+Alright, next question.
+[voice host-32]
+“Which game engine will Reverse Falls be developed on?
+
+[CF Grig set nervous show]
+[voice grig-46]
+Oof. 
+[voice grig-47]
+Uh, we don't have Helvest here; that’s a hard one to answer. 
+[C Xbox flip]
+[CF Rune set joyful show]
+[voice rune-16]
+Yeah.
+
+[CF Xbox set idle]
+[voice host-33]
+Oh…
+
+[CF Morgan set joyful show]
+[voice morgan-12]
+Where’s my coding director when I need him?
+[C Morgan hide]
+[C Grig show from outleft set joyful]
+
+[CF Grig set happy]
+[voice grig-48]
+Yeah, uh… I’m pretty sure currently we’re working on it being browser-based?
+[voice grig-49]
+Um, so basically anything that can have a web browser will let you play the game. 
+[voice grig-50]
+I think we were originally poking around in Unity? But uh, development is insanely hard and slow, especially when it’s a volunteer project and everybody is busy with their own lives.
+[voice grig-51]
+So we’re trying to like, release smaller bits, and then maybe eventually we’ll cobble it together into a larger thing to release. 
+[C Grig hide]
+
+[CF Xbox set idle show]
+[voice host-34]
+Alright, that makes sense - okay.
+[voice host-35]
+“Will Reverse Falls have a unique branch of endings dependent on our choices? If so, does this mean there will be good or bad endings, or will it all end in the same scenario?”
+
+[CF Rune set joyful show]
+[voice rune-17]
+That seems to be a lot of questions for the writing director, haha. 
+[C Rune hide]
+
+[CF Grig set nervous show]
+[voice grig-52]
+Yaay.
+
+[CF Xbox set joyful show]
+[voice host-36]
+I-I don’t- this is not on me, I promise you-
+[voice host-37]
+I-these feel like they’re just directed to you.[C Grig set joyful]
+
+[CF Morgan set joyful show]
+[voice morgan-13]
+Fortunately, some of these have come up before.
+
+[CF Grig set nervous]
+[voice grig-53]
+Yep. 
+
+[CF Morgan set happy]
+[voice morgan-14]
+We mentioned it a little bit.
+[C Morgan hide]
+
+[CF Grig set nervous]
+[voice grig-54]
+Uh, as I mentioned before, we originally planned for a lovely, large super branching… thing.
+[voice grig-55]
+But… as it stands, since development time is so slow and we really want to get something out for you guys… 
+[voice grig-55.5]
+We’ve tried to consolidate it into one single branch that just heads all the way through.
+[CF Grig set idle]
+[voice grig-56]
+In the writing team, we’re making little bits- like tiny little notes for - like here’s a hook for a divergent path, we have a tree planned out…
+[voice grig-57]
+There’s more stuff, but I don’t know if we’ll ever get around to it.
+[voice grig-58]
+We might do it when we- release full chapters or the entire thing, but currently nope, we’ll have one nice-
+[voice grig-59]
+There will be slight divergences depending on what you do but they'll be contained inside the chapter, although there are some ideas about how we might have things carry over. 
+[voice grig-60]
+We’ll see if we manage to get more branching stuff in, but as it stands… 
+[voice grig-60.5]
+We’ll try to get it to you as a linear narrative as a reasonable while still having choice impacts in some narrative moments.
+[CF Grig set nervous]
+[voice grig-61]
+Bleh, sorry, I’m very verbose. 
+[C Morgan hide]
+
+[CF Xbox set happy show]
+[voice host-38]
+Yeah, no worries, I mean like you’ve got a lot of questions down your belt right now so…
+
+[CF Grig set embarrassed]
+[voice grig-62]
+Eh…
+[C Grig hide]
+
+[music forest_day_1 0.1]
+[CF Xbox set idle]
+[voice host-39]
+Alright, this will be the final question for the directors, we’ll just need to move on to the VAs real soon.
+[voice host-40]
+This will be a bit of a lengthy one, right now. This is like a bit of a sing of appraisal right here for the person who put this question in. 
+[voice host-41]
+“So excited about this being a thing! I got a lot of questions-”
+[voice host-42]
+“(I am very excited for this and/or this Q&A! Don't expect you to answer them all or even at all; just asking them, because I am excited for this game- 
+[voice host-42.5]
+-and if any of the questions do get answered that would be awesome! Also excited to see other people's questions and this video in general!), so I am going to get to asking!”
+[voice host-43]
+“To the Giddy Fresh Team, I just wanted to ask about your general progress on the visual novel, next chapter(s), and/or asset gathering?”  
+[voice host-44]
+“I also wanted to ask the Giddy Fresh Team (only if this question isn't spoilers though) how they go about twisting the Gravity Falls characters as their now Reverse selves?”
+[CF Xbox set happy]
+[voice host-45]
+Bit of a lengthy one right there!
+[CF Xbox set joyful]
+[voice host-46]
+I think this is also directed to the writing director again[C Rune show set joyful], yikes! 
+[C Xbox hide]
+
+[CF Grig set idle show]
+[voice grig-63]
+Well, actually there is some stuff there for voice actors and music stuff cause you guys do a bit of the interpreting of what the characters are like.
+
+[CF Morgan set joyful show]
+[voice morgan-15]
+And we do need assets. 
+
+[CF Grig set nervous]
+[voice grig-64]
+Yeah, we do need so many assets.
+
+[CF Rune set joyful]
+[voice rune-18]
+If you’re willing to volunteer, please do!
+
+[CF Grig set joyful]
+[voice grig-65]
+Haha… I think one of the major hangups right now is just art - it is a visual novel, so. And coders. Good god, transcoding, so slow.
+[voice grig-66]
+As for like, progress with chapters and stuff, I did mention that we’re like on chapter 3. Out of ten. Of the main planned line. Eh.[C Rune set joyful]
+[voice grig-67]
+We have a lot of stuff written, um. I think Helvest calculated that we have enough stuff to publish, what is it, every two weeks for an entire year? Uh…
+[voice grig-68]
+Something like that.
+
+[CF Rune set happy]
+[voice rune-19]
+If we’re all very productive, yes. 
+
+[CF Grig set joyful]
+[voice grig-69]
+If we’re all magically very productive and suddenly have all of the assets available and the transcoding is done like that.
+
+[CF Morgan set happy]
+[voice morgan-16]
+And we all have the free time to do all of these things.[C Grig set joyful][C Rune set joyful]
+[C Grig hide]
+
+[CF Xbox set joyful show]
+[voice host-47]
+Ohh, yeah.
+[C Xbox hide]
+
+[CF Morgan set happy]
+[voice morgan-17]
+Fortunately, in sound design it’s a little bit like catching feathers on one side, but unfortunately the other side is bowling balls.
+[voice morgan-18]
+When we have sound effects, those are things, as we get the idea, find a vast library of so many different similar sounds, and you can take your pick- 
+[voice morgan-18.5]
+Which can be a little time consuming if you’re into it.
+[voice morgan-19]
+And then on the other side, creating entire songs from thin air, is something going back and forth between musicians, and really having the inspiration for it till the assets come along.
+[C Morgan hide]
+
+[CF Rune set happy show]
+[voice rune-20]
+Um, with the voice acting, most of the main characters have been cast, of course, but we have so many side characters that only have a few lines each.
+[voice rune-21]
+So even though we do have a lot of people who have auditioned, I would love for more people to join so that we have a very large range of voices to use.
+[voice rune-22]
+That’d be very nice.
+
+[CF Grig set idle show from outleft]
+[voice grig-70]
+Mm. 
+[voice grig-71]
+As for the whole of twisting Gravity Falls characters into Reverse Falls characters…
+[voice grig-72]
+We look a lot at the existing Reverse Falls community, and then like, pick and choose, “oh hey this bit is interesting” or “oh, this thing looks cool.” 
+[voice grig-73]
+And then just try and make a character that fits the narrative we’re trying to tell, and then go from there.
+
+[CF Rune set happy]
+[voice rune-23]
+Yeah… and-
+[voice rune-24]
+I’m usually the one who has to interpret what the writers send for the characters, including the voice actors themselves.
+[voice rune-25]
+So… it- it’s usually just like, the writers make a really good point to show how they might act or sound, so I just sort of- add a little bit more details about where there might be a pause…
+[voice rune-26]
+Or have them be a bit more happy than usual, if it comes to Pacifica - she’s a very bubbly person - and then with like, Gideon, we have him be sort of more depressed.
+[C all hide]
+
+[music pacifica_theme 0.1]
+[CF Xbox set idle show]
+[voice host-48]
+Well, thank you directors for answering the questions I have given you.
+[voice host-49]
+Now, let’s move on to the VAs…
+[voice host-50]
+For Pacifica: “You are new to town, what do you think of it and its citizens so far? How do you think the town is threating you guys so far?”
+[CF Xbox set unclear]
+[voice host-51]
+…Am I reading that correctly?… Yes, I am.
+
+[C Xbox flip]
+[CF Aki set thinking show from outright flip]
+[voice aki-07]
+Um… hm.
+[voice aki-08]
+Um, I believe Gideon is more new to the town then-
+[CF Aki set unclear]
+[voice aki-09]
+Do you want me to answer as Pacifica? I’ll just answer as Pacifica.
+[CF Aki set happy]
+[voice aki-10]
+I think Gideon’s more new to the town than I am, cause I do show him around and stuff, but um, I really like the town, honestly. 
+[CF Aki set critical]
+[voice aki-11]
+Just some of the people aren’t great.
+
+[C Aki set happy]
+[CF Xbox set idle]
+[voice host-52]
+Alright…
+[voice host-53]
+And for… Dipper: What do you think of the new people in town? Also, how’s your relationship with your sister Mabel?
+
+[C Xbox set idle]
+[CF Ethan set cheeky show from outright]
+[voice ethan-07]
+Well… I am a huge fan of new people coming to town; more new friends, y’know, brightens things up a little bit.
+[voice ethan-08]
+ But… the relationship of my sister and I, I would say we’re quite close as most siblings are, but I’m not one to show and tell too much - just enough.
+
+[CF Xbox set unclear]
+[voice host-54]
+Well, that’s… great. 
+[CF Xbox set idle]
+[voice host-55]
+Now for Pacifica, “Who is your favorite person in Reverse Falls so far?”
+
+[CF Aki set thinking]
+[voice aki-12]
+Umm… well, I don’t have a lot of friends in Reverse Falls, so I’d probably say Gideon.
+
+[CF Xbox set idle]
+[voice host-56]
+Okay…
+[voice host-57]
+Dipper, now if you don’t mind, I will call you Mason for this one bit.
+[voice host-58]
+What do you think of Will Cipher?
+
+[CF Ethan set cheeky]
+[voice ethan-09]
+Well… I do have lots of-
+[voice ethan-10]
+I-I don’t want to boast or anything, I consider myself a bit humble, but…
+[voice ethan-11]
+It is a friend of mine… We like to play a lot of, like my sister and I love to play a lot of games - sorry, I don’t want to say at, but with it, y’know.
+[voice ethan-12]
+Sometimes friends tease a little bit, so it’s all in good fun.
+
+[CF Xbox set unclear]
+[voice host-59]
+That’s understandable…
+[CF Xbox set idle]
+[voice host-60]
+Now, this is gonna be a bit of an insult to you Dipper… This one person called you “nerd.” Not even “a nerd.” Just nerd. 
+
+[CF Ethan set angry]
+[voice ethan-13]
+Oh…
+[voice ethan-14]
+I’m - to be quite honest, I’m appalled that someone would call me this, or even insult me.
+[voice ethan-15]
+I would hope to have the decency to be nice to everyone, but sure, I might be[CF Ethan set cheeky]…a bit smart, cunning, nice with my words,[CF Ethan set angry]but definitely not one of those nerds, that’s for sure.
+
+[CF Xbox set idle]
+[voice host-61]
+Beautifully put.
+[voice host-62]
+Pacifica, is there a place you’d really like to visit?
+
+[CF Aki set thinking]
+[voice aki-13]
+Mm… 
+[CF Aki set happy]
+[voice aki-14]
+I don’t know a specific place, but if I could go anywhere, it’s a place with a lot of adventure.
+[CF Aki set thinking]
+[voice aki-15]
+Ummm… I don’t know.
+[voice aki-16]
+It’s a hard question… lemme think.
+[CF Aki set idle]
+[voice aki-17]
+Yeah, I don’t know, that’s a hard question, sorry.
+
+[CF Xbox set idle]
+[voice host-63]
+There’s no worries.
+[voice host-64]
+So Dipper… so you need to answer this question for your sister, here.
+[voice host-65]
+“Do you know how long Mabel has known Candy?”
+
+[CF Ethan set cheeky]
+[voice ethan-16]
+Now… that is a very good question.
+[voice ethan-17]
+Honestly, as far back as I could remember, but who knows… As I’ve said, my sister does have a decent amount of friends, so I would not want to be rude, but I might be mixing people up.
+[voice ethan-18]
+But… if so, I do apologize. 
+
+[CF Xbox set idle]
+[voice host-66]
+Now, Pacifica, if you don’t mind answering this question for Gideon…
+[voice host-67]
+Do you know his relationship with Mabel?
+
+[CF Aki set thinking]
+[voice aki-18]
+Mm, not really. 
+[voice aki-19]
+I believe they met once, but I’m not actually sure what their relationship is…
+[CF Aki set disappointed]
+[voice aki-20]
+…sorry.
+[CF Aki set idle]
+
+[CF Xbox set idle]
+[voice host-68]
+No worries. Dipper, answer this question for Mabel.
+[voice host-69]
+Do you know - “Mabel, who’s the person you love most besides Dipper and your family?”
+
+[CF Ethan set idle]
+[voice ethan-19]
+Oooh, that is a- that’s quite tricky to be honest, because, y’know,[CF Ethan set cheeky] siblings. Y’know, we have such a great bond. 
+[voice ethan-20]
+I couldn’t imagine her liking anyone more than me, or just, anyone else in town. 
+[CF Ethan set idle]
+[voice ethan-21]
+So… that’s a hard one - I might have to ask her that.
+
+[CF Xbox set idle]
+[voice host-70]
+I mean, yeah, that makes sense.
+[voice host-71]
+Pacifica, what is your favorite videogame?
+
+[CF Aki set happy]
+[voice aki-21]
+I really like open-world games that you can do a lot of adventuring in, and a lot of exploration. 
+[voice aki-22]
+I don’t know if I have a favorite… but yeah, just a lot of exploration. Heh, open world maps, lots of fun stuff.
+
+[CF Xbox set idle]
+[voice host-72]
+Yeah, that’s great.
+[voice host-73]
+Now… we will close off with one more question.
+[voice host-74]
+Dipper, how is your relationship with your uncle Stanford?
+
+[CF Ethan set idle]
+[wait 0.5].[wait 0.5].[wait 0.5].
+[voice ethan-22]
+Now, if I think about my family for a second, I know I’m quite close with my sister obviously.[CF Ethan set cheeky]I’ve mentioned her a lot, which- 
+[voice ethan-22.5]
+I would’ve liked to mention myself a little bit more, but you know, I am gracious.
+[CF Ethan set idle]
+[voice ethan-23]
+Ha… y’know, I would never want to get into too much family specifics. I would never want to air out any dirty laundry between family members or anything, so…
+[CF Ethan set cheeky]
+[voice ethan-24]
+Maybe that’s just for everyone to see. 
+[C Aki Ethan | hide outright]
+
+[CF Xbox set idle show center]
+[voice host-75]
+Right…
+
+[music diner_theme 0.1]
+[voice host-76]
+Now, let’s conclude this questions and answers video.
+[voice host-77]
+Uh, directors - so I’ve heard there’s a little bit of a thing called an ARG you’re working on…
+
+[CF Grig set nervous show from outright]
+[voice grig-74]
+Oh god…
+[voice grig-75]
+Uh… the ARG exists. You guys still haven’t solved it…
+[voice grig-76]
+I’m honestly surprised none of y’all bothered to go looking in places other than the ones we explicitly pointed out to you.
+[voice grig-77]
+It’s an alternate reality event… so, y’know, there is material out there. It’s linked to us. You just have to go find out.
+
+[CF Xbox set happy]
+[voice host-78]
+Well, I can awfully say that… the directors are honestly disappointed in all of you. Try-try a little bit better. Maybe you’ll find the answer you need. 
+
+[CF Grig set joyful]
+[voice grig-78]
+Why-why ever would you say that?[C Rune set joyful]
+[C Rune set happy]
+
+[CF Xbox set happy]
+[voice host-79]
+Oh… well…
+[C Xbox hide]
+
+[CF Morgan set cheeky show]
+[voice morgan-20]
+It’s okay player, you can do it!
+
+[CF Rune set joyful show from outright]
+[voice rune-27]
+We believe in you! Just look a little deeper!
+
+[CF Grig set happy]
+[voice grig-79]
+I didn’t spend months planning this thing for nobody to find it!
+[C Rune Morgan | hide]
+
+[CF Xbox set happy show from outleft]
+[voice host-80]
+Before we conclude this entire video, give them one hint, at least.
+
+[CF Grig set happy]
+[voice grig-80]
+Uhh…
+
+[CF Rune set happy show from outright]
+[voice rune-28]
+A little scrap of something.
+[C Rune hide]
+
+[CF Grig set happy]
+[voice grig-81]
+The tiniest little scrap - I suppose I could do that.
+[CF Grig set idle]
+[voice grig-82]
+Uh… You’ve all seen the picture, you’ve all gone to the discord.
+[voice grig-83]
+There are more places that are tied to us - places where we give you information, we give you videos. We give you little nods and hints, and tits and tats. 
+[voice grig-84]
+Why are you looking in one of them?
+[CF Grig set happy]
+[voice grig-85]
+That good enough?
+[C all hide]
+
+[CF Xbox set happy show center]
+[voice host-81]
+Yes, that’s… good enough for the player.
+[CF Xbox set idle]
+[voice host-82]
+But unfortunately, this is where we must conclude. 
+[voice host-83]
+Now everyone please, say your goodbyes as we sign off.
+
+[C Xbox flip]
+[CF Morgan set happy show from outleft]
+[voice morgan-21]
+Well it’s been fun. Join again sometime soon!
+[C Morgan hide]
+
+[CF Rune set happy show from outleft]
+[voice rune-29]
+Can’t wait to hear all your guys’ voices! See you next time.
+[C Rune hide]
+
+[CF Aki set joyful show from outleft flip]
+[voice aki-23]
+Mm, it’s been really fun! Hope I did a good job. Thanks for watching!
+[C Aki hide]
+
+[CF Ethan set cheeky show from outleft flip]
+[voice ethan-25]
+I’ll say, I had a blast. I hope anyone watching this had a great time too! Thank you guys so much.
+[C Ethan hide]
+
+[CF Grig set happy show from outleft]
+[voice grig-86]
+Toodles all. Please do send in more questions, applications, and whatever else you might have, or desire, or want to do. Meh, yeah, we’re listening.
+[C Grig hide]
+
+[CF Xbox set happy]
+[voice host-84]
+Now, thank you to everyone for watching. This was the Xbox Fridge signing out. 
+[CF Xbox set idle]
+[voice host-85]
+Stay tuned for more updates for the game…
+[CF Xbox set joyful]
+[voice host-86]
+…and finish the ARG please, they have been working too hard on it, alright.
+[CF Xbox set happy]
+[voice host-87]
+Goodbye everyone.
+[C all hide]
+
+[CF Grig set joyful show]
+[voice grig-87]
+We need artists!
+
+[curtain]
+//[Editor wait 1.5]
+//[Editor Quit]
+[goto default]
+//[next Others/QA]
+[end]

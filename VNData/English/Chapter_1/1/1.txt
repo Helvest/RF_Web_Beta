@@ -1,0 +1,102 @@
+//Chapter 1 - Scene 1 - Gideon House
+
+[C_mat preset morning]
+[music gideon_theme]
+[bg gideon_house_morning]
+[trans hide]
+[F narrator]
+Pacifica arrives at Gideon’s house. She knocks on the door.[Sound door_knock]
+
+[CF Pacifica set happy show from outright flip left]
+Gideon! It’s Pacifica! The girl you met yesterday, remember? I got your address from sooS!
+
+[F narrator]
+[Sound right door_open]
+Abruptly, the door swings open with a distressed Gideon standing in the doorway.
+
+//Have gideon slide in
+[CF Gideon set scared show from outleft]//(worried)
+Pacifica! <size=120%>Shhh!
+
+[F pacifica]
+Oh, hey Gideon! What’s up? You answered the door fast! Usually it takes me a whole minute to get to it… 
+
+[F gideon]//(worried)
+Pacifica, please just go before-
+
+//Bud doesn’t appear on screen.
+
+[F bud]
+BOY!!!
+WHO IS AT THE DOOR THIS EARLY IN THE MORNING? IT BETTER NOT BE THE POLICE!
+
+[CF pacifica set perplexed]//(curious)
+Gideon, is that your dad? 
+
+[F gideon]//(scared)
+Yes, but no need to-
+
+[CF pacifica set confident]//(shouting happily)
+HELLO SIR, I AM JUST PICKING GIDEON UP FOR THE DAY!
+
+[F bud]
+IS THAT A GIRL’S VOICE?! 
+
+[CF gideon set anxious]//(scared)
+On second thought, I’ll come with you as long as it’s far, far away and we don’t come back for at least a couple hours.
+
+[CF pacifica set happy]//(smiling)
+Sure! I’ll take you someplace that’ll blow your mind… 
+
+[CF gideon set idle]
+Yeah, whatever. Let’s just get out of here first.
+
+//The two start moving away and the scenery changes into the town. 
+
+[C all hide outright]
+[curtain]
+[music pacifica_theme]
+[bg town_street_morning]
+[C pacifica Gideon | show from outleft]
+[CF pacifica set perplexed]
+[trans hide]
+Sooo… Your dad seemed like a really nice guy! Why did we have to leave so fast?
+
+[CF gideon set anxious]//(nervous)
+Ah… He just gets a little weird about… surprise guests. You should call before you come over next time.
+
+[CF pacifica set disappointed]//(concerned)
+Oh… 
+
+[CF gideon set embarassed]//(blush)
+Ahem… So where are we going? 
+Please don’t tell me you just found some rare bird’s nest or something weird… 
+
+[CF pacifica set happy]
+Pfft! Who do you think I am? No, no. I have something far better. 
+
+[CF gideon set anxious]
+I’m getting worried… 
+
+[CF pacifica set happy]
+Did you eat breakfast? 
+
+[CF gideon set confused]
+Of course not! It’s really early!
+
+[CF pacifica set perplexed]
+It’s actually only 10 am… But your answer was perfect! 
+
+[CF gideon set confused]//(shocked)
+Wait a minute… Are you taking me out for breakfast? 
+
+[CF pacifica set confident]
+Hehe, yep! And here we are!
+By the way, did you know that this place has the most amazing pancakes...?
+Melting chocolate chip bliss with a fresh drop of whipped cream and juicy cherry on top...
+
+[C all hide outright]
+[wait 1]
+//[autonext]
+
+[curtain][next Chapter_1/beta_end][end]

@@ -1,0 +1,643 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "Char: gideon | fileName: default_gideon_001",
+                    "note": "",
+                    "text": "(confused)You have got to be kidding me. I made my dad angry, just for this?!",
+                    "localization": [
+                        "You have got to be kidding me. I made my dad angry, just for this?!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_002",
+                    "note": "",
+                    "text": "(confused)He's going to murder me when I get home!",
+                    "localization": [
+                        "He's going to murder me when I get home!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_001",
+                    "note": "",
+                    "text": "(cheeky)Not just any food, my dear Gideon. This is top quality breakfast, one of a kind in Reverse Falls!",
+                    "localization": [
+                        "Not just any food, my dear Gideon. This is top quality breakfast, one of a kind in Reverse Falls!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_003",
+                    "note": "",
+                    "text": "(skeptical)Considering the size of this town it mustn't be very hard to find.",
+                    "localization": [
+                        "Considering the size of this town it mustn't be very hard to find."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_002",
+                    "note": "",
+                    "text": "(unclear)Don’t be grumpy… Take a look at the menu!",
+                    "localization": [
+                        "Don’t be grumpy… Take a look at the menu!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_004",
+                    "note": "",
+                    "text": "(shocked)If you think a menu is going to- (confused) Hey, they have cake flavored pizza!",
+                    "localization": [
+                        "If you think a menu is going to-",
+                        " Hey, they have cake flavored pizza!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_003",
+                    "note": "",
+                    "text": "(joyful)Hehe, told you so! Order anything you’d like, it’s on me.",
+                    "localization": [
+                        "Hehe, told you so! Order anything you’d like, it’s on me."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_005",
+                    "note": "",
+                    "text": "(perplex)Really…?",
+                    "localization": [
+                        "Really…?"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_001",
+                    "note": "",
+                    "text": "The two enter at the diner and take a seat by the counter.",
+                    "localization": [
+                        "The two enter at the diner and take a seat by the counter."
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_001",
+                    "note": "",
+                    "text": "(joyful)“Babbling too fast to understand”",
+                    "localization": [
+                        "“Babbling too fast to understand”"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_006",
+                    "note": "",
+                    "text": "(confused)What?",
+                    "localization": [
+                        "What?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_004",
+                    "note": "",
+                    "text": "(joyful)Gideon, let me present to you the waitress of the Under the Rock,  “Active” Livia. Active Livia, here is my new friend, Gideon Pines.",
+                    "localization": [
+                        "Gideon, let me present to you the waitress of the Under the Rock,  “Active” Livia. Active Livia, here is my new friend, Gideon Pines."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_007",
+                    "note": "",
+                    "text": "(confused)Nice to meet… you?",
+                    "localization": [
+                        "Nice to meet… you?"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_002",
+                    "note": "",
+                    "text": "(happy)“More babbling too fast to understand”",
+                    "localization": [
+                        "“More babbling too fast to understand”"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_008",
+                    "note": "",
+                    "text": "(confused)<size=80%>Why is she talking so fast?",
+                    "localization": [
+                        "<size=80%>Why is she talking so fast?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_005",
+                    "note": "",
+                    "text": "(thinking)She REALLY likes espresso, so much so that she even invented a way of duplicating her amount of caffeíne per cup.",
+                    "localization": [
+                        "She REALLY likes espresso, so much so that she even invented a way of duplicating her amount of caffeíne per cup."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_009",
+                    "note": "",
+                    "text": "(shocked)How??",
+                    "localization": [
+                        "How??"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_003",
+                    "note": "",
+                    "text": "(happy)“Even more babbling too fast to understand”",
+                    "localization": [
+                        "“Even more babbling too fast to understand”"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_010",
+                    "note": "",
+                    "text": "(annoyed)And isn’t there a way of making her calm down so I can understand what she’s saying?",
+                    "localization": [
+                        "And isn’t there a way of making her calm down so I can understand what she’s saying?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_006",
+                    "note": "",
+                    "text": "(happy)Yep, we just have to say the magic words.",
+                    "localization": [
+                        "Yep, we just have to say the magic words."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_007",
+                    "note": "",
+                    "text": "(joyful)Hey, Livia!",
+                    "localization": [
+                        "Hey, Livia!"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_004",
+                    "note": "",
+                    "text": "(joyful)Yeah?",
+                    "localization": [
+                        "Yeah?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_008",
+                    "note": "",
+                    "text": "(joyful)Can I have a “Sleeping Beauty”?",
+                    "localization": [
+                        "Can I have a “Sleeping Beauty”?"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_005",
+                    "note": "",
+                    "text": "(joyful)“Babbling too fast” Sure!",
+                    "localization": [
+                        "“Babbling too fast” Sure!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_011",
+                    "note": "",
+                    "text": "(idle)What’s a “Sleeping Beauty?”",
+                    "localization": [
+                        "What’s a “Sleeping Beauty?”"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_009",
+                    "note": "",
+                    "text": "(happy)It’s a triple ​​chamomile tea with a touch of sleeping pills.",
+                    "localization": [
+                        "It’s a triple ​​chamomile tea with a touch of sleeping pills."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_012",
+                    "note": "",
+                    "text": "(idle)Whoa.",
+                    "localization": [
+                        "Whoa."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_010",
+                    "note": "",
+                    "text": "(cheeky)Yeah, I plan to mix it with her “Death Wish” coffee.",
+                    "localization": [
+                        "Yeah, I plan to mix it with her “Death Wish” coffee."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_013",
+                    "note": "",
+                    "text": "(unclear)Death wish coffee?",
+                    "localization": [
+                        "Death wish coffee?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_011",
+                    "note": "",
+                    "text": "(idle)Oh! Shh! Here she comes!",
+                    "localization": [
+                        "Oh! Shh! Here she comes!"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_002",
+                    "note": "",
+                    "text": "Livia comes in with a large cup of tea that she places on the table. In her other hand rests her own coffee, which she takes a sip of as she places Pacifica’s order down.",
+                    "localization": [
+                        "Livia comes in with a large cup of tea that she places on the table. In her other hand rests her own coffee, which she takes a sip of as she places Pacifica’s order down."
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_006",
+                    "note": "",
+                    "text": "(joyful)“Babbling too fast to understand”",
+                    "localization": [
+                        "“Babbling too fast to understand”"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_012",
+                    "note": "",
+                    "text": "(happy)Oh, hey! Look at that! What’s that behind you?",
+                    "localization": [
+                        "Oh, hey! Look at that! What’s that behind you?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_013",
+                    "note": "",
+                    "text": "(happy)Huh? What?",
+                    "localization": [
+                        "Huh? What?"
+                    ]
+                },
+                {
+                    "info": "Char: livia, idle | fileName: default_livia_idle_001",
+                    "note": "",
+                    "text": "(joyful, )Where?",
+                    "localization": [
+                        "Where?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_014",
+                    "note": "",
+                    "text": "(happy)Yeah, it’s right there, can’t you see it?",
+                    "localization": [
+                        "Yeah, it’s right there, can’t you see it?"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_003",
+                    "note": "",
+                    "text": "Pacifica quickly pours the tea into Livia’s mug hurriedly, right before she turns back around.",
+                    "localization": [
+                        "Pacifica quickly pours the tea into Livia’s mug hurriedly, right before she turns back around."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_015",
+                    "note": "",
+                    "text": "(happy)Ohhh, It’s gone! I’m so sorry that you couldn't see it!",
+                    "localization": [
+                        "Ohhh, It’s gone! I’m so sorry that you couldn't see it!"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_007",
+                    "note": "",
+                    "text": "(joyful)”babbles a bit more”",
+                    "localization": [
+                        "”babbles a bit more”"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_004",
+                    "note": "",
+                    "text": "Livia proceeds to take another sip of her coffee.",
+                    "localization": [
+                        "Livia proceeds to take another sip of her coffee."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_014",
+                    "note": "",
+                    "text": "(perplex)How long does it take to have an effect?",
+                    "localization": [
+                        "How long does it take to have an effect?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_016",
+                    "note": "",
+                    "text": "(idle)<size=80%>3… 2… 1…",
+                    "localization": [
+                        "<size=80%>3… 2… 1…"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_008",
+                    "note": "",
+                    "text": "(blank)Whoa… Is it just me or is the world moving so much faster now?",
+                    "localization": [
+                        "Whoa… Is it just me or is the world moving so much faster now?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_017",
+                    "note": "",
+                    "text": "(happy)Nah, it’s just you. So what were you saying before the thing showed up?",
+                    "localization": [
+                        "Nah, it’s just you. So what were you saying before the thing showed up?"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_009",
+                    "note": "",
+                    "text": "(blank)The what?",
+                    "localization": [
+                        "The what?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_018",
+                    "note": "",
+                    "text": "(happy)The thing, the thing that made you turn around?",
+                    "localization": [
+                        "The thing, the thing that made you turn around?"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_010",
+                    "note": "",
+                    "text": "(happy)Oh right, I was saying that I really shouldn’t legally sell you the “Sleeping Beauty”, due to its components.",
+                    "localization": [
+                        "Oh right, I was saying that I really shouldn’t legally sell you the “Sleeping Beauty”, due to its components."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_015",
+                    "note": "",
+                    "text": "(idle)So why did you sell it anyway?",
+                    "localization": [
+                        "So why did you sell it anyway?"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_011",
+                    "note": "",
+                    "text": "(happy)Oh, because I knew that Pacifica wouldn’t tell anyone, I trust her, and I would do the same for her if she needed me to keep a secret.",
+                    "localization": [
+                        "Oh, because I knew that Pacifica wouldn’t tell anyone, I trust her, and I would do the same for her if she needed me to keep a secret."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_019",
+                    "note": "",
+                    "text": "(confident)Awww!",
+                    "localization": [
+                        "Awww!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_016",
+                    "note": "",
+                    "text": "(shocked)<size=80%>Oh, god, that’s so illegal.",
+                    "localization": [
+                        "<size=80%>Oh, god, that’s so illegal."
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_012",
+                    "note": "",
+                    "text": "(joyful)Alright, do you two want to order anything else?",
+                    "localization": [
+                        "Alright, do you two want to order anything else?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_017",
+                    "note": "",
+                    "text": "(anxious)Uhhh… The cake flavored pizza please. Extra um… sprinkles?",
+                    "localization": [
+                        "Uhhh… The cake flavored pizza please. Extra um… sprinkles?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_020",
+                    "note": "",
+                    "text": "(happy)And the usual pancakes for me!",
+                    "localization": [
+                        "And the usual pancakes for me!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_021",
+                    "note": "",
+                    "text": "(happy)Lots of whipped cream please!",
+                    "localization": [
+                        "Lots of whipped cream please!"
+                    ]
+                },
+                {
+                    "info": "Char: livia | fileName: default_livia_013",
+                    "note": "",
+                    "text": "(joyful)Coming right up.",
+                    "localization": [
+                        "Coming right up."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_018",
+                    "note": "",
+                    "text": "(idle)You two seem to know each other very well.",
+                    "localization": [
+                        "You two seem to know each other very well."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_022",
+                    "note": "",
+                    "text": "(happy)Of course we do! She’s the nearest thing I have to a bestie.",
+                    "localization": [
+                        "Of course we do! She’s the nearest thing I have to a bestie."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_019",
+                    "note": "",
+                    "text": "(thinking)I see . . .",
+                    "localization": [
+                        "I see . . ."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_020",
+                    "note": "",
+                    "text": "(thinking)Are you sure about paying for our meal?",
+                    "localization": [
+                        "Are you sure about paying for our meal?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_023",
+                    "note": "",
+                    "text": "(joyful)Yeah, it’d be my pleasure! To commemorate our newfound friendship and all.",
+                    "localization": [
+                        "Yeah, it’d be my pleasure! To commemorate our newfound friendship and all."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_021",
+                    "note": "",
+                    "text": "(happy)Wow that’s… that’s actually really kind of you. Thanks…",
+                    "localization": [
+                        "Wow that’s… that’s actually really kind of you. Thanks…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_024",
+                    "note": "",
+                    "text": "(happy)Don’t sweat it, I love making my friends happy! I haven’t been making many around here, so it’s honestly nice.",
+                    "localization": [
+                        "Don’t sweat it, I love making my friends happy! I haven’t been making many around here, so it’s honestly nice."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_025",
+                    "note": "",
+                    "text": "(happy)Plus, I still need your help hunting down that thing from yesterday!",
+                    "localization": [
+                        "Plus, I still need your help hunting down that thing from yesterday!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_022",
+                    "note": "",
+                    "text": "(embarassed)Right, so… What should we do about that little blue dorito? Didn’t you want to capture him?",
+                    "localization": [
+                        "Right, so… What should we do about that little blue dorito? Didn’t you want to capture him?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_026",
+                    "note": "",
+                    "text": "(joyful)Yup, but I’m not really sure how to start just yet.. We should figure out a plan after we’ve eaten.",
+                    "localization": [
+                        "Yup, but I’m not really sure how to start just yet.. We should figure out a plan after we’ve eaten."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_027",
+                    "note": "",
+                    "text": "(joyful)After all, the best ideas come once you've eaten lots of sugar… Or something like that.",
+                    "localization": [
+                        "After all, ",
+                        "the best ideas come once you've eaten lots of sugar… Or something like that."
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_005",
+                    "note": "",
+                    "text": "There is a sudden commotion in the diner.",
+                    "localization": [
+                        "There is a sudden commotion in the diner."
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_001",
+                    "note": "",
+                    "text": "(angry)No!!!",
+                    "localization": [
+                        "No!!!"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_002",
+                    "note": "",
+                    "text": "(angry)That ascot was a gift! You can’t just replace it like that!",
+                    "localization": [
+                        "That ascot was a gift! You can’t just replace it like that!"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_003",
+                    "note": "",
+                    "text": "(annoyed)I can’t deal with you anymore…",
+                    "localization": [
+                        "I can’t deal with you anymore…"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_004",
+                    "note": "",
+                    "text": "(annoyed)We’re through!",
+                    "localization": [
+                        "We’re through!"
+                    ]
+                },
+                {
+                    "info": "Char: scot | fileName: default_scot_001",
+                    "note": "",
+                    "text": "(nervous)But… But mi Linda!",
+                    "localization": [
+                        "But… But mi Linda!"
+                    ]
+                },
+                {
+                    "info": "Char: scot | fileName: default_scot_002",
+                    "note": "",
+                    "text": "(nervous)It wasn’t my fault! Some weird monster destroyed it!",
+                    "localization": [
+                        "It wasn’t my fault! Some weird monster destroyed it!"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_005",
+                    "note": "",
+                    "text": "(furious)Who would actually believe that?!",
+                    "localization": [
+                        "Who would actually believe that?!"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_006",
+                    "note": "",
+                    "text": "(furious)You're such an ass, Scot!",
+                    "localization": [
+                        "You're such an ass, Scot!"
+                    ]
+                },
+                {
+                    "info": "Char: scot | fileName: default_scot_003",
+                    "note": "",
+                    "text": "(scared)Rosanna! NOOOOOOOOOOOOOO!!!",
+                    "localization": [
+                        "Rosanna! NOOOOOOOOOOOOOO!!!"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_007",
+                    "note": "",
+                    "text": "(annoyed)We’re through!",
+                    "localization": [
+                        "We’re through!"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_006",
+                    "note": "",
+                    "text": "The woman stands up and quickly leaves the dinner, a stifling silence left in her wake.",
+                    "localization": [
+                        "The woman stands up and quickly leaves the dinner, a stifling silence left in her wake."
+                    ]
+                }
+            ]
+        }
+    ]
+}

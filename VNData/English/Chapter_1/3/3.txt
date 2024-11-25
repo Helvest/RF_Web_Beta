@@ -1,0 +1,105 @@
+//Scene 3 - Still in the Diner
+
+[Music diner_theme]
+[BG diner_inside]
+[TRANS hide]
+
+[CF Gideon set unclear show from outright]//(awkward)
+[C Pacifica set cheeky show from outright flip]
+
+Yeesh… Awkward….
+ 
+[F Pacifica]
+Well, that was unexpected… But that’s another thing I love about this diner. Everyone has a different story to tell! There are so many unique people that come here, and it’s usually great if we want to gather information. Just listen around… 
+ 
+//Pacifica and Gideon will stay on screen, perhaps with a suddenly intrigued/interested expression.
+ 
+[CF Pacifica Gideon set perplexed]
+…
+
+[F Gideon]
+...
+
+[C hide all outright]
+ 
+[Incognito]
+By the way Tyler, did you see the weird electrical storm last night at the start of the pine forest?
+ 
+[CF show Tyler set perplexed from outleft]
+No, I was busy looking for my clothes actually. 
+ 
+[Incognito]
+Your… clothes? 
+ 
+[CF Tyler set frustrated]
+Yeah, don’t laugh, but I think someone stole a bunch of my clothes. I was drying them on the clothesline in my garden yesterday when they disappeared. Luckily, I never wash my cap, so that’s something they’re not going to get to that easily!
+ 
+[Incognito]
+Dude, that’s kind of disgusting…
+You think it might’ve been one of those hobos that people have been talking about lately? Apparently, we got a ton that suddenly moved into town. 
+ 
+[CF Tyler set thinking]//(puzzled)
+That is so weird… 
+ 
+[Incognito]
+Then again, we shouldn’t be too surprised.
+The Falls are full of strange occurrences. 
+ 
+[CF Tyler set sigh]
+Very true… 
+ 
+[CF Pacifica set happy show from outright]
+Mister Tyler! 
+ 
+[CF Gideon set surprised show from outright]//(shocked)
+Hey! What are you doing? 
+ 
+[F Pacifica]
+Could we investigate the place where your clothes were stolen? We’d like to help out. 
+ 
+[CF Tyler set perplexed]//(suspicious)
+Eh… My house is locked so you two can’t steal anything. Sure, whatever. I live on the third street after the laser tag building. 
+ 
+[CF Gideon set anxious]
+Wait a second! 
+ 
+[CF Pacifica set joyful]
+Thank you sir! 
+ 
+[CF Tyler set annoyed]
+Though if you mess anything up, I’ll get you… 
+ 
+[C Tyler hide outleft]
+
+
+[CF Gideon set confused]
+Wow, wow! Slow down there Pacifica! We haven’t even gotten our food yet. 
+ 
+[CF Pacifica set confident]//(excited)
+We’re going to investigate! Food is best served after hard work. We can come back later!
+ 
+[CF Gideon set angry]//(upset)
+You wake me up and tempt me with all that food and now you’re dragging me out before I can even have a bite?
+How could you?!
+ 
+[CF Pacifica set cheeky]
+Come on, it’ll be fun!
+Imagine how cool it will be once we uncover all of this town’s secrets, we might even find a lead on the Blue Dorito!
+
+[C Pacifica set thinking]
+Although I'm still unsure about what to do first…
+ 
+[CF Gideon set disappointed]
+Wait, I still haven't agreed to this!
+Let's talk about this over…
+[CF Gideon set thinking]
+…over food?
+ 
+[CF Pacifica set joyful]
+Nope! So which one do you think we should go to first?
+ 
+[F Gideon]//(shocked)
+Stop deciding things without me!
+
+[curtain]
+[autonext]

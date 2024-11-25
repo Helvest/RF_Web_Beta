@@ -1,0 +1,176 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "Char: scot | fileName: default_scot_001",
+                    "note": "",
+                    "text": "scot",
+                    "localization": [
+                        "scot"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_001",
+                    "note": "",
+                    "text": "rosanna",
+                    "localization": [
+                        "rosanna"
+                    ]
+                },
+                {
+                    "info": "Char: rosanna | fileName: default_rosanna_002",
+                    "note": "",
+                    "text": "-",
+                    "localization": [
+                        "-"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_001",
+                    "note": "",
+                    "text": "(joyful)Test normal",
+                    "localization": [
+                        "Test normal"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_002",
+                    "note": "",
+                    "text": "(joyful)Test morning",
+                    "localization": [
+                        "Test morning"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_003",
+                    "note": "",
+                    "text": "(joyful)Test day",
+                    "localization": [
+                        "Test day"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_004",
+                    "note": "",
+                    "text": "(joyful)Test evening",
+                    "localization": [
+                        "Test evening"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_005",
+                    "note": "",
+                    "text": "(joyful)Test night",
+                    "localization": [
+                        "Test night"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_006",
+                    "note": "",
+                    "text": "(joyful)Test dark",
+                    "localization": [
+                        "Test dark"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_007",
+                    "note": "",
+                    "text": "(joyful)repeat",
+                    "localization": [
+                        "repeat"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_001",
+                    "note": "",
+                    "text": "Now test the choices",
+                    "localization": [
+                        "Now test the choices"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "Texte du choix 1",
+                    "localization": [
+                        "Texte du choix 1"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "Texte du choix 2",
+                    "localization": [
+                        "Texte du choix 2"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "choix_1",
+            "dialogues": [
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "Vous avez choisi le premier choix.",
+                    "localization": [
+                        "Vous avez choisi le premier choix."
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "choix_2",
+            "dialogues": [
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "Vous avez choisi le deuxième choix.",
+                    "localization": [
+                        "Vous avez choisi le deuxième choix."
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "suite",
+            "dialogues": [
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "C'est la suite de l'histoire.",
+                    "localization": [
+                        "C'est la suite de l'histoire."
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "1",
+                    "localization": [
+                        "1"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "2",
+                    "localization": [
+                        "2"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "3",
+                    "localization": [
+                        "3"
+                    ]
+                }
+            ]
+        }
+    ]
+}

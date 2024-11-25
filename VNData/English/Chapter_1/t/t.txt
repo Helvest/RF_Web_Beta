@@ -1,0 +1,67 @@
+﻿[BG diner_inside]
+[TRANS hide]
+
+[CF scot show]
+scot
+
+[CF rosanna show]
+rosanna
+
+[trans show][next Chapter_1/t]
+-
+[C Pacifica set happy show from outright flip left]
+[CF Gideon set joyful show from outleft]
+
+
+Test normal
+
+[C_mat preset morning]
+Test morning
+
+[C_mat preset day]
+Test day
+
+[C_mat preset evening]
+Test evening
+
+[C_mat preset night]
+Test night
+
+[C_mat preset dark]
+Test dark
+
+[goto default]
+repeat
+
+[F Narrator]
+Now test the choices
+
+[F]
+[choice choix_1]
+Texte du choix 1//comment one line
+
+[choice choix_2]
+Texte du choix 2/*
+multiline comment
+*/
+
+[endchoice]
+
+#choix_1
+Vous avez choisi le premier choix.
+[goto suite]
+
+#choix_2
+Vous avez choisi le deuxième choix.
+[goto suite]
+
+#suite
+C'est la suite de l'histoire.
+
+1
+
+2
+
+3
+
+[trans show][next Chapter_1/t][end]

@@ -1,0 +1,248 @@
+//Chapter 1 - Scene 2 - Arrive at the diner
+
+[music diner_theme]
+[bg diner]
+[trans hide]
+
+[C pacifica set happy show from outright flip left]
+[CF gideon set confused show from outleft]
+You have got to be kidding me. I made my dad angry, just for this?!
+He's going to murder me when I get home!
+
+[CF pacifica set cheeky]
+Not just any food, my dear Gideon. This is top quality breakfast, one of a kind in Reverse Falls! 
+
+[CF gideon set skeptical]//(exasperated)
+Considering the size of this town it mustn't be very hard to find. 
+
+[CF pacifica set unclear]
+Don’t be grumpy… Take a look at the menu!
+
+[CF gideon set shocked]
+If you think a menu is going to-[CF gideon set confused] Hey, they have cake flavored pizza!
+ 
+[CF pacifica set joyful]
+Hehe, told you so! Order anything you’d like, it’s on me.
+ 
+[CF gideon set perplex]
+Really…? 
+
+//change to Diner inside
+[trans show]
+[bg diner_inside]
+[trans hide]
+[F narrator]
+The two enter at the diner and take a seat by the counter.
+
+//Livia slides in. She has both her eyes wide open and is looking at them while buzzing with energy.
+
+[Sound bell_over_door_ringing]
+[CF Livia set joyful show center]
+//excited
+“Babbling too fast to understand”
+
+[CF Gideon set confused]//confused
+What?
+
+[F Pacifica] 
+Gideon, let me present to you the waitress of the Under the Rock,  “Active” Livia. Active Livia, here is my new friend, Gideon Pines.
+
+[F Gideon] //confused
+Nice to meet… you?
+
+[CF Livia set happy] 
+“More babbling too fast to understand”
+
+[F Gideon]//whispering
+<size=80%>Why is she talking so fast?
+
+[CF Pacifica set thinking]//sweatdrop expression
+She REALLY likes espresso, so much so that she even invented a way of duplicating her amount of caffeíne per cup.
+
+[CF gideon set shocked]//baffled
+How??
+
+[F Livia]
+“Even more babbling too fast to understand”
+
+[CF gideon set annoyed]
+And isn’t there a way of making her calm down so I can understand what she’s saying?
+
+[CF pacifica set happy]
+Yep, we just have to say the magic words.
+[CF pacifica set joyful]
+Hey, Livia!
+
+[CF Livia set joyful]
+Yeah?
+
+[F pacifica]
+Can I have a “Sleeping Beauty”?
+
+[F Livia] 
+“Babbling too fast” Sure!
+
+[C Livia hide]
+//Livia’s sprite leaves.
+
+[CF gideon set idle]
+What’s a “Sleeping Beauty?”
+
+[CF pacifica set happy]
+It’s a triple ​​chamomile tea with a touch of sleeping pills.
+
+[F gideon]
+Whoa.
+
+[CF pacifica set cheeky]
+Yeah, I plan to mix it with her “Death Wish” coffee.
+
+[CF gideon set unclear]//baffled
+Death wish coffee?
+
+[CF pacifica set idle]
+Oh! Shh! Here she comes!
+
+//Livia’s sprite comes in.
+[C Livia show to center]
+[F narrator]
+Livia comes in with a large cup of tea that she places on the table. In her other hand rests her own coffee, which she takes a sip of as she places Pacifica’s order down.
+
+[F Livia] 
+“Babbling too fast to understand”
+
+[CF pacifica set happy]
+Oh, hey! Look at that! What’s that behind you?
+Huh? What? 
+//Sprite flips.
+[CF Livia flip set idle]
+Where?
+
+[F pacifica]
+Yeah, it’s right there, can’t you see it? 
+
+[F narrator]
+Pacifica quickly pours the tea into Livia’s mug hurriedly, right before she turns back around.
+
+//Livia’s sprite flips back.
+[C Livia flip]
+
+[F pacifica]
+Ohhh, It’s gone! I’m so sorry that you couldn't see it!
+
+[CF Livia set joyful] 
+”babbles a bit more”
+
+[F narrator]
+Livia proceeds to take another sip of her coffee.
+
+[CF gideon set perplex]
+//whispering
+How long does it take to have an effect?
+
+[CF pacifica set idle]
+//whispering
+<size=80%>3… 2… 1…[C Livia set blank]
+
+[F Livia]
+Whoa… Is it just me or is the world moving so much faster now?
+
+[CF pacifica set happy]
+Nah, it’s just you. So what were you saying before the thing showed up?
+
+[F Livia]
+The what?
+
+[F pacifica]
+The thing, the thing that made you turn around?
+
+[CF Livia set happy]
+Oh right, I was saying that I really shouldn’t legally sell you the “Sleeping Beauty”, due to its components.
+
+[CF gideon set idle]
+So why did you sell it anyway?
+
+[F Livia]
+Oh, because I knew that Pacifica wouldn’t tell anyone, I trust her, and I would do the same for her if she needed me to keep a secret.
+
+[CF pacifica set confident]//tearful
+Awww!
+
+[CF gideon set shocked]//whispering
+<size=80%>Oh, god, that’s so illegal.
+
+[CF Livia set joyful]
+Alright, do you two want to order anything else? 
+ 
+[CF gideon set anxious]
+Uhhh… The cake flavored pizza please. Extra um… sprinkles?
+ 
+[CF pacifica set happy]
+And the usual pancakes for me!
+Lots of whipped cream please!
+ 
+[CF Livia hide]//smiling
+Coming right up.
+ 
+//She leaves.
+
+[CF gideon set idle]
+You two seem to know each other very well.
+
+[F pacifica]
+Of course we do! She’s the nearest thing I have to a bestie.
+ 
+[CF gideon set thinking]//submissive
+I see . . .
+Are you sure about paying for our meal? 
+
+[CF pacifica set joyful]
+Yeah, it’d be my pleasure! To commemorate our newfound friendship and all. 
+
+[CF gideon set happy]//(smiling)
+Wow that’s… that’s actually really kind of you. Thanks…
+
+[CF pacifica set happy]
+Don’t sweat it, I love making my friends happy! I haven’t been making many around here, so it’s honestly nice.
+Plus, I still need your help hunting down that thing from yesterday!
+
+[CF gideon set embarassed]//(blush)
+Right, so… What should we do about that little blue dorito? Didn’t you want to capture him?
+
+[CF pacifica set joyful]
+Yup, but I’m not really sure how to start just yet.. We should figure out a plan after we’ve eaten.
+After all, [Sound hit_on_table][Screen shake]the best ideas come once you've eaten lots of sugar… Or something like that.
+
+[C Pacifica flip]
+[F narrator]
+There is a sudden commotion in the diner.
+
+[C all hide outleft]
+[C scot rosanna | show from outright]
+[C scot set nervous]
+[CF rosanna set angry]
+No!!!
+That ascot was a gift! You can’t just replace it like that!
+[C rosanna set annoyed]
+I can’t deal with you anymore…
+We’re through!
+
+[F scot]
+But… But mi Linda!
+It wasn’t my fault! Some weird monster destroyed it!
+ 
+[CF rosanna set furious]
+Who would actually believe that?!
+You're such an ass, Scot!
+
+[CF scot set scared]//(horrified)
+Rosanna! NOOOOOOOOOOOOOO!!!
+
+[CF rosanna set annoyed]
+We’re through!
+
+[C rosanna hide]
+[F narrator]
+The woman stands up and quickly leaves the dinner, a stifling silence left in her wake.
+
+[autonext]

@@ -1,0 +1,2360 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "fileName: host-01",
+                    "note": "",
+                    "text": "Ladies and gentlemen, pigs and goats…",
+                    "localization": [
+                        "Ladies and gentlemen, pigs and goats…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-02",
+                    "note": "",
+                    "text": "Welcome to the Reverse Falls questions and answers video!",
+                    "localization": [
+                        "Welcome to the Reverse Falls questions and answers video!"
+                    ]
+                },
+                {
+                    "info": "fileName: host-03",
+                    "note": "",
+                    "text": "I am your host for today’s Q&A, the Xbox Fridge.",
+                    "localization": [
+                        "I am your host for today’s Q&A, the Xbox Fridge."
+                    ]
+                },
+                {
+                    "info": "fileName: host-04",
+                    "note": "",
+                    "text": "I am a voice actor for the game, however I am not allowed to disclose this with you right now. But, I will be giving out little teeny-tiny hints throughout this entire session.",
+                    "localization": [
+                        "I am a voice actor for the game, however I am not allowed to disclose this with you right now. But, I will be giving out little teeny-tiny hints throughout this entire session."
+                    ]
+                },
+                {
+                    "info": "fileName: host-05",
+                    "note": "",
+                    "text": "So, let us bring out our participants for today’s Q&A! Starting off with Aki…",
+                    "localization": [
+                        "So, let us bring out our participants for today’s Q&A! Starting off with Aki…"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-01",
+                    "note": "",
+                    "text": "Hello! I’m Aki, I play Pacifica. That’s all you need to know about me, yeah.",
+                    "localization": [
+                        "Hello! I’m Aki, I play Pacifica. That’s all you need to know about me, yeah."
+                    ]
+                },
+                {
+                    "info": "fileName: host-06",
+                    "note": "",
+                    "text": "Uh, okay… Ethan?",
+                    "localization": [
+                        "Uh, okay… Ethan?"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-01",
+                    "note": "",
+                    "text": "Hello! Uh, I’m Ethan. I play Dipper, and I’m really excited to be here!",
+                    "localization": [
+                        "Hello! Uh, I’m Ethan. I play Dipper, and I’m really excited to be here!"
+                    ]
+                },
+                {
+                    "info": "fileName: host-07",
+                    "note": "",
+                    "text": "Thank you. And for our Voice Director, Rune?",
+                    "localization": [
+                        "Thank you. And for our Voice Director, Rune?"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-01",
+                    "note": "",
+                    "text": "Hi, I’m Rune, and I’m the voice director. So I organize all the voices.",
+                    "localization": [
+                        "Hi, I’m Rune, and I’m the voice director. So I organize all the voices."
+                    ]
+                },
+                {
+                    "info": "fileName: host-08",
+                    "note": "",
+                    "text": "Um… Morgan?",
+                    "localization": [
+                        "Um… Morgan?"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-01",
+                    "note": "",
+                    "text": "Hello. I’m Morgan. And not only am I the music director, I play the alcoholic father of Gideon, Bud, and also the narrator.",
+                    "localization": [
+                        "Hello. I’m Morgan. And not only am I the music director, I play the alcoholic father of Gideon, Bud, and also the narrator."
+                    ]
+                },
+                {
+                    "info": "fileName: host-09",
+                    "note": "",
+                    "text": "And… Grig.",
+                    "localization": [
+                        "And… Grig."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-01",
+                    "note": "",
+                    "text": "Yo, I’m Grig! I do general writing, directing. It’s the work.",
+                    "localization": [
+                        "Yo, I’m Grig! I do general writing, directing. It’s the work."
+                    ]
+                },
+                {
+                    "info": "fileName: host-10",
+                    "note": "",
+                    "text": "Alright, so for everyone, um…",
+                    "localization": [
+                        "Alright, so for everyone, um…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-11",
+                    "note": "",
+                    "text": "So what have you been doing so far for this project?",
+                    "localization": [
+                        "So what have you been doing so far for this project?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-02",
+                    "note": "",
+                    "text": "Ooh, a big question. Uh …",
+                    "localization": [
+                        "Ooh, a big question. Uh …"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-03",
+                    "note": "",
+                    "text": "I guess I can start?",
+                    "localization": [
+                        "I guess I can start?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-04",
+                    "note": "",
+                    "text": "For this project, I’ve been basically managing the writing team and ensuring we have a cohesive story going forward, and that the different teams are communicating with the writers, and that we",
+                    "localization": [
+                        "For this project, I’ve been basically managing the writing team and ensuring we have a cohesive story going forward, and that the different teams are communicating with the writers, and that we"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-04.5",
+                    "note": "",
+                    "text": "…make sure the ideas we have are on the same level. Or at least try to, it’s not always super easy.",
+                    "localization": [
+                        "…make sure the ideas we have are on the same level. Or at least try to, it’s not always super easy."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-02",
+                    "note": "",
+                    "text": "In the music department, it’s a lot of… sound design, really. Figuring out where to add things or how to make things more ambient for the player…",
+                    "localization": [
+                        "In the music department, it’s a lot of… sound design, really. Figuring out where to add things or how to make things more ambient for the player…"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-02.5",
+                    "note": "",
+                    "text": "But it’s coming in nicely, as well as with adding in voices.",
+                    "localization": [
+                        "But it’s coming in nicely, as well as with adding in voices."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-02",
+                    "note": "",
+                    "text": "Uh, for voice acting, I mostly just give out the lines, the voice actors do a really good job, then I usually cut them and give them to everybody else so they can put them in the game.",
+                    "localization": [
+                        "Uh, for voice acting, I mostly just give out the lines, the voice actors do a really good job, then I usually cut them and give them to everybody else so they can put them in the game."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-02",
+                    "note": "",
+                    "text": "I voice act Pacifica in the game, and I just record lines and send them to the voice acting director, yeah.",
+                    "localization": [
+                        "I voice act Pacifica in the game, and I just record lines and send them to the voice acting director, yeah."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-02",
+                    "note": "",
+                    "text": "I have yet to record lines, but I am prepping for when I eventually do.",
+                    "localization": [
+                        "I have yet to record lines, but I am prepping for when I eventually do."
+                    ]
+                },
+                {
+                    "info": "fileName: host-12",
+                    "note": "",
+                    "text": "Well, that’s great…",
+                    "localization": [
+                        "Well, that’s great…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-13",
+                    "note": "",
+                    "text": "But before we begin today’s question and answers video, I just want to give a big ole thanks to Charlotte for her artwork for today. Thank you.",
+                    "localization": [
+                        "But before we begin today’s question and answers video, I just want to give a big ole thanks to Charlotte for her artwork for today. Thank you."
+                    ]
+                },
+                {
+                    "info": "fileName: host-14",
+                    "note": "",
+                    "text": "Now, let us move on to the questions for our… our three directors.",
+                    "localization": [
+                        "Now, let us move on to the questions for our… our three directors."
+                    ]
+                },
+                {
+                    "info": "fileName: host-15",
+                    "note": "",
+                    "text": "Starting off with, “This is probably a question you guys get a lot, but how is the game coming along?”",
+                    "localization": [
+                        "Starting off with, “This is probably a question you guys get a lot, but how is the game coming along?”"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-05",
+                    "note": "",
+                    "text": "Um, who wants to start with that one?",
+                    "localization": [
+                        "Um, who wants to start with that one?"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-03",
+                    "note": "",
+                    "text": "I think it’s a difficult position to say how it is coming along because there’s always more you want to add to it…",
+                    "localization": [
+                        "I think it’s a difficult position",
+                        " to say how it is coming along because there’s always more you want to add to it…"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-03.5",
+                    "note": "",
+                    "text": "But there’s also, things have been getting done, and it’s great to see it coming together as it does.",
+                    "localization": [
+                        "But there’s also, things have been getting done, and it’s great to see it coming together as it does."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-03",
+                    "note": "",
+                    "text": "There’s a lot of moving parts, so it kinda depends on what part you’re in, haha.",
+                    "localization": [
+                        "There’s a lot of moving parts, so it kinda depends on what part you’re in, haha."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-06",
+                    "note": "",
+                    "text": "Oh, absolutely.",
+                    "localization": [
+                        "Oh, absolutely."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-07",
+                    "note": "",
+                    "text": "Um, well I guess, we have chapter 1 written.",
+                    "localization": [
+                        "Um, well I guess, we have chapter 1 written."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-08",
+                    "note": "",
+                    "text": "We have chapter 2… basically written? Although it needs a bit of editing work.",
+                    "localization": [
+                        "We have chapter 2… basically written? Although it needs a bit of editing work."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-09",
+                    "note": "",
+                    "text": "A lot of editing work.",
+                    "localization": [
+                        "A lot of editing work."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-10",
+                    "note": "",
+                    "text": "Chapter 3 is… sort of, a step in between the major overarching narratives, so there are multiple smaller chapters in it… and those are coming along well enough.",
+                    "localization": [
+                        "Chapter 3 is… sort of, a step in between the major overarching narratives, so there are multiple smaller chapters in it… and those are coming along well enough."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-11",
+                    "note": "",
+                    "text": "So, it’s uh, churning.",
+                    "localization": [
+                        "So, it’s uh, churning."
+                    ]
+                },
+                {
+                    "info": "fileName: host-16",
+                    "note": "",
+                    "text": "Alright, great. Now, moving on…",
+                    "localization": [
+                        "Alright, great. Now, moving on…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-17",
+                    "note": "",
+                    "text": "Is there an estimated release date for chapter 1?",
+                    "localization": [
+                        "Is there an estimated release date for chapter 1?"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "...",
+                    "localization": [
+                        ".",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-12",
+                    "note": "",
+                    "text": "That’s a hard-",
+                    "localization": [
+                        "That’s a hard-"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-04",
+                    "note": "",
+                    "text": "The silence speaks volumes.",
+                    "localization": [
+                        "The silence speaks volumes."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-04",
+                    "note": "",
+                    "text": "Yes, it does.",
+                    "localization": [
+                        "Yes, it does."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-13",
+                    "note": "",
+                    "text": "Uh… we’re working on it? We don’t really have a specific “oh it’s definitely gonna be by then.” But we do want it to come, as Helvest put it, “soon.”",
+                    "localization": [
+                        "Uh… we’re working on it? We don’t really have a specific “oh it’s definitely gonna be by then.” But we do want it to come, as Helvest put it, “soon.”"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-05",
+                    "note": "",
+                    "text": "Soon can mean a lot of things, but yes, soon.",
+                    "localization": [
+                        "Soon can mean a lot of things, but yes, soon."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-14",
+                    "note": "",
+                    "text": "Yeah, soonTM. The best time.",
+                    "localization": [
+                        "Yeah, soonTM. The best time."
+                    ]
+                },
+                {
+                    "info": "fileName: host-18",
+                    "note": "",
+                    "text": "Let’s just say that it’ll probably be ready when it’s actually ready.",
+                    "localization": [
+                        "Let’s just say that it’ll probably be ready when it’s actually ready."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-06",
+                    "note": "",
+                    "text": "Yeah.",
+                    "localization": [
+                        "Yeah."
+                    ]
+                },
+                {
+                    "info": "fileName: host-19",
+                    "note": "",
+                    "text": "Alright.",
+                    "localization": [
+                        "Alright."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-15",
+                    "note": "",
+                    "text": "90% sure this year.",
+                    "localization": [
+                        "90% sure this year."
+                    ]
+                },
+                {
+                    "info": "fileName: host-20",
+                    "note": "",
+                    "text": "Good to know, good to know.",
+                    "localization": [
+                        "Good to know, good to know."
+                    ]
+                },
+                {
+                    "info": "fileName: host-21",
+                    "note": "",
+                    "text": "Okay, now this is probably gonna be a bit of a needy question, but I’m gonna say the entire thing, so I hope you don’t mind.",
+                    "localization": [
+                        "Okay, now this is probably gonna be a bit of a needy question, but I’m gonna say the entire thing, so I hope you don’t mind."
+                    ]
+                },
+                {
+                    "info": "fileName: host-22",
+                    "note": "",
+                    "text": "“I need to, NEED TO” - and they literally mean need to - “know if Gravity Falls characters will be connected to the Reverse Falls story and…",
+                    "localization": [
+                        "“I need to, NEED TO” - and they literally mean need to - “know if Gravity Falls characters will be connected to the Reverse Falls story and…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-22.5",
+                    "note": "",
+                    "text": "…be part of it like an alternate reality meets main reality type of thing or if it's just gonna be reverse fall characters and their story.”",
+                    "localization": [
+                        "…be part of it like an alternate reality meets main reality type of thing or if it's just gonna be reverse fall characters and their story.”"
+                    ]
+                },
+                {
+                    "info": "fileName: host-23",
+                    "note": "",
+                    "text": "Um, I think what they’re trying to say is if the main universe and alternate universe are kinda, going together, in a way? If that makes sense.",
+                    "localization": [
+                        "Um, I think what they’re trying to say is if the main universe and alternate universe are kinda, going together, in a way? If that makes sense."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-16",
+                    "note": "",
+                    "text": "…Right. Oh dear.",
+                    "localization": [
+                        "…Right. Oh dear."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-17",
+                    "note": "",
+                    "text": "Uh, that’s a hard one to unpack.",
+                    "localization": [
+                        "Uh, that’s a hard one to unpack."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-18",
+                    "note": "",
+                    "text": "There… to avoid going into, like, spoiler territory and absolutes or anything like that…",
+                    "localization": [
+                        "There… to avoid going into, like, spoiler territory and absolutes or anything like that…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-19",
+                    "note": "",
+                    "text": "We’ve changed up how we’re publishing the story a fair few times throughout development, because…",
+                    "localization": [
+                        "We’ve changed up how we’re publishing the story a fair few times throughout development, because…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-19.5",
+                    "note": "",
+                    "text": "As you might imagine with a project like this, there are a lot of people who come and join, and a lot of people who leave.",
+                    "localization": [
+                        "As you might imagine with a project like this, there are a lot of people who come and join, and a lot of people who leave."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-20",
+                    "note": "",
+                    "text": "We have all kinds of different starting points and plans that get shot up and then get trashed and oh, “this sounds like a good idea, maybe we try this” and so and so forth.",
+                    "localization": [
+                        "We have all kinds of different starting points and plans that get shot up and then get trashed and oh, “this sounds like a good idea, maybe we try this” and so and so forth."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-21",
+                    "note": "",
+                    "text": "Um, one of those early ideas was a massively branching story, which, that’s incredibly ambitious, and we started out with plans to follow in that direction.",
+                    "localization": [
+                        "Um, one of those early ideas was a massively branching story, which, that’s incredibly ambitious, and we started out with plans to follow in that direction."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-22",
+                    "note": "",
+                    "text": "Which means, multiple ends were planned, or at least… vaguely, in a nebulous cloud of ideas put down.",
+                    "localization": [
+                        "Which means, multiple ends were planned, or at least… vaguely, in a nebulous cloud of ideas put down."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-23",
+                    "note": "",
+                    "text": "Currently, we are following one of those plans and trying to get to at least one full storyline all the way through the game…",
+                    "localization": [
+                        "Currently, we are following one of those plans and trying to get to at least one full storyline all the way through the game…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-24",
+                    "note": "",
+                    "text": "…and then we might add more later, if we have the will, at that distant point in the future.",
+                    "localization": [
+                        "…and then we might add more later, if we have the will, at that distant point in the future."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-25",
+                    "note": "",
+                    "text": "That current path… does not fully, uh, emit for a lot of Reverse Falls to Gravity Falls crossover-y stuff.",
+                    "localization": [
+                        "That current path… does not fully, uh, emit for a lot of Reverse Falls to Gravity Falls crossover-y stuff."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-25.5",
+                    "note": "",
+                    "text": "We’re probably just gonna be sticking with the Reverse Falls characters, and taking their story all the way through to the end.",
+                    "localization": [
+                        "We’re probably just gonna be sticking with the Reverse Falls characters, and taking their story all the way through to the end."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-26",
+                    "note": "",
+                    "text": "Then maybe later we’ll add more, maybe we’ll add some, like, bonus or hidden content, or meta stuff. We’ll see, honestly.",
+                    "localization": [
+                        "Then maybe later we’ll add more, maybe we’ll add some, like, bonus or hidden content, or meta stuff. We’ll see, honestly."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-27",
+                    "note": "",
+                    "text": "But as it stands, they are separate, and I hope you get to enjoy the story.",
+                    "localization": [
+                        "But as it stands, they are separate, and I hope you get to enjoy the story."
+                    ]
+                },
+                {
+                    "info": "fileName: host-24",
+                    "note": "",
+                    "text": "Great, alright, let’s segway to the next question.",
+                    "localization": [
+                        "Great, alright, let’s segway to the next question."
+                    ]
+                },
+                {
+                    "info": "fileName: host-25",
+                    "note": "",
+                    "text": "“How in the world did this go from a Mike Inel sketch to an actual project? I’d just like to know when you guys realized this stopped being a joke and became real.",
+                    "localization": [
+                        "“How in the world did this go from a Mike Inel sketch to an actual project? I’d just like to know when you guys realized this stopped being a joke and became real."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-03",
+                    "note": "",
+                    "text": "I joined like later on so I really-",
+                    "localization": [
+                        "I joined like later on so I really-"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-28",
+                    "note": "",
+                    "text": "Anyone here besides me here from the start?",
+                    "localization": [
+                        "Anyone here besides me here from the start?"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "...",
+                    "localization": [
+                        ".",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-07",
+                    "note": "",
+                    "text": "Me too, I only joined more recently.",
+                    "localization": [
+                        "Me too, I only joined more recently."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-29",
+                    "note": "",
+                    "text": "Right… Uh…",
+                    "localization": [
+                        "Right… Uh…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-30",
+                    "note": "",
+                    "text": "I will try to get my thoughts together…",
+                    "localization": [
+                        "I will try to get my thoughts together…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-31",
+                    "note": "",
+                    "text": "Can you guys share like, how y’all ended up joining while I do that?",
+                    "localization": [
+                        "Can you guys share like, how y’all ended up joining while I do that?"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-08",
+                    "note": "",
+                    "text": "Um, of course.",
+                    "localization": [
+                        "Um, of course."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-09",
+                    "note": "",
+                    "text": "Um, I accidentally found the game, and I thought it was super cool, so when I joined the Discord and found out they needed some help, I asked if I could…",
+                    "localization": [
+                        "Um, I accidentally found the game, and I thought it was super cool, so when I joined the Discord and found out they needed some help, I asked if I could…"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-10",
+                    "note": "",
+                    "text": "…and through processes, I got to be the director of the voice actors.",
+                    "localization": [
+                        "…and through processes, I got to be the director of the voice actors."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-05",
+                    "note": "",
+                    "text": "There was some word of mouth through years, and it got an artist to ask me to join the team early on.",
+                    "localization": [
+                        "There was some word of mouth through years, and it got an artist to ask me to join the team early on."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-06",
+                    "note": "",
+                    "text": "I’m not sure if chapter 0 was already released, but I was just a musician. So I was another resource waiting for stuff to do.",
+                    "localization": [
+                        "I’m not sure if chapter 0 was already released, but I was just a musician. So I was another resource waiting for stuff to do."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-07",
+                    "note": "",
+                    "text": "Long time later, I was asked if I’d like to do more as somebody who knows music.",
+                    "localization": [
+                        "Long time later, I was asked if I’d like to do more as somebody who knows music."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-04",
+                    "note": "",
+                    "text": "I could say how I found the project, so sure.",
+                    "localization": [
+                        "I could say how I found the project, so sure."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-05",
+                    "note": "",
+                    "text": "I had always kinda, like, known about this project from when the first trailer came out. I just didn’t realize that it- I thought it was still going forward, I didn’t know it needed more people.",
+                    "localization": [
+                        "I had always kinda, like, known about this project from when the first trailer came out. I just didn’t realize that it- I thought it was still going forward, I didn’t know it needed more people."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-06",
+                    "note": "",
+                    "text": "So I joined the discord server, and I kinda just was like, “Oh, I wanna voice act in this project, I don’t really care who I get” and I got Pacifica, so, that’s fun.",
+                    "localization": [
+                        "So I joined the discord server, and I kinda just was like, “Oh, I wanna voice act in this project, I don’t really care who I get” and",
+                        " I got Pacifica, so, that’s fun."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-32",
+                    "note": "",
+                    "text": "Ethan, you wanna, add something?",
+                    "localization": [
+                        "Ethan, you wanna, add something?"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-03",
+                    "note": "",
+                    "text": "For sure!",
+                    "localization": [
+                        "For sure!"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-04",
+                    "note": "",
+                    "text": "Um, in all honesty, I’m pretty new to the project. I just discovered it last year.",
+                    "localization": [
+                        "Um, in all honesty, I’m pretty new to the project. I just discovered it last year."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-05",
+                    "note": "",
+                    "text": "I heard about it before, seen the trailer videos, but that was a long time ago, so sort of back of the mind stuff.",
+                    "localization": [
+                        "I heard about it before, seen the trailer videos, but that was a long time ago, so sort of back of the mind stuff."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-06",
+                    "note": "",
+                    "text": "And then, I sorta stumbled upon- uh, there was a casting call for voice actors, and because of how interested I was in the project…",
+                    "localization": [
+                        "And then, I sorta stumbled upon- uh, there was a casting call for voice actors, and because of how interested I was in the project…"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-06.5",
+                    "note": "",
+                    "text": "…I just applied for everything I possibly could hoping to be involved in some capacity. And then I was really excited, and then grateful, to be able to do Dipper.",
+                    "localization": [
+                        "…I just applied for everything I possibly could hoping to be involved in some capacity. And then I was really excited, and then grateful, to be able to do Dipper."
+                    ]
+                },
+                {
+                    "info": "fileName: host-26",
+                    "note": "",
+                    "text": "I mean, yeah, that’s- that’s great.",
+                    "localization": [
+                        "I mean, yeah, that’s- that’s great."
+                    ]
+                },
+                {
+                    "info": "fileName: host-27",
+                    "note": "",
+                    "text": "I mean, I’m kinda in the same boat with you. I just stumbled across the casting call online, and just put in an audition, and here we are, right?",
+                    "localization": [
+                        "I mean, I’m kinda in the same boat with you. I just stumbled across the casting call online, and just put in an audition, and here we are, right?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-33",
+                    "note": "",
+                    "text": "Everyone saw the trailer 5 years ago, I assume.",
+                    "localization": [
+                        "Everyone saw the trailer 5 years ago, I assume."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-34",
+                    "note": "",
+                    "text": "Or at some point between five years ago and now.",
+                    "localization": [
+                        "Or at some point between five years ago and now."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-35",
+                    "note": "",
+                    "text": "Back way when, Molochitis started poking around in the gravity falls, reverse falls, reddit threads, and basically asked, “Hey, are there people actually interested in turning this into a legit game?”",
+                    "localization": [
+                        "Back way when, Molochitis started poking around in the gravity falls, reverse falls, reddit threads, and basically asked, “Hey, are there people actually interested in turning this into a legit game?”"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-35.5",
+                    "note": "",
+                    "text": "They came across Helvest, and some other people like, uh, Raether, and the Catacat.",
+                    "localization": [
+                        "They came across Helvest, and some other people like, uh, Raether, and the Catacat."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-36",
+                    "note": "",
+                    "text": "Uh, and they basically began putting together a very quick demo. Um, I think the demo is still available up on Gamejolt?",
+                    "localization": [
+                        "Uh, and they basically began putting together a very quick demo. Um, I think the demo is still available up on Gamejolt?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-37",
+                    "note": "",
+                    "text": "And the dialogue for that one was thrown together by Helvest, I believe, and uh, very quickly, they just put something out there to like, see okay, can we build something with this?",
+                    "localization": [
+                        "And the dialogue for that one was thrown together by Helvest, I believe, and uh, very quickly, they just put something out there to like, see okay, can we build something with this?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-38",
+                    "note": "",
+                    "text": "From there, I joined to help with proofreading and like, doing editing, and making sure the English came across well and to translate it to 4 other languages.",
+                    "localization": [
+                        "From there, I joined to help with proofreading and like, doing editing, and making sure the English came across well and to translate it to 4 other languages."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-39",
+                    "note": "",
+                    "text": "Um, and then, we basically just, began cobbling things together.",
+                    "localization": [
+                        "Um, and then, we basically just, began cobbling things together."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-40",
+                    "note": "",
+                    "text": "By some strange twist of fate, I ended up assigned the… writing director? On accident, I think?? Or temporarily?? And I’ve just been stuck with it sense?",
+                    "localization": [
+                        "By some strange twist of fate, I ended up assigned the… writing director? On accident, I think?? Or temporarily?? And I’ve just been stuck with it sense?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-41",
+                    "note": "",
+                    "text": "And we just sorta kept going? And the ball just kept rolling and rolling and rolling, and eventually we came here.",
+                    "localization": [
+                        "And we just sorta kept going? And the ball just kept rolling and rolling and rolling, and eventually we came here."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-42",
+                    "note": "",
+                    "text": "It’s a little bit of an accident that happened in a discord server. That’s sorta how it came to be.",
+                    "localization": [
+                        "It’s a little bit of an accident that happened in a discord server. That’s sorta how it came to be."
+                    ]
+                },
+                {
+                    "info": "fileName: host-28",
+                    "note": "",
+                    "text": "Well, sometimes the best things can be just a little unexpected.",
+                    "localization": [
+                        "Well, sometimes the best things can be just a little unexpected."
+                    ]
+                },
+                {
+                    "info": "fileName: host-29",
+                    "note": "",
+                    "text": "Well, okay, let’s move on to the next question here.",
+                    "localization": [
+                        "Well, okay, let’s move on to the next question here."
+                    ]
+                },
+                {
+                    "info": "fileName: host-30",
+                    "note": "",
+                    "text": "What - for the directors, “what is your favorite part of working on the game?”",
+                    "localization": [
+                        "What - for the directors, “what is your favorite part of working on the game?”"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "...",
+                    "localization": [
+                        ".",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-11",
+                    "note": "",
+                    "text": "I love how none of us wanna start, haha.",
+                    "localization": [
+                        "I love how none of us wanna start, haha."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-12",
+                    "note": "",
+                    "text": "Um-",
+                    "localization": [
+                        "Um-"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-08",
+                    "note": "",
+                    "text": "I always feel like I’m going to interrupt.",
+                    "localization": [
+                        "I always feel like I’m going to interrupt."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-13",
+                    "note": "",
+                    "text": "Me too.",
+                    "localization": [
+                        "Me too."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-14",
+                    "note": "",
+                    "text": "Um… my part, even though I’m like a director, it’s actually pretty small, but I really like seeing the voices end up being in the demo that we directors get to see, after everyone puts them together.",
+                    "localization": [
+                        "Um… my part, even though I’m like a director, it’s actually pretty small, but I really like seeing the voices end up being in the demo that we directors get to see, after everyone puts them together."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-15",
+                    "note": "",
+                    "text": "It’s really cool to hear them actually have a conversation instead of the individual lines, so… I think that’s my favorite part.",
+                    "localization": [
+                        "It’s really cool to hear them actually have a conversation instead of the individual lines, so… I think that’s my favorite part."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-09",
+                    "note": "",
+                    "text": "I think I definitely have to agree.",
+                    "localization": [
+                        "I think I definitely have to agree."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-10",
+                    "note": "",
+                    "text": "It’s not exactly… the position that I’m working from that I get to have the best part of it.",
+                    "localization": [
+                        "It’s not exactly… the position that I’m working from that I get to have the best part of it."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-11",
+                    "note": "",
+                    "text": "It’s seeing the communication… and the dedication to the art, where we want things to sound better. Can we change it this way, this way?",
+                    "localization": [
+                        "It’s seeing the communication… and the dedication to the art, where we want things to sound better. Can we change it this way, this way?"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-11.5",
+                    "note": "",
+                    "text": "Or really just add something we personally have ideas for on the team.",
+                    "localization": [
+                        "Or really just add something we personally have ideas for on the team."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-43",
+                    "note": "",
+                    "text": "Um, for me, I guess it’s just getting to read and see and interact with everybody on the team.",
+                    "localization": [
+                        "Um, for me, I guess it’s just getting to read and see and interact with everybody on the team."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-44",
+                    "note": "",
+                    "text": "I personally don’t do a lot of the writing, as I don’t feel particularly confident in it, so instead I get to…",
+                    "localization": [
+                        "I personally don’t do a lot of the writing, as I don’t feel particularly confident in it, so instead I get to…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-44.5",
+                    "note": "",
+                    "text": "Um, like help direct, answer questions, and function as a sort of information well.",
+                    "localization": [
+                        "Um, like help direct, answer questions, and function as a sort of information well."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-45",
+                    "note": "",
+                    "text": "Um, what came before and seeing how it’s all grown into what it is now, and just seeing and remembering, and watching everybody around the- like, the team-",
+                    "localization": [
+                        "Um, what came before and seeing how it’s all grown into what it is now, and just seeing and remembering, and watching everybody around the- like, the team-"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-45.5",
+                    "note": "",
+                    "text": "Just putting so much effort into something that I’ve followed for so long - that’s probably the most exciting bit.",
+                    "localization": [
+                        "Just putting so much effort into something that I’ve followed for so long - that’s probably the most exciting bit."
+                    ]
+                },
+                {
+                    "info": "fileName: host-31",
+                    "note": "",
+                    "text": "Alright, next question.",
+                    "localization": [
+                        "Alright, next question."
+                    ]
+                },
+                {
+                    "info": "fileName: host-32",
+                    "note": "",
+                    "text": "“Which game engine will Reverse Falls be developed on?",
+                    "localization": [
+                        "“Which game engine will Reverse Falls be developed on?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-46",
+                    "note": "",
+                    "text": "Oof.",
+                    "localization": [
+                        "Oof."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-47",
+                    "note": "",
+                    "text": "Uh, we don't have Helvest here; that’s a hard one to answer.",
+                    "localization": [
+                        "Uh, we don't have Helvest here; that’s a hard one to answer."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-16",
+                    "note": "",
+                    "text": "Yeah.",
+                    "localization": [
+                        "Yeah."
+                    ]
+                },
+                {
+                    "info": "fileName: host-33",
+                    "note": "",
+                    "text": "Oh…",
+                    "localization": [
+                        "Oh…"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-12",
+                    "note": "",
+                    "text": "Where’s my coding director when I need him?",
+                    "localization": [
+                        "Where’s my coding director when I need him?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-48",
+                    "note": "",
+                    "text": "Yeah, uh… I’m pretty sure currently we’re working on it being browser-based?",
+                    "localization": [
+                        "Yeah, uh… I’m pretty sure currently we’re working on it being browser-based?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-49",
+                    "note": "",
+                    "text": "Um, so basically anything that can have a web browser will let you play the game.",
+                    "localization": [
+                        "Um, so basically anything that can have a web browser will let you play the game."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-50",
+                    "note": "",
+                    "text": "I think we were originally poking around in Unity? But uh, development is insanely hard and slow, especially when it’s a volunteer project and everybody is busy with their own lives.",
+                    "localization": [
+                        "I think we were originally poking around in Unity? But uh, development is insanely hard and slow, especially when it’s a volunteer project and everybody is busy with their own lives."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-51",
+                    "note": "",
+                    "text": "So we’re trying to like, release smaller bits, and then maybe eventually we’ll cobble it together into a larger thing to release.",
+                    "localization": [
+                        "So we’re trying to like, release smaller bits, and then maybe eventually we’ll cobble it together into a larger thing to release."
+                    ]
+                },
+                {
+                    "info": "fileName: host-34",
+                    "note": "",
+                    "text": "Alright, that makes sense - okay.",
+                    "localization": [
+                        "Alright, that makes sense - okay."
+                    ]
+                },
+                {
+                    "info": "fileName: host-35",
+                    "note": "",
+                    "text": "“Will Reverse Falls have a unique branch of endings dependent on our choices? If so, does this mean there will be good or bad endings, or will it all end in the same scenario?”",
+                    "localization": [
+                        "“Will Reverse Falls have a unique branch of endings dependent on our choices? If so, does this mean there will be good or bad endings, or will it all end in the same scenario?”"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-17",
+                    "note": "",
+                    "text": "That seems to be a lot of questions for the writing director, haha.",
+                    "localization": [
+                        "That seems to be a lot of questions for the writing director, haha."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-52",
+                    "note": "",
+                    "text": "Yaay.",
+                    "localization": [
+                        "Yaay."
+                    ]
+                },
+                {
+                    "info": "fileName: host-36",
+                    "note": "",
+                    "text": "I-I don’t- this is not on me, I promise you-",
+                    "localization": [
+                        "I-I don’t- this is not on me, I promise you-"
+                    ]
+                },
+                {
+                    "info": "fileName: host-37",
+                    "note": "",
+                    "text": "I-these feel like they’re just directed to you.",
+                    "localization": [
+                        "I-these feel like they’re just directed to you."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-13",
+                    "note": "",
+                    "text": "Fortunately, some of these have come up before.",
+                    "localization": [
+                        "Fortunately, some of these have come up before."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-53",
+                    "note": "",
+                    "text": "Yep.",
+                    "localization": [
+                        "Yep."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-14",
+                    "note": "",
+                    "text": "We mentioned it a little bit.",
+                    "localization": [
+                        "We mentioned it a little bit."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-54",
+                    "note": "",
+                    "text": "Uh, as I mentioned before, we originally planned for a lovely, large super branching… thing.",
+                    "localization": [
+                        "Uh, as I mentioned before, we originally planned for a lovely, large super branching… thing."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-55",
+                    "note": "",
+                    "text": "But… as it stands, since development time is so slow and we really want to get something out for you guys…",
+                    "localization": [
+                        "But… as it stands, since development time is so slow and we really want to get something out for you guys…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-55.5",
+                    "note": "",
+                    "text": "We’ve tried to consolidate it into one single branch that just heads all the way through.",
+                    "localization": [
+                        "We’ve tried to consolidate it into one single branch that just heads all the way through."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-56",
+                    "note": "",
+                    "text": "In the writing team, we’re making little bits- like tiny little notes for - like here’s a hook for a divergent path, we have a tree planned out…",
+                    "localization": [
+                        "In the writing team, we’re making little bits- like tiny little notes for - like here’s a hook for a divergent path, we have a tree planned out…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-57",
+                    "note": "",
+                    "text": "There’s more stuff, but I don’t know if we’ll ever get around to it.",
+                    "localization": [
+                        "There’s more stuff, but I don’t know if we’ll ever get around to it."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-58",
+                    "note": "",
+                    "text": "We might do it when we- release full chapters or the entire thing, but currently nope, we’ll have one nice-",
+                    "localization": [
+                        "We might do it when we- release full chapters or the entire thing, but currently nope, we’ll have one nice-"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-59",
+                    "note": "",
+                    "text": "There will be slight divergences depending on what you do but they'll be contained inside the chapter, although there are some ideas about how we might have things carry over.",
+                    "localization": [
+                        "There will be slight divergences depending on what you do but they'll be contained inside the chapter, although there are some ideas about how we might have things carry over."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-60",
+                    "note": "",
+                    "text": "We’ll see if we manage to get more branching stuff in, but as it stands…",
+                    "localization": [
+                        "We’ll see if we manage to get more branching stuff in, but as it stands…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-60.5",
+                    "note": "",
+                    "text": "We’ll try to get it to you as a linear narrative as a reasonable while still having choice impacts in some narrative moments.",
+                    "localization": [
+                        "We’ll try to get it to you as a linear narrative as a reasonable while still having choice impacts in some narrative moments."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-61",
+                    "note": "",
+                    "text": "Bleh, sorry, I’m very verbose.",
+                    "localization": [
+                        "Bleh, sorry, I’m very verbose."
+                    ]
+                },
+                {
+                    "info": "fileName: host-38",
+                    "note": "",
+                    "text": "Yeah, no worries, I mean like you’ve got a lot of questions down your belt right now so…",
+                    "localization": [
+                        "Yeah, no worries, I mean like you’ve got a lot of questions down your belt right now so…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-62",
+                    "note": "",
+                    "text": "Eh…",
+                    "localization": [
+                        "Eh…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-39",
+                    "note": "",
+                    "text": "Alright, this will be the final question for the directors, we’ll just need to move on to the VAs real soon.",
+                    "localization": [
+                        "Alright, this will be the final question for the directors, we’ll just need to move on to the VAs real soon."
+                    ]
+                },
+                {
+                    "info": "fileName: host-40",
+                    "note": "",
+                    "text": "This will be a bit of a lengthy one, right now. This is like a bit of a sing of appraisal right here for the person who put this question in.",
+                    "localization": [
+                        "This will be a bit of a lengthy one, right now. This is like a bit of a sing of appraisal right here for the person who put this question in."
+                    ]
+                },
+                {
+                    "info": "fileName: host-41",
+                    "note": "",
+                    "text": "“So excited about this being a thing! I got a lot of questions-”",
+                    "localization": [
+                        "“So excited about this being a thing! I got a lot of questions-”"
+                    ]
+                },
+                {
+                    "info": "fileName: host-42",
+                    "note": "",
+                    "text": "“(I am very excited for this and/or this Q&A! Don't expect you to answer them all or even at all; just asking them, because I am excited for this game-",
+                    "localization": [
+                        "“(I am very excited for this and/or this Q&A! Don't expect you to answer them all or even at all; just asking them, because I am excited for this game-"
+                    ]
+                },
+                {
+                    "info": "fileName: host-42.5",
+                    "note": "",
+                    "text": "-and if any of the questions do get answered that would be awesome! Also excited to see other people's questions and this video in general!), so I am going to get to asking!”",
+                    "localization": [
+                        "-and if any of the questions do get answered that would be awesome! Also excited to see other people's questions and this video in general!), so I am going to get to asking!”"
+                    ]
+                },
+                {
+                    "info": "fileName: host-43",
+                    "note": "",
+                    "text": "“To the Giddy Fresh Team, I just wanted to ask about your general progress on the visual novel, next chapter(s), and/or asset gathering?”",
+                    "localization": [
+                        "“To the Giddy Fresh Team, I just wanted to ask about your general progress on the visual novel, next chapter(s), and/or asset gathering?”"
+                    ]
+                },
+                {
+                    "info": "fileName: host-44",
+                    "note": "",
+                    "text": "“I also wanted to ask the Giddy Fresh Team (only if this question isn't spoilers though) how they go about twisting the Gravity Falls characters as their now Reverse selves?”",
+                    "localization": [
+                        "“I also wanted to ask the Giddy Fresh Team (only if this question isn't spoilers though) how they go about twisting the Gravity Falls characters as their now Reverse selves?”"
+                    ]
+                },
+                {
+                    "info": "fileName: host-45",
+                    "note": "",
+                    "text": "Bit of a lengthy one right there!",
+                    "localization": [
+                        "Bit of a lengthy one right there!"
+                    ]
+                },
+                {
+                    "info": "fileName: host-46",
+                    "note": "",
+                    "text": "I think this is also directed to the writing director again, yikes!",
+                    "localization": [
+                        "I think this is also directed to the writing director again",
+                        ", yikes!"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-63",
+                    "note": "",
+                    "text": "Well, actually there is some stuff there for voice actors and music stuff cause you guys do a bit of the interpreting of what the characters are like.",
+                    "localization": [
+                        "Well, actually there is some stuff there for voice actors and music stuff cause you guys do a bit of the interpreting of what the characters are like."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-15",
+                    "note": "",
+                    "text": "And we do need assets.",
+                    "localization": [
+                        "And we do need assets."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-64",
+                    "note": "",
+                    "text": "Yeah, we do need so many assets.",
+                    "localization": [
+                        "Yeah, we do need so many assets."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-18",
+                    "note": "",
+                    "text": "If you’re willing to volunteer, please do!",
+                    "localization": [
+                        "If you’re willing to volunteer, please do!"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-65",
+                    "note": "",
+                    "text": "Haha… I think one of the major hangups right now is just art - it is a visual novel, so. And coders. Good god, transcoding, so slow.",
+                    "localization": [
+                        "Haha… I think one of the major hangups right now is just art - it is a visual novel, so. And coders. Good god, transcoding, so slow."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-66",
+                    "note": "",
+                    "text": "As for like, progress with chapters and stuff, I did mention that we’re like on chapter 3. Out of ten. Of the main planned line. Eh.",
+                    "localization": [
+                        "As for like, progress with chapters and stuff, I did mention that we’re like on chapter 3. Out of ten. Of the main planned line. Eh."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-67",
+                    "note": "",
+                    "text": "We have a lot of stuff written, um. I think Helvest calculated that we have enough stuff to publish, what is it, every two weeks for an entire year? Uh…",
+                    "localization": [
+                        "We have a lot of stuff written, um. I think Helvest calculated that we have enough stuff to publish, what is it, every two weeks for an entire year? Uh…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-68",
+                    "note": "",
+                    "text": "Something like that.",
+                    "localization": [
+                        "Something like that."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-19",
+                    "note": "",
+                    "text": "If we’re all very productive, yes.",
+                    "localization": [
+                        "If we’re all very productive, yes."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-69",
+                    "note": "",
+                    "text": "If we’re all magically very productive and suddenly have all of the assets available and the transcoding is done like that.",
+                    "localization": [
+                        "If we’re all magically very productive and suddenly have all of the assets available and the transcoding is done like that."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-16",
+                    "note": "",
+                    "text": "And we all have the free time to do all of these things.",
+                    "localization": [
+                        "And we all have the free time to do all of these things."
+                    ]
+                },
+                {
+                    "info": "fileName: host-47",
+                    "note": "",
+                    "text": "Ohh, yeah.",
+                    "localization": [
+                        "Ohh, yeah."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-17",
+                    "note": "",
+                    "text": "Fortunately, in sound design it’s a little bit like catching feathers on one side, but unfortunately the other side is bowling balls.",
+                    "localization": [
+                        "Fortunately, in sound design it’s a little bit like catching feathers on one side, but unfortunately the other side is bowling balls."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-18",
+                    "note": "",
+                    "text": "When we have sound effects, those are things, as we get the idea, find a vast library of so many different similar sounds, and you can take your pick-",
+                    "localization": [
+                        "When we have sound effects, those are things, as we get the idea, find a vast library of so many different similar sounds, and you can take your pick-"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-18.5",
+                    "note": "",
+                    "text": "Which can be a little time consuming if you’re into it.",
+                    "localization": [
+                        "Which can be a little time consuming if you’re into it."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-19",
+                    "note": "",
+                    "text": "And then on the other side, creating entire songs from thin air, is something going back and forth between musicians, and really having the inspiration for it till the assets come along.",
+                    "localization": [
+                        "And then on the other side, creating entire songs from thin air, is something going back and forth between musicians, and really having the inspiration for it till the assets come along."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-20",
+                    "note": "",
+                    "text": "Um, with the voice acting, most of the main characters have been cast, of course, but we have so many side characters that only have a few lines each.",
+                    "localization": [
+                        "Um, with the voice acting, most of the main characters have been cast, of course, but we have so many side characters that only have a few lines each."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-21",
+                    "note": "",
+                    "text": "So even though we do have a lot of people who have auditioned, I would love for more people to join so that we have a very large range of voices to use.",
+                    "localization": [
+                        "So even though we do have a lot of people who have auditioned, I would love for more people to join so that we have a very large range of voices to use."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-22",
+                    "note": "",
+                    "text": "That’d be very nice.",
+                    "localization": [
+                        "That’d be very nice."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-70",
+                    "note": "",
+                    "text": "Mm.",
+                    "localization": [
+                        "Mm."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-71",
+                    "note": "",
+                    "text": "As for the whole of twisting Gravity Falls characters into Reverse Falls characters…",
+                    "localization": [
+                        "As for the whole of twisting Gravity Falls characters into Reverse Falls characters…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-72",
+                    "note": "",
+                    "text": "We look a lot at the existing Reverse Falls community, and then like, pick and choose, “oh hey this bit is interesting” or “oh, this thing looks cool.”",
+                    "localization": [
+                        "We look a lot at the existing Reverse Falls community, and then like, pick and choose, “oh hey this bit is interesting” or “oh, this thing looks cool.”"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-73",
+                    "note": "",
+                    "text": "And then just try and make a character that fits the narrative we’re trying to tell, and then go from there.",
+                    "localization": [
+                        "And then just try and make a character that fits the narrative we’re trying to tell, and then go from there."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-23",
+                    "note": "",
+                    "text": "Yeah… and-",
+                    "localization": [
+                        "Yeah… and-"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-24",
+                    "note": "",
+                    "text": "I’m usually the one who has to interpret what the writers send for the characters, including the voice actors themselves.",
+                    "localization": [
+                        "I’m usually the one who has to interpret what the writers send for the characters, including the voice actors themselves."
+                    ]
+                },
+                {
+                    "info": "fileName: rune-25",
+                    "note": "",
+                    "text": "So… it- it’s usually just like, the writers make a really good point to show how they might act or sound, so I just sort of- add a little bit more details about where there might be a pause…",
+                    "localization": [
+                        "So… it- it’s usually just like, the writers make a really good point to show how they might act or sound, so I just sort of- add a little bit more details about where there might be a pause…"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-26",
+                    "note": "",
+                    "text": "Or have them be a bit more happy than usual, if it comes to Pacifica - she’s a very bubbly person - and then with like, Gideon, we have him be sort of more depressed.",
+                    "localization": [
+                        "Or have them be a bit more happy than usual, if it comes to Pacifica - she’s a very bubbly person - and then with like, Gideon, we have him be sort of more depressed."
+                    ]
+                },
+                {
+                    "info": "fileName: host-48",
+                    "note": "",
+                    "text": "Well, thank you directors for answering the questions I have given you.",
+                    "localization": [
+                        "Well, thank you directors for answering the questions I have given you."
+                    ]
+                },
+                {
+                    "info": "fileName: host-49",
+                    "note": "",
+                    "text": "Now, let’s move on to the VAs…",
+                    "localization": [
+                        "Now, let’s move on to the VAs…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-50",
+                    "note": "",
+                    "text": "For Pacifica: “You are new to town, what do you think of it and its citizens so far? How do you think the town is threating you guys so far?”",
+                    "localization": [
+                        "For Pacifica: “You are new to town, what do you think of it and its citizens so far? How do you think the town is threating you guys so far?”"
+                    ]
+                },
+                {
+                    "info": "fileName: host-51",
+                    "note": "",
+                    "text": "…Am I reading that correctly?… Yes, I am.",
+                    "localization": [
+                        "…Am I reading that correctly?… Yes, I am."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-07",
+                    "note": "",
+                    "text": "Um… hm.",
+                    "localization": [
+                        "Um… hm."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-08",
+                    "note": "",
+                    "text": "Um, I believe Gideon is more new to the town then-",
+                    "localization": [
+                        "Um, I believe Gideon is more new to the town then-"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-09",
+                    "note": "",
+                    "text": "Do you want me to answer as Pacifica? I’ll just answer as Pacifica.",
+                    "localization": [
+                        "Do you want me to answer as Pacifica? I’ll just answer as Pacifica."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-10",
+                    "note": "",
+                    "text": "I think Gideon’s more new to the town than I am, cause I do show him around and stuff, but um, I really like the town, honestly.",
+                    "localization": [
+                        "I think Gideon’s more new to the town than I am, cause I do show him around and stuff, but um, I really like the town, honestly."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-11",
+                    "note": "",
+                    "text": "Just some of the people aren’t great.",
+                    "localization": [
+                        "Just some of the people aren’t great."
+                    ]
+                },
+                {
+                    "info": "fileName: host-52",
+                    "note": "",
+                    "text": "Alright…",
+                    "localization": [
+                        "Alright…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-53",
+                    "note": "",
+                    "text": "And for… Dipper: What do you think of the new people in town? Also, how’s your relationship with your sister Mabel?",
+                    "localization": [
+                        "And for… Dipper: What do you think of the new people in town? Also, how’s your relationship with your sister Mabel?"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-07",
+                    "note": "",
+                    "text": "Well… I am a huge fan of new people coming to town; more new friends, y’know, brightens things up a little bit.",
+                    "localization": [
+                        "Well… I am a huge fan of new people coming to town; more new friends, y’know, brightens things up a little bit."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-08",
+                    "note": "",
+                    "text": "But… the relationship of my sister and I, I would say we’re quite close as most siblings are, but I’m not one to show and tell too much - just enough.",
+                    "localization": [
+                        "But… the relationship of my sister and I, I would say we’re quite close as most siblings are, but I’m not one to show and tell too much - just enough."
+                    ]
+                },
+                {
+                    "info": "fileName: host-54",
+                    "note": "",
+                    "text": "Well, that’s… great.",
+                    "localization": [
+                        "Well, that’s… great."
+                    ]
+                },
+                {
+                    "info": "fileName: host-55",
+                    "note": "",
+                    "text": "Now for Pacifica, “Who is your favorite person in Reverse Falls so far?”",
+                    "localization": [
+                        "Now for Pacifica, “Who is your favorite person in Reverse Falls so far?”"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-12",
+                    "note": "",
+                    "text": "Umm… well, I don’t have a lot of friends in Reverse Falls, so I’d probably say Gideon.",
+                    "localization": [
+                        "Umm… well, I don’t have a lot of friends in Reverse Falls, so I’d probably say Gideon."
+                    ]
+                },
+                {
+                    "info": "fileName: host-56",
+                    "note": "",
+                    "text": "Okay…",
+                    "localization": [
+                        "Okay…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-57",
+                    "note": "",
+                    "text": "Dipper, now if you don’t mind, I will call you Mason for this one bit.",
+                    "localization": [
+                        "Dipper, now if you don’t mind, I will call you Mason for this one bit."
+                    ]
+                },
+                {
+                    "info": "fileName: host-58",
+                    "note": "",
+                    "text": "What do you think of Will Cipher?",
+                    "localization": [
+                        "What do you think of Will Cipher?"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-09",
+                    "note": "",
+                    "text": "Well… I do have lots of-",
+                    "localization": [
+                        "Well… I do have lots of-"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-10",
+                    "note": "",
+                    "text": "I-I don’t want to boast or anything, I consider myself a bit humble, but…",
+                    "localization": [
+                        "I-I don’t want to boast or anything, I consider myself a bit humble, but…"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-11",
+                    "note": "",
+                    "text": "It is a friend of mine… We like to play a lot of, like my sister and I love to play a lot of games - sorry, I don’t want to say at, but with it, y’know.",
+                    "localization": [
+                        "It is a friend of mine… We like to play a lot of, like my sister and I love to play a lot of games - sorry, I don’t want to say at, but with it, y’know."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-12",
+                    "note": "",
+                    "text": "Sometimes friends tease a little bit, so it’s all in good fun.",
+                    "localization": [
+                        "Sometimes friends tease a little bit, so it’s all in good fun."
+                    ]
+                },
+                {
+                    "info": "fileName: host-59",
+                    "note": "",
+                    "text": "That’s understandable…",
+                    "localization": [
+                        "That’s understandable…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-60",
+                    "note": "",
+                    "text": "Now, this is gonna be a bit of an insult to you Dipper… This one person called you “nerd.” Not even “a nerd.” Just nerd.",
+                    "localization": [
+                        "Now, this is gonna be a bit of an insult to you Dipper… This one person called you “nerd.” Not even “a nerd.” Just nerd."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-13",
+                    "note": "",
+                    "text": "Oh…",
+                    "localization": [
+                        "Oh…"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-14",
+                    "note": "",
+                    "text": "I’m - to be quite honest, I’m appalled that someone would call me this, or even insult me.",
+                    "localization": [
+                        "I’m - to be quite honest, I’m appalled that someone would call me this, or even insult me."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-15",
+                    "note": "",
+                    "text": "I would hope to have the decency to be nice to everyone, but sure, I might be…a bit smart, cunning, nice with my words,but definitely not one of those nerds, that’s for sure.",
+                    "localization": [
+                        "I would hope to have the decency to be nice to everyone, but sure, I might be",
+                        "…a bit smart, cunning, nice with my words,",
+                        "but definitely not one of those nerds, that’s for sure."
+                    ]
+                },
+                {
+                    "info": "fileName: host-61",
+                    "note": "",
+                    "text": "Beautifully put.",
+                    "localization": [
+                        "Beautifully put."
+                    ]
+                },
+                {
+                    "info": "fileName: host-62",
+                    "note": "",
+                    "text": "Pacifica, is there a place you’d really like to visit?",
+                    "localization": [
+                        "Pacifica, is there a place you’d really like to visit?"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-13",
+                    "note": "",
+                    "text": "Mm…",
+                    "localization": [
+                        "Mm…"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-14",
+                    "note": "",
+                    "text": "I don’t know a specific place, but if I could go anywhere, it’s a place with a lot of adventure.",
+                    "localization": [
+                        "I don’t know a specific place, but if I could go anywhere, it’s a place with a lot of adventure."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-15",
+                    "note": "",
+                    "text": "Ummm… I don’t know.",
+                    "localization": [
+                        "Ummm… I don’t know."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-16",
+                    "note": "",
+                    "text": "It’s a hard question… lemme think.",
+                    "localization": [
+                        "It’s a hard question… lemme think."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-17",
+                    "note": "",
+                    "text": "Yeah, I don’t know, that’s a hard question, sorry.",
+                    "localization": [
+                        "Yeah, I don’t know, that’s a hard question, sorry."
+                    ]
+                },
+                {
+                    "info": "fileName: host-63",
+                    "note": "",
+                    "text": "There’s no worries.",
+                    "localization": [
+                        "There’s no worries."
+                    ]
+                },
+                {
+                    "info": "fileName: host-64",
+                    "note": "",
+                    "text": "So Dipper… so you need to answer this question for your sister, here.",
+                    "localization": [
+                        "So Dipper… so you need to answer this question for your sister, here."
+                    ]
+                },
+                {
+                    "info": "fileName: host-65",
+                    "note": "",
+                    "text": "“Do you know how long Mabel has known Candy?”",
+                    "localization": [
+                        "“Do you know how long Mabel has known Candy?”"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-16",
+                    "note": "",
+                    "text": "Now… that is a very good question.",
+                    "localization": [
+                        "Now… that is a very good question."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-17",
+                    "note": "",
+                    "text": "Honestly, as far back as I could remember, but who knows… As I’ve said, my sister does have a decent amount of friends, so I would not want to be rude, but I might be mixing people up.",
+                    "localization": [
+                        "Honestly, as far back as I could remember, but who knows… As I’ve said, my sister does have a decent amount of friends, so I would not want to be rude, but I might be mixing people up."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-18",
+                    "note": "",
+                    "text": "But… if so, I do apologize.",
+                    "localization": [
+                        "But… if so, I do apologize."
+                    ]
+                },
+                {
+                    "info": "fileName: host-66",
+                    "note": "",
+                    "text": "Now, Pacifica, if you don’t mind answering this question for Gideon…",
+                    "localization": [
+                        "Now, Pacifica, if you don’t mind answering this question for Gideon…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-67",
+                    "note": "",
+                    "text": "Do you know his relationship with Mabel?",
+                    "localization": [
+                        "Do you know his relationship with Mabel?"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-18",
+                    "note": "",
+                    "text": "Mm, not really.",
+                    "localization": [
+                        "Mm, not really."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-19",
+                    "note": "",
+                    "text": "I believe they met once, but I’m not actually sure what their relationship is…",
+                    "localization": [
+                        "I believe they met once, but I’m not actually sure what their relationship is…"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-20",
+                    "note": "",
+                    "text": "…sorry.",
+                    "localization": [
+                        "…sorry."
+                    ]
+                },
+                {
+                    "info": "fileName: host-68",
+                    "note": "",
+                    "text": "No worries. Dipper, answer this question for Mabel.",
+                    "localization": [
+                        "No worries. Dipper, answer this question for Mabel."
+                    ]
+                },
+                {
+                    "info": "fileName: host-69",
+                    "note": "",
+                    "text": "Do you know - “Mabel, who’s the person you love most besides Dipper and your family?”",
+                    "localization": [
+                        "Do you know - “Mabel, who’s the person you love most besides Dipper and your family?”"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-19",
+                    "note": "",
+                    "text": "Oooh, that is a- that’s quite tricky to be honest, because, y’know, siblings. Y’know, we have such a great bond.",
+                    "localization": [
+                        "Oooh, that is a- that’s quite tricky to be honest, because, y’know,",
+                        " siblings. Y’know, we have such a great bond."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-20",
+                    "note": "",
+                    "text": "I couldn’t imagine her liking anyone more than me, or just, anyone else in town.",
+                    "localization": [
+                        "I couldn’t imagine her liking anyone more than me, or just, anyone else in town."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-21",
+                    "note": "",
+                    "text": "So… that’s a hard one - I might have to ask her that.",
+                    "localization": [
+                        "So… that’s a hard one - I might have to ask her that."
+                    ]
+                },
+                {
+                    "info": "fileName: host-70",
+                    "note": "",
+                    "text": "I mean, yeah, that makes sense.",
+                    "localization": [
+                        "I mean, yeah, that makes sense."
+                    ]
+                },
+                {
+                    "info": "fileName: host-71",
+                    "note": "",
+                    "text": "Pacifica, what is your favorite videogame?",
+                    "localization": [
+                        "Pacifica, what is your favorite videogame?"
+                    ]
+                },
+                {
+                    "info": "fileName: aki-21",
+                    "note": "",
+                    "text": "I really like open-world games that you can do a lot of adventuring in, and a lot of exploration.",
+                    "localization": [
+                        "I really like open-world games that you can do a lot of adventuring in, and a lot of exploration."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-22",
+                    "note": "",
+                    "text": "I don’t know if I have a favorite… but yeah, just a lot of exploration. Heh, open world maps, lots of fun stuff.",
+                    "localization": [
+                        "I don’t know if I have a favorite… but yeah, just a lot of exploration. Heh, open world maps, lots of fun stuff."
+                    ]
+                },
+                {
+                    "info": "fileName: host-72",
+                    "note": "",
+                    "text": "Yeah, that’s great.",
+                    "localization": [
+                        "Yeah, that’s great."
+                    ]
+                },
+                {
+                    "info": "fileName: host-73",
+                    "note": "",
+                    "text": "Now… we will close off with one more question.",
+                    "localization": [
+                        "Now… we will close off with one more question."
+                    ]
+                },
+                {
+                    "info": "fileName: host-74",
+                    "note": "",
+                    "text": "Dipper, how is your relationship with your uncle Stanford?",
+                    "localization": [
+                        "Dipper, how is your relationship with your uncle Stanford?"
+                    ]
+                },
+                {
+                    "info": "",
+                    "note": "",
+                    "text": "...",
+                    "localization": [
+                        ".",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-22",
+                    "note": "",
+                    "text": "Now, if I think about my family for a second, I know I’m quite close with my sister obviously.I’ve mentioned her a lot, which-",
+                    "localization": [
+                        "Now, if I think about my family for a second, I know I’m quite close with my sister obviously.",
+                        "I’ve mentioned her a lot, which-"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-22.5",
+                    "note": "",
+                    "text": "I would’ve liked to mention myself a little bit more, but you know, I am gracious.",
+                    "localization": [
+                        "I would’ve liked to mention myself a little bit more, but you know, I am gracious."
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-23",
+                    "note": "",
+                    "text": "Ha… y’know, I would never want to get into too much family specifics. I would never want to air out any dirty laundry between family members or anything, so…",
+                    "localization": [
+                        "Ha… y’know, I would never want to get into too much family specifics. I would never want to air out any dirty laundry between family members or anything, so…"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-24",
+                    "note": "",
+                    "text": "Maybe that’s just for everyone to see.",
+                    "localization": [
+                        "Maybe that’s just for everyone to see."
+                    ]
+                },
+                {
+                    "info": "fileName: host-75",
+                    "note": "",
+                    "text": "Right…",
+                    "localization": [
+                        "Right…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-76",
+                    "note": "",
+                    "text": "Now, let’s conclude this questions and answers video.",
+                    "localization": [
+                        "Now, let’s conclude this questions and answers video."
+                    ]
+                },
+                {
+                    "info": "fileName: host-77",
+                    "note": "",
+                    "text": "Uh, directors - so I’ve heard there’s a little bit of a thing called an ARG you’re working on…",
+                    "localization": [
+                        "Uh, directors - so I’ve heard there’s a little bit of a thing called an ARG you’re working on…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-74",
+                    "note": "",
+                    "text": "Oh god…",
+                    "localization": [
+                        "Oh god…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-75",
+                    "note": "",
+                    "text": "Uh… the ARG exists. You guys still haven’t solved it…",
+                    "localization": [
+                        "Uh… the ARG exists. You guys still haven’t solved it…"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-76",
+                    "note": "",
+                    "text": "I’m honestly surprised none of y’all bothered to go looking in places other than the ones we explicitly pointed out to you.",
+                    "localization": [
+                        "I’m honestly surprised none of y’all bothered to go looking in places other than the ones we explicitly pointed out to you."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-77",
+                    "note": "",
+                    "text": "It’s an alternate reality event… so, y’know, there is material out there. It’s linked to us. You just have to go find out.",
+                    "localization": [
+                        "It’s an alternate reality event… so, y’know, there is material out there. It’s linked to us. You just have to go find out."
+                    ]
+                },
+                {
+                    "info": "fileName: host-78",
+                    "note": "",
+                    "text": "Well, I can awfully say that… the directors are honestly disappointed in all of you. Try-try a little bit better. Maybe you’ll find the answer you need.",
+                    "localization": [
+                        "Well, I can awfully say that… the directors are honestly disappointed in all of you. Try-try a little bit better. Maybe you’ll find the answer you need."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-78",
+                    "note": "",
+                    "text": "Why-why ever would you say that?",
+                    "localization": [
+                        "Why-why ever would you say that?"
+                    ]
+                },
+                {
+                    "info": "fileName: host-79",
+                    "note": "",
+                    "text": "Oh… well…",
+                    "localization": [
+                        "Oh… well…"
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-20",
+                    "note": "",
+                    "text": "It’s okay player, you can do it!",
+                    "localization": [
+                        "It’s okay player, you can do it!"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-27",
+                    "note": "",
+                    "text": "We believe in you! Just look a little deeper!",
+                    "localization": [
+                        "We believe in you! Just look a little deeper!"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-79",
+                    "note": "",
+                    "text": "I didn’t spend months planning this thing for nobody to find it!",
+                    "localization": [
+                        "I didn’t spend months planning this thing for nobody to find it!"
+                    ]
+                },
+                {
+                    "info": "fileName: host-80",
+                    "note": "",
+                    "text": "Before we conclude this entire video, give them one hint, at least.",
+                    "localization": [
+                        "Before we conclude this entire video, give them one hint, at least."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-80",
+                    "note": "",
+                    "text": "Uhh…",
+                    "localization": [
+                        "Uhh…"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-28",
+                    "note": "",
+                    "text": "A little scrap of something.",
+                    "localization": [
+                        "A little scrap of something."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-81",
+                    "note": "",
+                    "text": "The tiniest little scrap - I suppose I could do that.",
+                    "localization": [
+                        "The tiniest little scrap - I suppose I could do that."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-82",
+                    "note": "",
+                    "text": "Uh… You’ve all seen the picture, you’ve all gone to the discord.",
+                    "localization": [
+                        "Uh… You’ve all seen the picture, you’ve all gone to the discord."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-83",
+                    "note": "",
+                    "text": "There are more places that are tied to us - places where we give you information, we give you videos. We give you little nods and hints, and tits and tats.",
+                    "localization": [
+                        "There are more places that are tied to us - places where we give you information, we give you videos. We give you little nods and hints, and tits and tats."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-84",
+                    "note": "",
+                    "text": "Why are you looking in one of them?",
+                    "localization": [
+                        "Why are you looking in one of them?"
+                    ]
+                },
+                {
+                    "info": "fileName: grig-85",
+                    "note": "",
+                    "text": "That good enough?",
+                    "localization": [
+                        "That good enough?"
+                    ]
+                },
+                {
+                    "info": "fileName: host-81",
+                    "note": "",
+                    "text": "Yes, that’s… good enough for the player.",
+                    "localization": [
+                        "Yes, that’s… good enough for the player."
+                    ]
+                },
+                {
+                    "info": "fileName: host-82",
+                    "note": "",
+                    "text": "But unfortunately, this is where we must conclude.",
+                    "localization": [
+                        "But unfortunately, this is where we must conclude."
+                    ]
+                },
+                {
+                    "info": "fileName: host-83",
+                    "note": "",
+                    "text": "Now everyone please, say your goodbyes as we sign off.",
+                    "localization": [
+                        "Now everyone please, say your goodbyes as we sign off."
+                    ]
+                },
+                {
+                    "info": "fileName: morgan-21",
+                    "note": "",
+                    "text": "Well it’s been fun. Join again sometime soon!",
+                    "localization": [
+                        "Well it’s been fun. Join again sometime soon!"
+                    ]
+                },
+                {
+                    "info": "fileName: rune-29",
+                    "note": "",
+                    "text": "Can’t wait to hear all your guys’ voices! See you next time.",
+                    "localization": [
+                        "Can’t wait to hear all your guys’ voices! See you next time."
+                    ]
+                },
+                {
+                    "info": "fileName: aki-23",
+                    "note": "",
+                    "text": "Mm, it’s been really fun! Hope I did a good job. Thanks for watching!",
+                    "localization": [
+                        "Mm, it’s been really fun! Hope I did a good job. Thanks for watching!"
+                    ]
+                },
+                {
+                    "info": "fileName: ethan-25",
+                    "note": "",
+                    "text": "I’ll say, I had a blast. I hope anyone watching this had a great time too! Thank you guys so much.",
+                    "localization": [
+                        "I’ll say, I had a blast. I hope anyone watching this had a great time too! Thank you guys so much."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-86",
+                    "note": "",
+                    "text": "Toodles all. Please do send in more questions, applications, and whatever else you might have, or desire, or want to do. Meh, yeah, we’re listening.",
+                    "localization": [
+                        "Toodles all. Please do send in more questions, applications, and whatever else you might have, or desire, or want to do. Meh, yeah, we’re listening."
+                    ]
+                },
+                {
+                    "info": "fileName: host-84",
+                    "note": "",
+                    "text": "Now, thank you to everyone for watching. This was the Xbox Fridge signing out.",
+                    "localization": [
+                        "Now, thank you to everyone for watching. This was the Xbox Fridge signing out."
+                    ]
+                },
+                {
+                    "info": "fileName: host-85",
+                    "note": "",
+                    "text": "Stay tuned for more updates for the game…",
+                    "localization": [
+                        "Stay tuned for more updates for the game…"
+                    ]
+                },
+                {
+                    "info": "fileName: host-86",
+                    "note": "",
+                    "text": "…and finish the ARG please, they have been working too hard on it, alright.",
+                    "localization": [
+                        "…and finish the ARG please, they have been working too hard on it, alright."
+                    ]
+                },
+                {
+                    "info": "fileName: host-87",
+                    "note": "",
+                    "text": "Goodbye everyone.",
+                    "localization": [
+                        "Goodbye everyone."
+                    ]
+                },
+                {
+                    "info": "fileName: grig-87",
+                    "note": "",
+                    "text": "We need artists!",
+                    "localization": [
+                        "We need artists!"
+                    ]
+                }
+            ]
+        }
+    ]
+}

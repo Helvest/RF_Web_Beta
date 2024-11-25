@@ -1,0 +1,9 @@
+//Beta_End
+
+[bg signal_interrupted_blue]
+[trans hide]
+
+[F narrator]
+<funky>End of the Beta, click to restart !!!
+
+[curtain][next Chapter_1/1][end]

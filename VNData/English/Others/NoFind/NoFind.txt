@@ -1,0 +1,8 @@
+[BG signal_interrupted_blue]
+
+[trans hide]
+
+[F Narrator]
+Link no valid
+
+[trans show][next Chapter_1/1][end]

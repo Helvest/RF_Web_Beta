@@ -1,0 +1,241 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "Char: narrator | fileName: default_narrator_001",
+                    "note": "",
+                    "text": "Pacifica arrives at Gideon’s house. She knocks on the door.",
+                    "localization": [
+                        "Pacifica arrive chez Gideon. Elle frappe à la porte."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_001",
+                    "note": "",
+                    "text": "(happy)Gideon! It’s Pacifica! The girl you met yesterday, remember? I got your address from sooS!",
+                    "localization": [
+                        "Gideon! C’est Pacifica! La fille que tu as rencontrée hier, tu te souviens? J'ai eu ton adresse grâce à sooS!"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_002",
+                    "note": "",
+                    "text": "Abruptly, the door swings open with a distressed Gideon standing in the doorway.",
+                    "localization": [
+                        "Soudain, la porte s'ouvre brusquement avec un Gideon stressé dans l'embrasure."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_001",
+                    "note": "",
+                    "text": "(scared)Pacifica! <size=120%>Shhh!",
+                    "localization": [
+                        "Pacifica! <size=120%>Chut!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_002",
+                    "note": "",
+                    "text": "(happy)Oh, hey Gideon! What’s up? You answered the door fast! Usually it takes me a whole minute to get to it…",
+                    "localization": [
+                        "Oh, salut Gideon! Quoi de neuf? Tu as ouvert la porte vite! D'habitude, moi ça me prend une minute entière pour y arriver…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_002",
+                    "note": "",
+                    "text": "(scared)Pacifica, please just go before-",
+                    "localization": [
+                        "Pacifica, s'il te plaît, pars avant-"
+                    ]
+                },
+                {
+                    "info": "Char: bud | fileName: default_bud_001",
+                    "note": "",
+                    "text": "BOY!!!",
+                    "localization": [
+                        "GIDEON!!!"
+                    ]
+                },
+                {
+                    "info": "Char: bud | fileName: default_bud_002",
+                    "note": "",
+                    "text": "WHO IS AT THE DOOR THIS EARLY IN THE MORNING? IT BETTER NOT BE THE POLICE!",
+                    "localization": [
+                        "QUI EST À LA PORTE SI TÔT LE MATIN? J'ESPÈRE QUE CE N'EST PAS LA POLICE!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_003",
+                    "note": "",
+                    "text": "(perplexed)Gideon, is that your dad?",
+                    "localization": [
+                        "Gideon, c'est ton père?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_003",
+                    "note": "",
+                    "text": "(scared)Yes, but no need to-",
+                    "localization": [
+                        "Oui, mais pas besoin de-"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_004",
+                    "note": "",
+                    "text": "(confident)HELLO SIR, I AM JUST PICKING GIDEON UP FOR THE DAY!",
+                    "localization": [
+                        "BONJOUR MONSIEUR, JE VIENS JUSTE CHERCHER GIDEON POUR LA JOURNÉE!"
+                    ]
+                },
+                {
+                    "info": "Char: bud | fileName: default_bud_003",
+                    "note": "",
+                    "text": "IS THAT A GIRL’S VOICE?!",
+                    "localization": [
+                        "C'EST UNE FILLE QUE J'ENDENDS?!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_004",
+                    "note": "",
+                    "text": "(anxious)On second thought, I’ll come with you as long as it’s far, far away and we don’t come back for at least a couple hours.",
+                    "localization": [
+                        "En y réfléchissant, je viens avec toi tant que c'est loin, très très loin et qu'on ne revient pas avant au moins quelques heures."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_005",
+                    "note": "",
+                    "text": "(happy)Sure! I’ll take you someplace that’ll blow your mind…",
+                    "localization": [
+                        "Bien sûr! Je vais t'emmener dans un endroit qui va te faire halluciner…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_005",
+                    "note": "",
+                    "text": "(idle)Yeah, whatever. Let’s just get out of here first.",
+                    "localization": [
+                        "Ouais, peu importe. Partons d'ici d'abord."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_006",
+                    "note": "",
+                    "text": "(perplexed)Sooo… Your dad seemed like a really nice guy! Why did we have to leave so fast?",
+                    "localization": [
+                        "Alors… Ton père avait l'air vraiment sympa! Pourquoi on a dû partir si vite?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_006",
+                    "note": "",
+                    "text": "(anxious)Ah… He just gets a little weird about… surprise guests. You should call before you come over next time.",
+                    "localization": [
+                        "Ah… Il devient juste un peu bizarre avec… les invités surprises. Tu devrais appeler avant de venir la prochaine fois."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_007",
+                    "note": "",
+                    "text": "(disappointed)Oh…",
+                    "localization": [
+                        "Oh…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_007",
+                    "note": "",
+                    "text": "(embarassed)Ahem… So where are we going?",
+                    "localization": [
+                        "Hum… Alors, où est-ce qu'on va?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_008",
+                    "note": "",
+                    "text": "(embarassed)Please don’t tell me you just found some rare bird’s nest or something weird…",
+                    "localization": [
+                        "S'il te plaît, ne me dis pas que tu as juste trouvé un nid d'oiseau rare ou un truc bizarre…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_008",
+                    "note": "",
+                    "text": "(happy)Pfft! Who do you think I am? No, no. I have something far better.",
+                    "localization": [
+                        "Pfft! Pour qui tu me prends? Non, non. J'ai quelque chose de bien mieux."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_009",
+                    "note": "",
+                    "text": "(anxious)I’m getting worried…",
+                    "localization": [
+                        "Je commence à m'inquiéter…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_009",
+                    "note": "",
+                    "text": "(happy)Did you eat breakfast?",
+                    "localization": [
+                        "As-tu mangé un petit-déj'?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_010",
+                    "note": "",
+                    "text": "(confused)Of course not! It’s really early!",
+                    "localization": [
+                        "Bien sûr que non! Il est super tôt!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_010",
+                    "note": "",
+                    "text": "(perplexed)It’s actually only 10 am… But your answer was perfect!",
+                    "localization": [
+                        "Il est en fait déjà 10h… Mais ta réponse était parfaite!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_011",
+                    "note": "",
+                    "text": "(confused)Wait a minute… Are you taking me out for breakfast?",
+                    "localization": [
+                        "Attends une minute… Tu m'emmènes prendre le petit-déjeuner?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_011",
+                    "note": "",
+                    "text": "(confident)Hehe, yep! And here we are!",
+                    "localization": [
+                        "Hehe, oui! Et nous y voilà!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_012",
+                    "note": "",
+                    "text": "(confident)By the way, did you know that this place has the most amazing pancakes...?",
+                    "localization": [
+                        "Au fait, tu savais que cet endroit a les pancakes les plus incroyables...?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_013",
+                    "note": "",
+                    "text": "(confident)Melting chocolate chip bliss with a fresh drop of whipped cream and juicy cherry on top...",
+                    "localization": [
+                        "Un délice de pépites de chocolat fondantes avec une touche de crème fouettée fraîche et une cerise juteuse sur le dessus..."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,10 +1,14 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="Character" preserve="all" />
-    <type fullname="CharacterDatas" preserve="all" />
-    <type fullname="SpritesList" preserve="all" />
-    <type fullname="CharacterData" preserve="nothing" serialized="true" />
-    <type fullname="ExpresionSpritesData" preserve="nothing" serialized="true" />
+    <type fullname="CharacterMatController" preserve="all" />
+    <type fullname="CharacterOneSprite" preserve="all" />
+    <type fullname="InstanceID" preserve="all" />
+    <type fullname="SoBody" preserve="all" />
+    <type fullname="SoCharacterData" preserve="all" />
+    <type fullname="SoExpression" preserve="all" />
+    <type fullname="SoOverlayer" preserve="all" />
+    <type fullname="SoSpritesData" preserve="all" />
+    <type fullname=".CharacterData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -18,20 +22,16 @@
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TMP_ColorGradient" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.AnimationClip" preserve="all" />
-    <type fullname="UnityEngine.Animator" preserve="all" />
-    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.AudioClip" preserve="all" />
-  </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
-    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
-    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="Helvest.Tools">
+    <type fullname="Helvest.Tools.QuickLog" preserve="nothing" serialized="true" />
   </assembly>
 </linker>

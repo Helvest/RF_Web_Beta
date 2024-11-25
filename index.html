@@ -118,15 +118,36 @@
       const buildUrl = "Build";
       const loaderUrl = buildUrl + "/RF_Web_Beta.loader.js";
       const config = {
-        dataUrl: buildUrl + "/RF_Web_Beta.data",
-        frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js",
-        codeUrl: buildUrl + "/RF_Web_Beta.wasm",
+        dataUrl: buildUrl + "/RF_Web_Beta.data.unityweb",
+        frameworkUrl: buildUrl + "/RF_Web_Beta.framework.js.unityweb",
+        codeUrl: buildUrl + "/RF_Web_Beta.wasm.unityweb",
+        symbolsUrl: buildUrl + "/RF_Web_Beta.symbols.json.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
         productVersion: "1.0",
         matchWebGLToCanvasSize: false,
-        showBanner: unityShowBanner
+        cacheControl: function (url) {
+          // Define regular expressions for matching file types
+          const revalidateFileTypes = /\.(data|bundle|txt)$/;
+          const immutableFileTypes = /\.(ogg|mp3|wav|jpg|jpeg|png|webp)$/;
+
+          // Caching enabled for .data, .bundle, and .txt files.
+          // Revalidate if file is up to date before loading from cache
+          if (revalidateFileTypes.test(url)) {
+            return "must-revalidate";
+          }
+
+          // Load file from cache without revalidation.
+          if (immutableFileTypes.test(url)) {
+            return "immutable";
+          }
+
+          // Disable explicit caching for all other files.
+          // Note: the default browser cache may cache them anyway.
+          return "no-store";
+        },
+        showBanner: unityShowBanner,
       };
 
       const container = document.querySelector("#unity-container");
@@ -194,8 +215,8 @@
           if(idealWidth <= width){
             width = idealWidth;
           }else{
-            const idealHeight = width * ratio_9_16;
-            height = idealHeight;
+            //const idealHeight = width * ratio_9_16;
+            //height = idealHeight;
           }
         }else{
           const idealHeight = width * ratio_16_9;
@@ -203,8 +224,8 @@
           if(idealHeight <= height){
             height = idealHeight;
           }else{
-            const idealWidth = height * ratio_9_16;
-            width = idealWidth;
+            //const idealWidth = height * ratio_9_16;
+            //width = idealWidth;
           }
         }
 
@@ -229,6 +250,11 @@
       const script = document.createElement("script");
       script.src = loaderUrl;
       script.onload = () => {
+        config['webglContextAttributes'] = {
+          preserveDrawingBuffer: true, //Add this line to preserve the Camera.clearFlags setting
+          powerPreference: 1 //Add this line to preserve the Power Preference Player setting
+        };
+
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";
           progressBarEmpty.style.display = "";

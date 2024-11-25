@@ -1,0 +1,17 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "Char: narrator | fileName: default_narrator_001",
+                    "note": "",
+                    "text": "Link no valid",
+                    "localization": [
+                        "Link no valid"
+                    ]
+                }
+            ]
+        }
+    ]
+}

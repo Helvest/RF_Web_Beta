@@ -1,0 +1,273 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "Char: gideon | fileName: default_gideon_001",
+                    "note": "",
+                    "text": "(unclear)Yeesh… Awkward….",
+                    "localization": [
+                        "Yeesh… Awkward…."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_001",
+                    "note": "",
+                    "text": "(cheeky)Well, that was unexpected… But that’s another thing I love about this diner. Everyone has a different story to tell! There are so many unique people that come here, and it’s usually great if we want to gather information. Just listen around…",
+                    "localization": [
+                        "Well, that was unexpected… But that’s another thing I love about this diner. Everyone has a different story to tell! There are so many unique people that come here, and it’s usually great if we want to gather information. Just listen around…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica, gideon | fileName: default_pacifica_gideon_001",
+                    "note": "",
+                    "text": "(perplexed, perplexed)…",
+                    "localization": [
+                        "…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_002",
+                    "note": "",
+                    "text": "(perplexed)...",
+                    "localization": [
+                        "..."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_003",
+                    "note": "",
+                    "text": "(perplexed)By the way Tyler, did you see the weird electrical storm last night at the start of the pine forest?",
+                    "localization": [
+                        "By the way Tyler, did you see the weird electrical storm last night at the start of the pine forest?"
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_001",
+                    "note": "",
+                    "text": "(perplexed)No, I was busy looking for my clothes actually.",
+                    "localization": [
+                        "No, I was busy looking for my clothes actually."
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_002",
+                    "note": "",
+                    "text": "(perplexed)Your… clothes?",
+                    "localization": [
+                        "Your… clothes?"
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_003",
+                    "note": "",
+                    "text": "(frustrated)Yeah, don’t laugh, but I think someone stole a bunch of my clothes. I was drying them on the clothesline in my garden yesterday when they disappeared. Luckily, I never wash my cap, so that’s something they’re not going to get to that easily!",
+                    "localization": [
+                        "Yeah, don’t laugh, but I think someone stole a bunch of my clothes. I was drying them on the clothesline in my garden yesterday when they disappeared. Luckily, I never wash my cap, so that’s something they’re not going to get to that easily!"
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_004",
+                    "note": "",
+                    "text": "(frustrated)Dude, that’s kind of disgusting…",
+                    "localization": [
+                        "Dude, that’s kind of disgusting…"
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_005",
+                    "note": "",
+                    "text": "(frustrated)You think it might’ve been one of those hobos that people have been talking about lately? Apparently, we got a ton that suddenly moved into town.",
+                    "localization": [
+                        "You think it might’ve been one of those hobos that people have been talking about lately? Apparently, we got a ton that suddenly moved into town."
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_006",
+                    "note": "",
+                    "text": "(thinking)That is so weird…",
+                    "localization": [
+                        "That is so weird…"
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_007",
+                    "note": "",
+                    "text": "(thinking)Then again, we shouldn’t be too surprised.",
+                    "localization": [
+                        "Then again, we shouldn’t be too surprised."
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_008",
+                    "note": "",
+                    "text": "(thinking)The Falls are full of strange occurrences.",
+                    "localization": [
+                        "The Falls are full of strange occurrences."
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_009",
+                    "note": "",
+                    "text": "(sigh)Very true…",
+                    "localization": [
+                        "Very true…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_002",
+                    "note": "",
+                    "text": "(happy)Mister Tyler!",
+                    "localization": [
+                        "Mister Tyler!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_004",
+                    "note": "",
+                    "text": "(surprised)Hey! What are you doing?",
+                    "localization": [
+                        "Hey! What are you doing?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_003",
+                    "note": "",
+                    "text": "(happy)Could we investigate the place where your clothes were stolen? We’d like to help out.",
+                    "localization": [
+                        "Could we investigate the place where your clothes were stolen? We’d like to help out."
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_010",
+                    "note": "",
+                    "text": "(perplexed)Eh… My house is locked so you two can’t steal anything. Sure, whatever. I live on the third street after the laser tag building.",
+                    "localization": [
+                        "Eh… My house is locked so you two can’t steal anything. Sure, whatever. I live on the third street after the laser tag building."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_005",
+                    "note": "",
+                    "text": "(anxious)Wait a second!",
+                    "localization": [
+                        "Wait a second!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_004",
+                    "note": "",
+                    "text": "(joyful)Thank you sir!",
+                    "localization": [
+                        "Thank you sir!"
+                    ]
+                },
+                {
+                    "info": "Char: tyler | fileName: default_tyler_011",
+                    "note": "",
+                    "text": "(annoyed)Though if you mess anything up, I’ll get you…",
+                    "localization": [
+                        "Though if you mess anything up, I’ll get you…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_006",
+                    "note": "",
+                    "text": "(confused)Wow, wow! Slow down there Pacifica! We haven’t even gotten our food yet.",
+                    "localization": [
+                        "Wow, wow! Slow down there Pacifica! We haven’t even gotten our food yet."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_005",
+                    "note": "",
+                    "text": "(confident)We’re going to investigate! Food is best served after hard work. We can come back later!",
+                    "localization": [
+                        "We’re going to investigate! Food is best served after hard work. We can come back later!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_007",
+                    "note": "",
+                    "text": "(angry)You wake me up and tempt me with all that food and now you’re dragging me out before I can even have a bite?",
+                    "localization": [
+                        "You wake me up and tempt me with all that food and now you’re dragging me out before I can even have a bite?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_008",
+                    "note": "",
+                    "text": "(angry)How could you?!",
+                    "localization": [
+                        "How could you?!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_006",
+                    "note": "",
+                    "text": "(cheeky)Come on, it’ll be fun!",
+                    "localization": [
+                        "Come on, it’ll be fun!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_007",
+                    "note": "",
+                    "text": "(cheeky)Imagine how cool it will be once we uncover all of this town’s secrets, we might even find a lead on the Blue Dorito!",
+                    "localization": [
+                        "Imagine how cool it will be once we uncover all of this town’s secrets, we might even find a lead on the Blue Dorito!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_008",
+                    "note": "",
+                    "text": "(thinking)Although I'm still unsure about what to do first…",
+                    "localization": [
+                        "Although I'm still unsure about what to do first…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_009",
+                    "note": "",
+                    "text": "(disappointed)Wait, I still haven't agreed to this!",
+                    "localization": [
+                        "Wait, I still haven't agreed to this!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_010",
+                    "note": "",
+                    "text": "(disappointed)Let's talk about this over…",
+                    "localization": [
+                        "Let's talk about this over…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_011",
+                    "note": "",
+                    "text": "(thinking)…over food?",
+                    "localization": [
+                        "…over food?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_009",
+                    "note": "",
+                    "text": "(joyful)Nope! So which one do you think we should go to first?",
+                    "localization": [
+                        "Nope! So which one do you think we should go to first?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_012",
+                    "note": "",
+                    "text": "(thinking)Stop deciding things without me!",
+                    "localization": [
+                        "Stop deciding things without me!"
+                    ]
+                }
+            ]
+        }
+    ]
+}

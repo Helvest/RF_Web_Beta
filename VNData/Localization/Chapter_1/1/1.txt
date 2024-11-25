@@ -1,0 +1,241 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "info": "Char: narrator | fileName: default_narrator_001",
+                    "note": "",
+                    "text": "Pacifica arrives at Gideon’s house. She knocks on the door.",
+                    "localization": [
+                        "Pacifica arrives at Gideon’s house. She knocks on the door."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_001",
+                    "note": "",
+                    "text": "(happy)Gideon! It’s Pacifica! The girl you met yesterday, remember? I got your address from sooS!",
+                    "localization": [
+                        "Gideon! It’s Pacifica! The girl you met yesterday, remember? I got your address from sooS!"
+                    ]
+                },
+                {
+                    "info": "Char: narrator | fileName: default_narrator_002",
+                    "note": "",
+                    "text": "Abruptly, the door swings open with a distressed Gideon standing in the doorway.",
+                    "localization": [
+                        "Abruptly, the door swings open with a distressed Gideon standing in the doorway."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_001",
+                    "note": "",
+                    "text": "(scared)Pacifica! <size=120%>Shhh!",
+                    "localization": [
+                        "Pacifica! <size=120%>Shhh!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_002",
+                    "note": "",
+                    "text": "(happy)Oh, hey Gideon! What’s up? You answered the door fast! Usually it takes me a whole minute to get to it…",
+                    "localization": [
+                        "Oh, hey Gideon! What’s up? You answered the door fast! Usually it takes me a whole minute to get to it…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_002",
+                    "note": "",
+                    "text": "(scared)Pacifica, please just go before-",
+                    "localization": [
+                        "Pacifica, please just go before-"
+                    ]
+                },
+                {
+                    "info": "Char: bud | fileName: default_bud_001",
+                    "note": "",
+                    "text": "BOY!!!",
+                    "localization": [
+                        "BOY!!!"
+                    ]
+                },
+                {
+                    "info": "Char: bud | fileName: default_bud_002",
+                    "note": "",
+                    "text": "WHO IS AT THE DOOR THIS EARLY IN THE MORNING? IT BETTER NOT BE THE POLICE!",
+                    "localization": [
+                        "WHO IS AT THE DOOR THIS EARLY IN THE MORNING? IT BETTER NOT BE THE POLICE!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_003",
+                    "note": "",
+                    "text": "(perplexed)Gideon, is that your dad?",
+                    "localization": [
+                        "Gideon, is that your dad?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_003",
+                    "note": "",
+                    "text": "(scared)Yes, but no need to-",
+                    "localization": [
+                        "Yes, but no need to-"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_004",
+                    "note": "",
+                    "text": "(confident)HELLO SIR, I AM JUST PICKING GIDEON UP FOR THE DAY!",
+                    "localization": [
+                        "HELLO SIR, I AM JUST PICKING GIDEON UP FOR THE DAY!"
+                    ]
+                },
+                {
+                    "info": "Char: bud | fileName: default_bud_003",
+                    "note": "",
+                    "text": "IS THAT A GIRL’S VOICE?!",
+                    "localization": [
+                        "IS THAT A GIRL’S VOICE?!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_004",
+                    "note": "",
+                    "text": "(anxious)On second thought, I’ll come with you as long as it’s far, far away and we don’t come back for at least a couple hours.",
+                    "localization": [
+                        "On second thought, I’ll come with you as long as it’s far, far away and we don’t come back for at least a couple hours."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_005",
+                    "note": "",
+                    "text": "(happy)Sure! I’ll take you someplace that’ll blow your mind…",
+                    "localization": [
+                        "Sure! I’ll take you someplace that’ll blow your mind…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_005",
+                    "note": "",
+                    "text": "(idle)Yeah, whatever. Let’s just get out of here first.",
+                    "localization": [
+                        "Yeah, whatever. Let’s just get out of here first."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_006",
+                    "note": "",
+                    "text": "(perplexed)Sooo… Your dad seemed like a really nice guy! Why did we have to leave so fast?",
+                    "localization": [
+                        "Sooo… Your dad seemed like a really nice guy! Why did we have to leave so fast?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_006",
+                    "note": "",
+                    "text": "(anxious)Ah… He just gets a little weird about… surprise guests. You should call before you come over next time.",
+                    "localization": [
+                        "Ah… He just gets a little weird about… surprise guests. You should call before you come over next time."
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_007",
+                    "note": "",
+                    "text": "(disappointed)Oh…",
+                    "localization": [
+                        "Oh…"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_007",
+                    "note": "",
+                    "text": "(embarassed)Ahem… So where are we going?",
+                    "localization": [
+                        "Ahem… So where are we going?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_008",
+                    "note": "",
+                    "text": "(embarassed)Please don’t tell me you just found some rare bird’s nest or something weird…",
+                    "localization": [
+                        "Please don’t tell me you just found some rare bird’s nest or something weird…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_008",
+                    "note": "",
+                    "text": "(happy)Pfft! Who do you think I am? No, no. I have something far better.",
+                    "localization": [
+                        "Pfft! Who do you think I am? No, no. I have something far better."
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_009",
+                    "note": "",
+                    "text": "(anxious)I’m getting worried…",
+                    "localization": [
+                        "I’m getting worried…"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_009",
+                    "note": "",
+                    "text": "(happy)Did you eat breakfast?",
+                    "localization": [
+                        "Did you eat breakfast?"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_010",
+                    "note": "",
+                    "text": "(confused)Of course not! It’s really early!",
+                    "localization": [
+                        "Of course not! It’s really early!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_010",
+                    "note": "",
+                    "text": "(perplexed)It’s actually only 10 am… But your answer was perfect!",
+                    "localization": [
+                        "It’s actually only 10 am… But your answer was perfect!"
+                    ]
+                },
+                {
+                    "info": "Char: gideon | fileName: default_gideon_011",
+                    "note": "",
+                    "text": "(confused)Wait a minute… Are you taking me out for breakfast?",
+                    "localization": [
+                        "Wait a minute… Are you taking me out for breakfast?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_011",
+                    "note": "",
+                    "text": "(confident)Hehe, yep! And here we are!",
+                    "localization": [
+                        "Hehe, yep! And here we are!"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_012",
+                    "note": "",
+                    "text": "(confident)By the way, did you know that this place has the most amazing pancakes...?",
+                    "localization": [
+                        "By the way, did you know that this place has the most amazing pancakes...?"
+                    ]
+                },
+                {
+                    "info": "Char: pacifica | fileName: default_pacifica_013",
+                    "note": "",
+                    "text": "(confident)Melting chocolate chip bliss with a fresh drop of whipped cream and juicy cherry on top...",
+                    "localization": [
+                        "Melting chocolate chip bliss with a fresh drop of whipped cream and juicy cherry on top..."
+                    ]
+                }
+            ]
+        }
+    ]
+}

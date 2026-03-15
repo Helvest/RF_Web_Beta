@@ -1,61 +1,50 @@
 ﻿[BG diner_inside]
 [TRANS hide]
-
-[CF scot show]
-scot
-
-[CF rosanna show]
-rosanna
-
-[trans show][next Chapter_1/t]
--
-[C Pacifica set happy show from outright flip left]
-[CF Gideon set joyful show from outleft]
-
-
-Test normal
-
-[C_mat preset morning]
-Test morning
-
-[C_mat preset day]
-Test day
-
-[C_mat preset evening]
-Test evening
-
-[C_mat preset night]
-Test night
-
-[C_mat preset dark]
-Test dark
-
-[goto default]
-repeat
-
+//[music gideon_theme]
 [F Narrator]
-Now test the choices
+Text 1: Now test the choices
+
+Text 2
+//[music pacifica_theme]
+Text 3
+
+Text 4
 
 [F]
 [choice choix_1]
-Texte du choix 1//comment one line
+Text 5: Texte du choix 1
 
 [choice choix_2]
-Texte du choix 2/*
-multiline comment
-*/
+Text 5: Texte du choix 2
+
+[choice choix_3]
+Text 5: Texte du choix 3
 
 [endchoice]
 
 #choix_1
-Vous avez choisi le premier choix.
+Text 6: Vous avez choisi le premier choix.
+
+1 - 1
+1 - 2
+1 - 3
 [goto suite]
 
 #choix_2
-Vous avez choisi le deuxième choix.
+[F Narrator]
+Text 6: Vous avez choisi le deuxième choix.
+[goto suite]
+
+#choix_3
+[F Narrator]
+Text 6: Vous avez choisi le troisième choix.
+3 - 1
+3 - 2
+3 - 3
 [goto suite]
 
 #suite
+[F Narrator]
 C'est la suite de l'histoire.
 
 1
@@ -65,3 +54,46 @@ C'est la suite de l'histoire.
 3
 
 [trans show][next Chapter_1/t][end]
+
+#shaders
+
+[F Narrator]
+[C Pacifica set happy show from outright flip left]
+[C Gideon set happy show from outleft]
+Narrator talk 0
+
+Narrator talk 1
+
+[F Pacifica]
+[C Gideon Pacifica | set joyful]
+[C_mat set gradient preset morning]
+Test morning 2
+
+[F Gideon]
+[C Gideon Pacifica | set angry]
+[C_mat preset day]
+Test day 3
+
+[F Pacifica]
+[C Gideon Pacifica | set noface]
+[C Gideon mat preset night]
+Test night 4
+
+[F Gideon]
+[C Gideon Pacifica | set happy]
+[C_mat preset evening]
+Test evening 5
+
+[F Pacifica]
+[C Gideon Pacifica | set confused]
+[C_mat preset night]
+Test night 6
+
+[F Gideon]
+[C Gideon Pacifica | set unclear]
+[C_mat preset dark]
+Test dark 7
+
+[goto default]
+repeat 8
+

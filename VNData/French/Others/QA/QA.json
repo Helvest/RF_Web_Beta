@@ -1,0 +1,1761 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-01",
+                    "source": "Ladies and gentlemen, pigs and goats…",
+                    "target": "Ladies and gentlemen, pigs and goats…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-02",
+                    "source": "Welcome to the Reverse Falls questions and answers video!",
+                    "target": "Welcome to the Reverse Falls questions and answers video!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-03",
+                    "source": "I am your host for today’s Q&A, the Xbox Fridge.",
+                    "target": "I am your host for today’s Q&A, the Xbox Fridge."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-04",
+                    "source": "I am a voice actor for the game, however I am not allowed to disclose this with you right now. But, I will be giving out little teeny-tiny hints throughout this entire session.",
+                    "target": "I am a voice actor for the game, however I am not allowed to disclose this with you right now. But, I will be giving out little teeny-tiny hints throughout this entire session."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-05",
+                    "source": "So, let us bring out our participants for today’s Q&A! Starting off with Aki…",
+                    "target": "So, let us bring out our participants for today’s Q&A! Starting off with Aki…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-01",
+                    "source": "Hello! I’m Aki, I play Pacifica. That’s all you need to know about me, yeah.",
+                    "target": "Hello! I’m Aki, I play Pacifica. That’s all you need to know about me, yeah."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-06",
+                    "source": "Uh, okay… Ethan?",
+                    "target": "Uh, okay… Ethan?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-01",
+                    "source": "Hello! Uh, I’m Ethan. I play Dipper, and I’m really excited to be here!",
+                    "target": "Hello! Uh, I’m Ethan. I play Dipper, and I’m really excited to be here!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-07",
+                    "source": "Thank you. And for our Voice Director, Rune?",
+                    "target": "Thank you. And for our Voice Director, Rune?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-01",
+                    "source": "Hi, I’m Rune, and I’m the voice director. So I organize all the voices.",
+                    "target": "Hi, I’m Rune, and I’m the voice director. So I organize all the voices."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-08",
+                    "source": "Um… Morgan?",
+                    "target": "Um… Morgan?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-01",
+                    "source": "Hello. I’m Morgan. And not only am I the music director, I play the alcoholic father of Gideon, Bud, and also the narrator.",
+                    "target": "Hello. I’m Morgan. And not only am I the music director, I play the alcoholic father of Gideon, Bud, and also the narrator."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-09",
+                    "source": "And… Grig.",
+                    "target": "And… Grig."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-01",
+                    "source": "Yo, I’m Grig! I do general writing, directing. It’s the work.",
+                    "target": "Yo, I’m Grig! I do general writing, directing. It’s the work."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-10",
+                    "source": "Alright, so for everyone, um…",
+                    "target": "Alright, so for everyone, um…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-11",
+                    "source": "So what have you been doing so far for this project?",
+                    "target": "So what have you been doing so far for this project?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-02",
+                    "source": "Ooh, a big question. Uh …",
+                    "target": "Ooh, a big question. Uh …"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-03",
+                    "source": "I guess I can start?",
+                    "target": "I guess I can start?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-04",
+                    "source": "For this project, I’ve been basically managing the writing team and ensuring we have a cohesive story going forward, and that the different teams are communicating with the writers, and that we",
+                    "target": "For this project, I’ve been basically managing the writing team and ensuring we have a cohesive story going forward, and that the different teams are communicating with the writers, and that we"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-04.5",
+                    "source": "…make sure the ideas we have are on the same level. Or at least try to, it’s not always super easy.",
+                    "target": "…make sure the ideas we have are on the same level. Or at least try to, it’s not always super easy."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(idle) | Voice: morgan-02",
+                    "source": "In the music department, it’s a lot of… sound design, really. Figuring out where to add things or how to make things more ambient for the player…",
+                    "target": "In the music department, it’s a lot of… sound design, really. Figuring out where to add things or how to make things more ambient for the player…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(idle) | Voice: morgan-02.5",
+                    "source": "But it’s coming in nicely, as well as with adding in voices.",
+                    "target": "But it’s coming in nicely, as well as with adding in voices."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(nervous) | Voice: rune-02",
+                    "source": "Uh, for voice acting, I mostly just give out the lines, the voice actors do a really good job, then I usually cut them and give them to everybody else so they can put them in the game.",
+                    "target": "Uh, for voice acting, I mostly just give out the lines, the voice actors do a really good job, then I usually cut them and give them to everybody else so they can put them in the game."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-02",
+                    "source": "I voice act Pacifica in the game, and I just record lines and send them to the voice acting director, yeah.",
+                    "target": "I voice act Pacifica in the game, and I just record lines and send them to the voice acting director, yeah."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-02",
+                    "source": "I have yet to record lines, but I am prepping for when I eventually do.",
+                    "target": "I have yet to record lines, but I am prepping for when I eventually do."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-12",
+                    "source": "Well, that’s great…",
+                    "target": "Well, that’s great…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-13",
+                    "source": "But before we begin today’s question and answers video, I just want to give a big ole thanks to Charlotte for her artwork for today. Thank you.",
+                    "target": "But before we begin today’s question and answers video, I just want to give a big ole thanks to Charlotte for her artwork for today. Thank you."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-14",
+                    "source": "Now, let us move on to the questions for our… our three directors.",
+                    "target": "Now, let us move on to the questions for our… our three directors."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-15",
+                    "source": "Starting off with, “This is probably a question you guys get a lot, but how is the game coming along?”",
+                    "target": "Starting off with, “This is probably a question you guys get a lot, but how is the game coming along?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-05",
+                    "source": "Um, who wants to start with that one?",
+                    "target": "Um, who wants to start with that one?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(nervous) | Voice: morgan-03 | [0]: C Rune show from outright set joyful | [1]: C Grig set happy",
+                    "source": "I think it’s a difficult position[0][1] to say how it is coming along because there’s always more you want to add to it…",
+                    "target": "I think it’s a difficult position[0][1] to say how it is coming along because there’s always more you want to add to it…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(nervous) | Voice: morgan-03.5",
+                    "source": "But there’s also, things have been getting done, and it’s great to see it coming together as it does.",
+                    "target": "But there’s also, things have been getting done, and it’s great to see it coming together as it does."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-03",
+                    "source": "There’s a lot of moving parts, so it kinda depends on what part you’re in, haha.",
+                    "target": "There’s a lot of moving parts, so it kinda depends on what part you’re in, haha."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-06",
+                    "source": "Oh, absolutely.",
+                    "target": "Oh, absolutely."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-07",
+                    "source": "Um, well I guess, we have chapter 1 written.",
+                    "target": "Um, well I guess, we have chapter 1 written."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-08",
+                    "source": "We have chapter 2… basically written? Although it needs a bit of editing work.",
+                    "target": "We have chapter 2… basically written? Although it needs a bit of editing work."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: grig-09",
+                    "source": "A lot of editing work.",
+                    "target": "A lot of editing work."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-10",
+                    "source": "Chapter 3 is… sort of, a step in between the major overarching narratives, so there are multiple smaller chapters in it… and those are coming along well enough.",
+                    "target": "Chapter 3 is… sort of, a step in between the major overarching narratives, so there are multiple smaller chapters in it… and those are coming along well enough."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-11",
+                    "source": "So, it’s uh, churning.",
+                    "target": "So, it’s uh, churning."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-16",
+                    "source": "Alright, great. Now, moving on…",
+                    "target": "Alright, great. Now, moving on…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-17",
+                    "source": "Is there an estimated release date for chapter 1?",
+                    "target": "Is there an estimated release date for chapter 1?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: default_grig_013 | [0]: wait 0.5 | [1]: wait 0.5 | [2]: wait 0.5",
+                    "source": "[0].[1].[2].",
+                    "target": "[0].[1].[2]."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-12",
+                    "source": "That’s a hard-",
+                    "target": "That’s a hard-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(joyful) | Voice: morgan-04",
+                    "source": "The silence speaks volumes.",
+                    "target": "The silence speaks volumes."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-04",
+                    "source": "Yes, it does.",
+                    "target": "Yes, it does."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-13",
+                    "source": "Uh… we’re working on it? We don’t really have a specific “oh it’s definitely gonna be by then.” But we do want it to come, as Helvest put it, “soon.”",
+                    "target": "Uh… we’re working on it? We don’t really have a specific “oh it’s definitely gonna be by then.” But we do want it to come, as Helvest put it, “soon.”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-05",
+                    "source": "Soon can mean a lot of things, but yes, soon.",
+                    "target": "Soon can mean a lot of things, but yes, soon."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-14",
+                    "source": "Yeah, soonTM. The best time.",
+                    "target": "Yeah, soonTM. The best time."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful) | Voice: host-18",
+                    "source": "Let’s just say that it’ll probably be ready when it’s actually ready.",
+                    "target": "Let’s just say that it’ll probably be ready when it’s actually ready."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-06",
+                    "source": "Yeah.",
+                    "target": "Yeah."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-19",
+                    "source": "Alright.",
+                    "target": "Alright."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-15",
+                    "source": "90% sure this year.",
+                    "target": "90% sure this year."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful), rune(joyful), |(joyful) | Voice: host-20",
+                    "source": "Good to know, good to know.",
+                    "target": "Good to know, good to know."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-21",
+                    "source": "Okay, now this is probably gonna be a bit of a needy question, but I’m gonna say the entire thing, so I hope you don’t mind.",
+                    "target": "Okay, now this is probably gonna be a bit of a needy question, but I’m gonna say the entire thing, so I hope you don’t mind."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-22",
+                    "source": "“I need to, NEED TO” - and they literally mean need to - “know if Gravity Falls characters will be connected to the Reverse Falls story and…",
+                    "target": "“I need to, NEED TO” - and they literally mean need to - “know if Gravity Falls characters will be connected to the Reverse Falls story and…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-22.5",
+                    "source": "…be part of it like an alternate reality meets main reality type of thing or if it's just gonna be reverse fall characters and their story.”",
+                    "target": "…be part of it like an alternate reality meets main reality type of thing or if it's just gonna be reverse fall characters and their story.”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-23",
+                    "source": "Um, I think what they’re trying to say is if the main universe and alternate universe are kinda, going together, in a way? If that makes sense.",
+                    "target": "Um, I think what they’re trying to say is if the main universe and alternate universe are kinda, going together, in a way? If that makes sense."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-16",
+                    "source": "…Right. Oh dear.",
+                    "target": "…Right. Oh dear."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-17",
+                    "source": "Uh, that’s a hard one to unpack.",
+                    "target": "Uh, that’s a hard one to unpack."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-18",
+                    "source": "There… to avoid going into, like, spoiler territory and absolutes or anything like that…",
+                    "target": "There… to avoid going into, like, spoiler territory and absolutes or anything like that…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-19",
+                    "source": "We’ve changed up how we’re publishing the story a fair few times throughout development, because…",
+                    "target": "We’ve changed up how we’re publishing the story a fair few times throughout development, because…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-19.5",
+                    "source": "As you might imagine with a project like this, there are a lot of people who come and join, and a lot of people who leave.",
+                    "target": "As you might imagine with a project like this, there are a lot of people who come and join, and a lot of people who leave."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-20",
+                    "source": "We have all kinds of different starting points and plans that get shot up and then get trashed and oh, “this sounds like a good idea, maybe we try this” and so and so forth.",
+                    "target": "We have all kinds of different starting points and plans that get shot up and then get trashed and oh, “this sounds like a good idea, maybe we try this” and so and so forth."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-21",
+                    "source": "Um, one of those early ideas was a massively branching story, which, that’s incredibly ambitious, and we started out with plans to follow in that direction.",
+                    "target": "Um, one of those early ideas was a massively branching story, which, that’s incredibly ambitious, and we started out with plans to follow in that direction."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-22",
+                    "source": "Which means, multiple ends were planned, or at least… vaguely, in a nebulous cloud of ideas put down.",
+                    "target": "Which means, multiple ends were planned, or at least… vaguely, in a nebulous cloud of ideas put down."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-23",
+                    "source": "Currently, we are following one of those plans and trying to get to at least one full storyline all the way through the game…",
+                    "target": "Currently, we are following one of those plans and trying to get to at least one full storyline all the way through the game…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-24",
+                    "source": "…and then we might add more later, if we have the will, at that distant point in the future.",
+                    "target": "…and then we might add more later, if we have the will, at that distant point in the future."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-25",
+                    "source": "That current path… does not fully, uh, emit for a lot of Reverse Falls to Gravity Falls crossover-y stuff.",
+                    "target": "That current path… does not fully, uh, emit for a lot of Reverse Falls to Gravity Falls crossover-y stuff."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-25.5",
+                    "source": "We’re probably just gonna be sticking with the Reverse Falls characters, and taking their story all the way through to the end.",
+                    "target": "We’re probably just gonna be sticking with the Reverse Falls characters, and taking their story all the way through to the end."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-26",
+                    "source": "Then maybe later we’ll add more, maybe we’ll add some, like, bonus or hidden content, or meta stuff. We’ll see, honestly.",
+                    "target": "Then maybe later we’ll add more, maybe we’ll add some, like, bonus or hidden content, or meta stuff. We’ll see, honestly."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-27",
+                    "source": "But as it stands, they are separate, and I hope you get to enjoy the story.",
+                    "target": "But as it stands, they are separate, and I hope you get to enjoy the story."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-24",
+                    "source": "Great, alright, let’s segway to the next question.",
+                    "target": "Great, alright, let’s segway to the next question."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-25",
+                    "source": "“How in the world did this go from a Mike Inel sketch to an actual project? I’d just like to know when you guys realized this stopped being a joke and became real.",
+                    "target": "“How in the world did this go from a Mike Inel sketch to an actual project? I’d just like to know when you guys realized this stopped being a joke and became real."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(unclear) | Voice: aki-03",
+                    "source": "I joined like later on so I really-",
+                    "target": "I joined like later on so I really-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: grig-28 | [0]: C Xbox set joyful",
+                    "source": "Anyone here besides me here from the start?[0]",
+                    "target": "Anyone here besides me here from the start?[0]"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: default_grig_033 | [0]: wait 0.5 | [1]: wait 0.5 | [2]: wait 0.5",
+                    "source": "[0].[1].[2].",
+                    "target": "[0].[1].[2]."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(nervous) | Voice: rune-07",
+                    "source": "Me too, I only joined more recently.",
+                    "target": "Me too, I only joined more recently."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: grig-29",
+                    "source": "Right… Uh…",
+                    "target": "Right… Uh…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: grig-30",
+                    "source": "I will try to get my thoughts together…",
+                    "target": "I will try to get my thoughts together…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: grig-31",
+                    "source": "Can you guys share like, how y’all ended up joining while I do that?",
+                    "target": "Can you guys share like, how y’all ended up joining while I do that?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-08",
+                    "source": "Um, of course.",
+                    "target": "Um, of course."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-09",
+                    "source": "Um, I accidentally found the game, and I thought it was super cool, so when I joined the Discord and found out they needed some help, I asked if I could…",
+                    "target": "Um, I accidentally found the game, and I thought it was super cool, so when I joined the Discord and found out they needed some help, I asked if I could…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-10",
+                    "source": "…and through processes, I got to be the director of the voice actors.",
+                    "target": "…and through processes, I got to be the director of the voice actors."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-05",
+                    "source": "There was some word of mouth through years, and it got an artist to ask me to join the team early on.",
+                    "target": "There was some word of mouth through years, and it got an artist to ask me to join the team early on."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-06",
+                    "source": "I’m not sure if chapter 0 was already released, but I was just a musician. So I was another resource waiting for stuff to do.",
+                    "target": "I’m not sure if chapter 0 was already released, but I was just a musician. So I was another resource waiting for stuff to do."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-07",
+                    "source": "Long time later, I was asked if I’d like to do more as somebody who knows music.",
+                    "target": "Long time later, I was asked if I’d like to do more as somebody who knows music."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-04",
+                    "source": "I could say how I found the project, so sure.",
+                    "target": "I could say how I found the project, so sure."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-05",
+                    "source": "I had always kinda, like, known about this project from when the first trailer came out. I just didn’t realize that it- I thought it was still going forward, I didn’t know it needed more people.",
+                    "target": "I had always kinda, like, known about this project from when the first trailer came out. I just didn’t realize that it- I thought it was still going forward, I didn’t know it needed more people."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-06 | [0]: C Aki set happy",
+                    "source": "So I joined the discord server, and I kinda just was like, “Oh, I wanna voice act in this project, I don’t really care who I get” and[0] I got Pacifica, so, that’s fun.",
+                    "target": "So I joined the discord server, and I kinda just was like, “Oh, I wanna voice act in this project, I don’t really care who I get” and[0] I got Pacifica, so, that’s fun."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-32",
+                    "source": "Ethan, you wanna, add something?",
+                    "target": "Ethan, you wanna, add something?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-03",
+                    "source": "For sure!",
+                    "target": "For sure!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-04",
+                    "source": "Um, in all honesty, I’m pretty new to the project. I just discovered it last year.",
+                    "target": "Um, in all honesty, I’m pretty new to the project. I just discovered it last year."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-05",
+                    "source": "I heard about it before, seen the trailer videos, but that was a long time ago, so sort of back of the mind stuff.",
+                    "target": "I heard about it before, seen the trailer videos, but that was a long time ago, so sort of back of the mind stuff."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-06",
+                    "source": "And then, I sorta stumbled upon- uh, there was a casting call for voice actors, and because of how interested I was in the project…",
+                    "target": "And then, I sorta stumbled upon- uh, there was a casting call for voice actors, and because of how interested I was in the project…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-06.5",
+                    "source": "…I just applied for everything I possibly could hoping to be involved in some capacity. And then I was really excited, and then grateful, to be able to do Dipper.",
+                    "target": "…I just applied for everything I possibly could hoping to be involved in some capacity. And then I was really excited, and then grateful, to be able to do Dipper."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-26",
+                    "source": "I mean, yeah, that’s- that’s great.",
+                    "target": "I mean, yeah, that’s- that’s great."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-27",
+                    "source": "I mean, I’m kinda in the same boat with you. I just stumbled across the casting call online, and just put in an audition, and here we are, right?",
+                    "target": "I mean, I’m kinda in the same boat with you. I just stumbled across the casting call online, and just put in an audition, and here we are, right?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-33",
+                    "source": "Everyone saw the trailer 5 years ago, I assume.",
+                    "target": "Everyone saw the trailer 5 years ago, I assume."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-34",
+                    "source": "Or at some point between five years ago and now.",
+                    "target": "Or at some point between five years ago and now."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-35",
+                    "source": "Back way when, Molochitis started poking around in the gravity falls, reverse falls, reddit threads, and basically asked, “Hey, are there people actually interested in turning this into a legit game?”",
+                    "target": "Back way when, Molochitis started poking around in the gravity falls, reverse falls, reddit threads, and basically asked, “Hey, are there people actually interested in turning this into a legit game?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-35.5",
+                    "source": "They came across Helvest, and some other people like, uh, Raether, and the Catacat.",
+                    "target": "They came across Helvest, and some other people like, uh, Raether, and the Catacat."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-36",
+                    "source": "Uh, and they basically began putting together a very quick demo. Um, I think the demo is still available up on Gamejolt?",
+                    "target": "Uh, and they basically began putting together a very quick demo. Um, I think the demo is still available up on Gamejolt?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-37",
+                    "source": "And the dialogue for that one was thrown together by Helvest, I believe, and uh, very quickly, they just put something out there to like, see okay, can we build something with this?",
+                    "target": "And the dialogue for that one was thrown together by Helvest, I believe, and uh, very quickly, they just put something out there to like, see okay, can we build something with this?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-38",
+                    "source": "From there, I joined to help with proofreading and like, doing editing, and making sure the English came across well and to translate it to 4 other languages.",
+                    "target": "From there, I joined to help with proofreading and like, doing editing, and making sure the English came across well and to translate it to 4 other languages."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-39",
+                    "source": "Um, and then, we basically just, began cobbling things together.",
+                    "target": "Um, and then, we basically just, began cobbling things together."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-40",
+                    "source": "By some strange twist of fate, I ended up assigned the… writing director? On accident, I think?? Or temporarily?? And I’ve just been stuck with it sense?",
+                    "target": "By some strange twist of fate, I ended up assigned the… writing director? On accident, I think?? Or temporarily?? And I’ve just been stuck with it sense?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-41",
+                    "source": "And we just sorta kept going? And the ball just kept rolling and rolling and rolling, and eventually we came here.",
+                    "target": "And we just sorta kept going? And the ball just kept rolling and rolling and rolling, and eventually we came here."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-42",
+                    "source": "It’s a little bit of an accident that happened in a discord server. That’s sorta how it came to be.",
+                    "target": "It’s a little bit of an accident that happened in a discord server. That’s sorta how it came to be."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-28",
+                    "source": "Well, sometimes the best things can be just a little unexpected.",
+                    "target": "Well, sometimes the best things can be just a little unexpected."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-29",
+                    "source": "Well, okay, let’s move on to the next question here.",
+                    "target": "Well, okay, let’s move on to the next question here."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-30",
+                    "source": "What - for the directors, “what is your favorite part of working on the game?”",
+                    "target": "What - for the directors, “what is your favorite part of working on the game?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: default_xbox_031 | [0]: wait 0.5 | [1]: wait 0.5 | [2]: wait 0.5",
+                    "source": "[0].[1].[2].",
+                    "target": "[0].[1].[2]."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-11",
+                    "source": "I love how none of us wanna start, haha.",
+                    "target": "I love how none of us wanna start, haha."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-12",
+                    "source": "Um-",
+                    "target": "Um-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(joyful) | Voice: morgan-08",
+                    "source": "I always feel like I’m going to interrupt.",
+                    "target": "I always feel like I’m going to interrupt."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-13",
+                    "source": "Me too.",
+                    "target": "Me too."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-14",
+                    "source": "Um… my part, even though I’m like a director, it’s actually pretty small, but I really like seeing the voices end up being in the demo that we directors get to see, after everyone puts them together.",
+                    "target": "Um… my part, even though I’m like a director, it’s actually pretty small, but I really like seeing the voices end up being in the demo that we directors get to see, after everyone puts them together."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-15",
+                    "source": "It’s really cool to hear them actually have a conversation instead of the individual lines, so… I think that’s my favorite part.",
+                    "target": "It’s really cool to hear them actually have a conversation instead of the individual lines, so… I think that’s my favorite part."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(idle) | Voice: morgan-09",
+                    "source": "I think I definitely have to agree.",
+                    "target": "I think I definitely have to agree."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(idle) | Voice: morgan-10",
+                    "source": "It’s not exactly… the position that I’m working from that I get to have the best part of it.",
+                    "target": "It’s not exactly… the position that I’m working from that I get to have the best part of it."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(idle) | Voice: morgan-11",
+                    "source": "It’s seeing the communication… and the dedication to the art, where we want things to sound better. Can we change it this way, this way?",
+                    "target": "It’s seeing the communication… and the dedication to the art, where we want things to sound better. Can we change it this way, this way?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(idle) | Voice: morgan-11.5",
+                    "source": "Or really just add something we personally have ideas for on the team.",
+                    "target": "Or really just add something we personally have ideas for on the team."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-43",
+                    "source": "Um, for me, I guess it’s just getting to read and see and interact with everybody on the team.",
+                    "target": "Um, for me, I guess it’s just getting to read and see and interact with everybody on the team."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-44",
+                    "source": "I personally don’t do a lot of the writing, as I don’t feel particularly confident in it, so instead I get to…",
+                    "target": "I personally don’t do a lot of the writing, as I don’t feel particularly confident in it, so instead I get to…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-44.5",
+                    "source": "Um, like help direct, answer questions, and function as a sort of information well.",
+                    "target": "Um, like help direct, answer questions, and function as a sort of information well."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-45",
+                    "source": "Um, what came before and seeing how it’s all grown into what it is now, and just seeing and remembering, and watching everybody around the- like, the team-",
+                    "target": "Um, what came before and seeing how it’s all grown into what it is now, and just seeing and remembering, and watching everybody around the- like, the team-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-45.5",
+                    "source": "Just putting so much effort into something that I’ve followed for so long - that’s probably the most exciting bit.",
+                    "target": "Just putting so much effort into something that I’ve followed for so long - that’s probably the most exciting bit."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-31",
+                    "source": "Alright, next question.",
+                    "target": "Alright, next question."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-32",
+                    "source": "“Which game engine will Reverse Falls be developed on?",
+                    "target": "“Which game engine will Reverse Falls be developed on?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-46",
+                    "source": "Oof.",
+                    "target": "Oof."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-47",
+                    "source": "Uh, we don't have Helvest here; that’s a hard one to answer.",
+                    "target": "Uh, we don't have Helvest here; that’s a hard one to answer."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-16",
+                    "source": "Yeah.",
+                    "target": "Yeah."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-33",
+                    "source": "Oh…",
+                    "target": "Oh…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(joyful) | Voice: morgan-12",
+                    "source": "Where’s my coding director when I need him?",
+                    "target": "Where’s my coding director when I need him?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-48",
+                    "source": "Yeah, uh… I’m pretty sure currently we’re working on it being browser-based?",
+                    "target": "Yeah, uh… I’m pretty sure currently we’re working on it being browser-based?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-49",
+                    "source": "Um, so basically anything that can have a web browser will let you play the game.",
+                    "target": "Um, so basically anything that can have a web browser will let you play the game."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-50",
+                    "source": "I think we were originally poking around in Unity? But uh, development is insanely hard and slow, especially when it’s a volunteer project and everybody is busy with their own lives.",
+                    "target": "I think we were originally poking around in Unity? But uh, development is insanely hard and slow, especially when it’s a volunteer project and everybody is busy with their own lives."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-51",
+                    "source": "So we’re trying to like, release smaller bits, and then maybe eventually we’ll cobble it together into a larger thing to release.",
+                    "target": "So we’re trying to like, release smaller bits, and then maybe eventually we’ll cobble it together into a larger thing to release."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-34",
+                    "source": "Alright, that makes sense - okay.",
+                    "target": "Alright, that makes sense - okay."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-35",
+                    "source": "“Will Reverse Falls have a unique branch of endings dependent on our choices? If so, does this mean there will be good or bad endings, or will it all end in the same scenario?”",
+                    "target": "“Will Reverse Falls have a unique branch of endings dependent on our choices? If so, does this mean there will be good or bad endings, or will it all end in the same scenario?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-17",
+                    "source": "That seems to be a lot of questions for the writing director, haha.",
+                    "target": "That seems to be a lot of questions for the writing director, haha."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-52",
+                    "source": "Yaay.",
+                    "target": "Yaay."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful) | Voice: host-36",
+                    "source": "I-I don’t- this is not on me, I promise you-",
+                    "target": "I-I don’t- this is not on me, I promise you-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful) | Voice: host-37 | [0]: C Grig set joyful",
+                    "source": "I-these feel like they’re just directed to you.[0]",
+                    "target": "I-these feel like they’re just directed to you.[0]"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(joyful) | Voice: morgan-13",
+                    "source": "Fortunately, some of these have come up before.",
+                    "target": "Fortunately, some of these have come up before."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-53",
+                    "source": "Yep.",
+                    "target": "Yep."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-14",
+                    "source": "We mentioned it a little bit.",
+                    "target": "We mentioned it a little bit."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-54",
+                    "source": "Uh, as I mentioned before, we originally planned for a lovely, large super branching… thing.",
+                    "target": "Uh, as I mentioned before, we originally planned for a lovely, large super branching… thing."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-55",
+                    "source": "But… as it stands, since development time is so slow and we really want to get something out for you guys…",
+                    "target": "But… as it stands, since development time is so slow and we really want to get something out for you guys…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-55.5",
+                    "source": "We’ve tried to consolidate it into one single branch that just heads all the way through.",
+                    "target": "We’ve tried to consolidate it into one single branch that just heads all the way through."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-56",
+                    "source": "In the writing team, we’re making little bits- like tiny little notes for - like here’s a hook for a divergent path, we have a tree planned out…",
+                    "target": "In the writing team, we’re making little bits- like tiny little notes for - like here’s a hook for a divergent path, we have a tree planned out…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-57",
+                    "source": "There’s more stuff, but I don’t know if we’ll ever get around to it.",
+                    "target": "There’s more stuff, but I don’t know if we’ll ever get around to it."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-58",
+                    "source": "We might do it when we- release full chapters or the entire thing, but currently nope, we’ll have one nice-",
+                    "target": "We might do it when we- release full chapters or the entire thing, but currently nope, we’ll have one nice-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-59",
+                    "source": "There will be slight divergences depending on what you do but they'll be contained inside the chapter, although there are some ideas about how we might have things carry over.",
+                    "target": "There will be slight divergences depending on what you do but they'll be contained inside the chapter, although there are some ideas about how we might have things carry over."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-60",
+                    "source": "We’ll see if we manage to get more branching stuff in, but as it stands…",
+                    "target": "We’ll see if we manage to get more branching stuff in, but as it stands…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-60.5",
+                    "source": "We’ll try to get it to you as a linear narrative as a reasonable while still having choice impacts in some narrative moments.",
+                    "target": "We’ll try to get it to you as a linear narrative as a reasonable while still having choice impacts in some narrative moments."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-61",
+                    "source": "Bleh, sorry, I’m very verbose.",
+                    "target": "Bleh, sorry, I’m very verbose."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-38",
+                    "source": "Yeah, no worries, I mean like you’ve got a lot of questions down your belt right now so…",
+                    "target": "Yeah, no worries, I mean like you’ve got a lot of questions down your belt right now so…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(embarrassed) | Voice: grig-62",
+                    "source": "Eh…",
+                    "target": "Eh…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-39",
+                    "source": "Alright, this will be the final question for the directors, we’ll just need to move on to the VAs real soon.",
+                    "target": "Alright, this will be the final question for the directors, we’ll just need to move on to the VAs real soon."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-40",
+                    "source": "This will be a bit of a lengthy one, right now. This is like a bit of a sing of appraisal right here for the person who put this question in.",
+                    "target": "This will be a bit of a lengthy one, right now. This is like a bit of a sing of appraisal right here for the person who put this question in."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-41",
+                    "source": "“So excited about this being a thing! I got a lot of questions-”",
+                    "target": "“So excited about this being a thing! I got a lot of questions-”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-42",
+                    "source": "“(I am very excited for this and/or this Q&A! Don't expect you to answer them all or even at all; just asking them, because I am excited for this game-",
+                    "target": "“(I am very excited for this and/or this Q&A! Don't expect you to answer them all or even at all; just asking them, because I am excited for this game-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-42.5",
+                    "source": "-and if any of the questions do get answered that would be awesome! Also excited to see other people's questions and this video in general!), so I am going to get to asking!”",
+                    "target": "-and if any of the questions do get answered that would be awesome! Also excited to see other people's questions and this video in general!), so I am going to get to asking!”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-43",
+                    "source": "“To the Giddy Fresh Team, I just wanted to ask about your general progress on the visual novel, next chapter(s), and/or asset gathering?”",
+                    "target": "“To the Giddy Fresh Team, I just wanted to ask about your general progress on the visual novel, next chapter(s), and/or asset gathering?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-44",
+                    "source": "“I also wanted to ask the Giddy Fresh Team (only if this question isn't spoilers though) how they go about twisting the Gravity Falls characters as their now Reverse selves?”",
+                    "target": "“I also wanted to ask the Giddy Fresh Team (only if this question isn't spoilers though) how they go about twisting the Gravity Falls characters as their now Reverse selves?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-45",
+                    "source": "Bit of a lengthy one right there!",
+                    "target": "Bit of a lengthy one right there!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful) | Voice: host-46 | [0]: C Rune show set joyful",
+                    "source": "I think this is also directed to the writing director again[0], yikes!",
+                    "target": "I think this is also directed to the writing director again[0], yikes!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-63",
+                    "source": "Well, actually there is some stuff there for voice actors and music stuff cause you guys do a bit of the interpreting of what the characters are like.",
+                    "target": "Well, actually there is some stuff there for voice actors and music stuff cause you guys do a bit of the interpreting of what the characters are like."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(joyful) | Voice: morgan-15",
+                    "source": "And we do need assets.",
+                    "target": "And we do need assets."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-64",
+                    "source": "Yeah, we do need so many assets.",
+                    "target": "Yeah, we do need so many assets."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-18",
+                    "source": "If you’re willing to volunteer, please do!",
+                    "target": "If you’re willing to volunteer, please do!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-65",
+                    "source": "Haha… I think one of the major hangups right now is just art - it is a visual novel, so. And coders. Good god, transcoding, so slow.",
+                    "target": "Haha… I think one of the major hangups right now is just art - it is a visual novel, so. And coders. Good god, transcoding, so slow."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-66 | [0]: C Rune set joyful",
+                    "source": "As for like, progress with chapters and stuff, I did mention that we’re like on chapter 3. Out of ten. Of the main planned line. Eh.[0]",
+                    "target": "As for like, progress with chapters and stuff, I did mention that we’re like on chapter 3. Out of ten. Of the main planned line. Eh.[0]"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-67",
+                    "source": "We have a lot of stuff written, um. I think Helvest calculated that we have enough stuff to publish, what is it, every two weeks for an entire year? Uh…",
+                    "target": "We have a lot of stuff written, um. I think Helvest calculated that we have enough stuff to publish, what is it, every two weeks for an entire year? Uh…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-68",
+                    "source": "Something like that.",
+                    "target": "Something like that."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-19",
+                    "source": "If we’re all very productive, yes.",
+                    "target": "If we’re all very productive, yes."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-69",
+                    "source": "If we’re all magically very productive and suddenly have all of the assets available and the transcoding is done like that.",
+                    "target": "If we’re all magically very productive and suddenly have all of the assets available and the transcoding is done like that."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-16 | [0]: C Grig set joyful | [1]: C Rune set joyful",
+                    "source": "And we all have the free time to do all of these things.[0][1]",
+                    "target": "And we all have the free time to do all of these things.[0][1]"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful) | Voice: host-47",
+                    "source": "Ohh, yeah.",
+                    "target": "Ohh, yeah."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-17",
+                    "source": "Fortunately, in sound design it’s a little bit like catching feathers on one side, but unfortunately the other side is bowling balls.",
+                    "target": "Fortunately, in sound design it’s a little bit like catching feathers on one side, but unfortunately the other side is bowling balls."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-18",
+                    "source": "When we have sound effects, those are things, as we get the idea, find a vast library of so many different similar sounds, and you can take your pick-",
+                    "target": "When we have sound effects, those are things, as we get the idea, find a vast library of so many different similar sounds, and you can take your pick-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-18.5",
+                    "source": "Which can be a little time consuming if you’re into it.",
+                    "target": "Which can be a little time consuming if you’re into it."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-19",
+                    "source": "And then on the other side, creating entire songs from thin air, is something going back and forth between musicians, and really having the inspiration for it till the assets come along.",
+                    "target": "And then on the other side, creating entire songs from thin air, is something going back and forth between musicians, and really having the inspiration for it till the assets come along."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-20",
+                    "source": "Um, with the voice acting, most of the main characters have been cast, of course, but we have so many side characters that only have a few lines each.",
+                    "target": "Um, with the voice acting, most of the main characters have been cast, of course, but we have so many side characters that only have a few lines each."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-21",
+                    "source": "So even though we do have a lot of people who have auditioned, I would love for more people to join so that we have a very large range of voices to use.",
+                    "target": "So even though we do have a lot of people who have auditioned, I would love for more people to join so that we have a very large range of voices to use."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-22",
+                    "source": "That’d be very nice.",
+                    "target": "That’d be very nice."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-70",
+                    "source": "Mm.",
+                    "target": "Mm."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-71",
+                    "source": "As for the whole of twisting Gravity Falls characters into Reverse Falls characters…",
+                    "target": "As for the whole of twisting Gravity Falls characters into Reverse Falls characters…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-72",
+                    "source": "We look a lot at the existing Reverse Falls community, and then like, pick and choose, “oh hey this bit is interesting” or “oh, this thing looks cool.”",
+                    "target": "We look a lot at the existing Reverse Falls community, and then like, pick and choose, “oh hey this bit is interesting” or “oh, this thing looks cool.”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-73",
+                    "source": "And then just try and make a character that fits the narrative we’re trying to tell, and then go from there.",
+                    "target": "And then just try and make a character that fits the narrative we’re trying to tell, and then go from there."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-23",
+                    "source": "Yeah… and-",
+                    "target": "Yeah… and-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-24",
+                    "source": "I’m usually the one who has to interpret what the writers send for the characters, including the voice actors themselves.",
+                    "target": "I’m usually the one who has to interpret what the writers send for the characters, including the voice actors themselves."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-25",
+                    "source": "So… it- it’s usually just like, the writers make a really good point to show how they might act or sound, so I just sort of- add a little bit more details about where there might be a pause…",
+                    "target": "So… it- it’s usually just like, the writers make a really good point to show how they might act or sound, so I just sort of- add a little bit more details about where there might be a pause…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-26",
+                    "source": "Or have them be a bit more happy than usual, if it comes to Pacifica - she’s a very bubbly person - and then with like, Gideon, we have him be sort of more depressed.",
+                    "target": "Or have them be a bit more happy than usual, if it comes to Pacifica - she’s a very bubbly person - and then with like, Gideon, we have him be sort of more depressed."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-48",
+                    "source": "Well, thank you directors for answering the questions I have given you.",
+                    "target": "Well, thank you directors for answering the questions I have given you."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-49",
+                    "source": "Now, let’s move on to the VAs…",
+                    "target": "Now, let’s move on to the VAs…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-50",
+                    "source": "For Pacifica: “You are new to town, what do you think of it and its citizens so far? How do you think the town is threating you guys so far?”",
+                    "target": "For Pacifica: “You are new to town, what do you think of it and its citizens so far? How do you think the town is threating you guys so far?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(unclear) | Voice: host-51",
+                    "source": "…Am I reading that correctly?… Yes, I am.",
+                    "target": "…Am I reading that correctly?… Yes, I am."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-07",
+                    "source": "Um… hm.",
+                    "target": "Um… hm."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-08",
+                    "source": "Um, I believe Gideon is more new to the town then-",
+                    "target": "Um, I believe Gideon is more new to the town then-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(unclear) | Voice: aki-09",
+                    "source": "Do you want me to answer as Pacifica? I’ll just answer as Pacifica.",
+                    "target": "Do you want me to answer as Pacifica? I’ll just answer as Pacifica."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-10",
+                    "source": "I think Gideon’s more new to the town than I am, cause I do show him around and stuff, but um, I really like the town, honestly.",
+                    "target": "I think Gideon’s more new to the town than I am, cause I do show him around and stuff, but um, I really like the town, honestly."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(critical) | Voice: aki-11",
+                    "source": "Just some of the people aren’t great.",
+                    "target": "Just some of the people aren’t great."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-52",
+                    "source": "Alright…",
+                    "target": "Alright…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-53",
+                    "source": "And for… Dipper: What do you think of the new people in town? Also, how’s your relationship with your sister Mabel?",
+                    "target": "And for… Dipper: What do you think of the new people in town? Also, how’s your relationship with your sister Mabel?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-07",
+                    "source": "Well… I am a huge fan of new people coming to town; more new friends, y’know, brightens things up a little bit.",
+                    "target": "Well… I am a huge fan of new people coming to town; more new friends, y’know, brightens things up a little bit."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-08",
+                    "source": "But… the relationship of my sister and I, I would say we’re quite close as most siblings are, but I’m not one to show and tell too much - just enough.",
+                    "target": "But… the relationship of my sister and I, I would say we’re quite close as most siblings are, but I’m not one to show and tell too much - just enough."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(unclear) | Voice: host-54",
+                    "source": "Well, that’s… great.",
+                    "target": "Well, that’s… great."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-55",
+                    "source": "Now for Pacifica, “Who is your favorite person in Reverse Falls so far?”",
+                    "target": "Now for Pacifica, “Who is your favorite person in Reverse Falls so far?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-12",
+                    "source": "Umm… well, I don’t have a lot of friends in Reverse Falls, so I’d probably say Gideon.",
+                    "target": "Umm… well, I don’t have a lot of friends in Reverse Falls, so I’d probably say Gideon."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-56",
+                    "source": "Okay…",
+                    "target": "Okay…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-57",
+                    "source": "Dipper, now if you don’t mind, I will call you Mason for this one bit.",
+                    "target": "Dipper, now if you don’t mind, I will call you Mason for this one bit."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-58",
+                    "source": "What do you think of Will Cipher?",
+                    "target": "What do you think of Will Cipher?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-09",
+                    "source": "Well… I do have lots of-",
+                    "target": "Well… I do have lots of-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-10",
+                    "source": "I-I don’t want to boast or anything, I consider myself a bit humble, but…",
+                    "target": "I-I don’t want to boast or anything, I consider myself a bit humble, but…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-11",
+                    "source": "It is a friend of mine… We like to play a lot of, like my sister and I love to play a lot of games - sorry, I don’t want to say at, but with it, y’know.",
+                    "target": "It is a friend of mine… We like to play a lot of, like my sister and I love to play a lot of games - sorry, I don’t want to say at, but with it, y’know."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-12",
+                    "source": "Sometimes friends tease a little bit, so it’s all in good fun.",
+                    "target": "Sometimes friends tease a little bit, so it’s all in good fun."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(unclear) | Voice: host-59",
+                    "source": "That’s understandable…",
+                    "target": "That’s understandable…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-60",
+                    "source": "Now, this is gonna be a bit of an insult to you Dipper… This one person called you “nerd.” Not even “a nerd.” Just nerd.",
+                    "target": "Now, this is gonna be a bit of an insult to you Dipper… This one person called you “nerd.” Not even “a nerd.” Just nerd."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(angry) | Voice: ethan-13",
+                    "source": "Oh…",
+                    "target": "Oh…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(angry) | Voice: ethan-14",
+                    "source": "I’m - to be quite honest, I’m appalled that someone would call me this, or even insult me.",
+                    "target": "I’m - to be quite honest, I’m appalled that someone would call me this, or even insult me."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(angry) | Voice: ethan-15 | [0]: CF Ethan set cheeky | [1]: CF Ethan set angry",
+                    "source": "I would hope to have the decency to be nice to everyone, but sure, I might be[0]…a bit smart, cunning, nice with my words,[1]but definitely not one of those nerds, that’s for sure.",
+                    "target": "I would hope to have the decency to be nice to everyone, but sure, I might be[0]…a bit smart, cunning, nice with my words,[1]but definitely not one of those nerds, that’s for sure."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-61",
+                    "source": "Beautifully put.",
+                    "target": "Beautifully put."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-62",
+                    "source": "Pacifica, is there a place you’d really like to visit?",
+                    "target": "Pacifica, is there a place you’d really like to visit?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-13",
+                    "source": "Mm…",
+                    "target": "Mm…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-14",
+                    "source": "I don’t know a specific place, but if I could go anywhere, it’s a place with a lot of adventure.",
+                    "target": "I don’t know a specific place, but if I could go anywhere, it’s a place with a lot of adventure."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-15",
+                    "source": "Ummm… I don’t know.",
+                    "target": "Ummm… I don’t know."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-16",
+                    "source": "It’s a hard question… lemme think.",
+                    "target": "It’s a hard question… lemme think."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(idle) | Voice: aki-17",
+                    "source": "Yeah, I don’t know, that’s a hard question, sorry.",
+                    "target": "Yeah, I don’t know, that’s a hard question, sorry."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-63",
+                    "source": "There’s no worries.",
+                    "target": "There’s no worries."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-64",
+                    "source": "So Dipper… so you need to answer this question for your sister, here.",
+                    "target": "So Dipper… so you need to answer this question for your sister, here."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-65",
+                    "source": "“Do you know how long Mabel has known Candy?”",
+                    "target": "“Do you know how long Mabel has known Candy?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-16",
+                    "source": "Now… that is a very good question.",
+                    "target": "Now… that is a very good question."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-17",
+                    "source": "Honestly, as far back as I could remember, but who knows… As I’ve said, my sister does have a decent amount of friends, so I would not want to be rude, but I might be mixing people up.",
+                    "target": "Honestly, as far back as I could remember, but who knows… As I’ve said, my sister does have a decent amount of friends, so I would not want to be rude, but I might be mixing people up."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-18",
+                    "source": "But… if so, I do apologize.",
+                    "target": "But… if so, I do apologize."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-66",
+                    "source": "Now, Pacifica, if you don’t mind answering this question for Gideon…",
+                    "target": "Now, Pacifica, if you don’t mind answering this question for Gideon…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-67",
+                    "source": "Do you know his relationship with Mabel?",
+                    "target": "Do you know his relationship with Mabel?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-18",
+                    "source": "Mm, not really.",
+                    "target": "Mm, not really."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(thinking) | Voice: aki-19",
+                    "source": "I believe they met once, but I’m not actually sure what their relationship is…",
+                    "target": "I believe they met once, but I’m not actually sure what their relationship is…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(disappointed) | Voice: aki-20",
+                    "source": "…sorry.",
+                    "target": "…sorry."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-68",
+                    "source": "No worries. Dipper, answer this question for Mabel.",
+                    "target": "No worries. Dipper, answer this question for Mabel."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-69",
+                    "source": "Do you know - “Mabel, who’s the person you love most besides Dipper and your family?”",
+                    "target": "Do you know - “Mabel, who’s the person you love most besides Dipper and your family?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-19 | [0]: CF Ethan set cheeky",
+                    "source": "Oooh, that is a- that’s quite tricky to be honest, because, y’know,[0] siblings. Y’know, we have such a great bond.",
+                    "target": "Oooh, that is a- that’s quite tricky to be honest, because, y’know,[0] siblings. Y’know, we have such a great bond."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-20",
+                    "source": "I couldn’t imagine her liking anyone more than me, or just, anyone else in town.",
+                    "target": "I couldn’t imagine her liking anyone more than me, or just, anyone else in town."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-21",
+                    "source": "So… that’s a hard one - I might have to ask her that.",
+                    "target": "So… that’s a hard one - I might have to ask her that."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-70",
+                    "source": "I mean, yeah, that makes sense.",
+                    "target": "I mean, yeah, that makes sense."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-71",
+                    "source": "Pacifica, what is your favorite videogame?",
+                    "target": "Pacifica, what is your favorite videogame?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-21",
+                    "source": "I really like open-world games that you can do a lot of adventuring in, and a lot of exploration.",
+                    "target": "I really like open-world games that you can do a lot of adventuring in, and a lot of exploration."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(happy) | Voice: aki-22",
+                    "source": "I don’t know if I have a favorite… but yeah, just a lot of exploration. Heh, open world maps, lots of fun stuff.",
+                    "target": "I don’t know if I have a favorite… but yeah, just a lot of exploration. Heh, open world maps, lots of fun stuff."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-72",
+                    "source": "Yeah, that’s great.",
+                    "target": "Yeah, that’s great."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-73",
+                    "source": "Now… we will close off with one more question.",
+                    "target": "Now… we will close off with one more question."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-74",
+                    "source": "Dipper, how is your relationship with your uncle Stanford?",
+                    "target": "Dipper, how is your relationship with your uncle Stanford?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: default_ethan_023 | [0]: wait 0.5 | [1]: wait 0.5 | [2]: wait 0.5",
+                    "source": "[0].[1].[2].",
+                    "target": "[0].[1].[2]."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-22 | [0]: CF Ethan set cheeky",
+                    "source": "Now, if I think about my family for a second, I know I’m quite close with my sister obviously.[0]I’ve mentioned her a lot, which-",
+                    "target": "Now, if I think about my family for a second, I know I’m quite close with my sister obviously.[0]I’ve mentioned her a lot, which-"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-22.5",
+                    "source": "I would’ve liked to mention myself a little bit more, but you know, I am gracious.",
+                    "target": "I would’ve liked to mention myself a little bit more, but you know, I am gracious."
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(idle) | Voice: ethan-23",
+                    "source": "Ha… y’know, I would never want to get into too much family specifics. I would never want to air out any dirty laundry between family members or anything, so…",
+                    "target": "Ha… y’know, I would never want to get into too much family specifics. I would never want to air out any dirty laundry between family members or anything, so…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-24",
+                    "source": "Maybe that’s just for everyone to see.",
+                    "target": "Maybe that’s just for everyone to see."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-75",
+                    "source": "Right…",
+                    "target": "Right…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-76",
+                    "source": "Now, let’s conclude this questions and answers video.",
+                    "target": "Now, let’s conclude this questions and answers video."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-77",
+                    "source": "Uh, directors - so I’ve heard there’s a little bit of a thing called an ARG you’re working on…",
+                    "target": "Uh, directors - so I’ve heard there’s a little bit of a thing called an ARG you’re working on…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-74",
+                    "source": "Oh god…",
+                    "target": "Oh god…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-75",
+                    "source": "Uh… the ARG exists. You guys still haven’t solved it…",
+                    "target": "Uh… the ARG exists. You guys still haven’t solved it…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-76",
+                    "source": "I’m honestly surprised none of y’all bothered to go looking in places other than the ones we explicitly pointed out to you.",
+                    "target": "I’m honestly surprised none of y’all bothered to go looking in places other than the ones we explicitly pointed out to you."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(nervous) | Voice: grig-77",
+                    "source": "It’s an alternate reality event… so, y’know, there is material out there. It’s linked to us. You just have to go find out.",
+                    "target": "It’s an alternate reality event… so, y’know, there is material out there. It’s linked to us. You just have to go find out."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-78",
+                    "source": "Well, I can awfully say that… the directors are honestly disappointed in all of you. Try-try a little bit better. Maybe you’ll find the answer you need.",
+                    "target": "Well, I can awfully say that… the directors are honestly disappointed in all of you. Try-try a little bit better. Maybe you’ll find the answer you need."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-78 | [0]: C Rune set joyful",
+                    "source": "Why-why ever would you say that?[0]",
+                    "target": "Why-why ever would you say that?[0]"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-79",
+                    "source": "Oh… well…",
+                    "target": "Oh… well…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(cheeky) | Voice: morgan-20",
+                    "source": "It’s okay player, you can do it!",
+                    "target": "It’s okay player, you can do it!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(joyful) | Voice: rune-27",
+                    "source": "We believe in you! Just look a little deeper!",
+                    "target": "We believe in you! Just look a little deeper!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-79",
+                    "source": "I didn’t spend months planning this thing for nobody to find it!",
+                    "target": "I didn’t spend months planning this thing for nobody to find it!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-80",
+                    "source": "Before we conclude this entire video, give them one hint, at least.",
+                    "target": "Before we conclude this entire video, give them one hint, at least."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-80",
+                    "source": "Uhh…",
+                    "target": "Uhh…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-28",
+                    "source": "A little scrap of something.",
+                    "target": "A little scrap of something."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-81",
+                    "source": "The tiniest little scrap - I suppose I could do that.",
+                    "target": "The tiniest little scrap - I suppose I could do that."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-82",
+                    "source": "Uh… You’ve all seen the picture, you’ve all gone to the discord.",
+                    "target": "Uh… You’ve all seen the picture, you’ve all gone to the discord."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-83",
+                    "source": "There are more places that are tied to us - places where we give you information, we give you videos. We give you little nods and hints, and tits and tats.",
+                    "target": "There are more places that are tied to us - places where we give you information, we give you videos. We give you little nods and hints, and tits and tats."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(idle) | Voice: grig-84",
+                    "source": "Why are you looking in one of them?",
+                    "target": "Why are you looking in one of them?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-85",
+                    "source": "That good enough?",
+                    "target": "That good enough?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-81",
+                    "source": "Yes, that’s… good enough for the player.",
+                    "target": "Yes, that’s… good enough for the player."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-82",
+                    "source": "But unfortunately, this is where we must conclude.",
+                    "target": "But unfortunately, this is where we must conclude."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-83",
+                    "source": "Now everyone please, say your goodbyes as we sign off.",
+                    "target": "Now everyone please, say your goodbyes as we sign off."
+                },
+                {
+                    "note": "",
+                    "info": "Char: morgan(happy) | Voice: morgan-21",
+                    "source": "Well it’s been fun. Join again sometime soon!",
+                    "target": "Well it’s been fun. Join again sometime soon!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rune(happy) | Voice: rune-29",
+                    "source": "Can’t wait to hear all your guys’ voices! See you next time.",
+                    "target": "Can’t wait to hear all your guys’ voices! See you next time."
+                },
+                {
+                    "note": "",
+                    "info": "Char: aki(joyful) | Voice: aki-23",
+                    "source": "Mm, it’s been really fun! Hope I did a good job. Thanks for watching!",
+                    "target": "Mm, it’s been really fun! Hope I did a good job. Thanks for watching!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: ethan(cheeky) | Voice: ethan-25",
+                    "source": "I’ll say, I had a blast. I hope anyone watching this had a great time too! Thank you guys so much.",
+                    "target": "I’ll say, I had a blast. I hope anyone watching this had a great time too! Thank you guys so much."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(happy) | Voice: grig-86",
+                    "source": "Toodles all. Please do send in more questions, applications, and whatever else you might have, or desire, or want to do. Meh, yeah, we’re listening.",
+                    "target": "Toodles all. Please do send in more questions, applications, and whatever else you might have, or desire, or want to do. Meh, yeah, we’re listening."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-84",
+                    "source": "Now, thank you to everyone for watching. This was the Xbox Fridge signing out.",
+                    "target": "Now, thank you to everyone for watching. This was the Xbox Fridge signing out."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(idle) | Voice: host-85",
+                    "source": "Stay tuned for more updates for the game…",
+                    "target": "Stay tuned for more updates for the game…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(joyful) | Voice: host-86",
+                    "source": "…and finish the ARG please, they have been working too hard on it, alright.",
+                    "target": "…and finish the ARG please, they have been working too hard on it, alright."
+                },
+                {
+                    "note": "",
+                    "info": "Char: xbox(happy) | Voice: host-87",
+                    "source": "Goodbye everyone.",
+                    "target": "Goodbye everyone."
+                },
+                {
+                    "note": "",
+                    "info": "Char: grig(joyful) | Voice: grig-87",
+                    "source": "We need artists!",
+                    "target": "We need artists!"
+                }
+            ]
+        }
+    ]
+}

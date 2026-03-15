@@ -1,0 +1,15 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_001",
+                    "source": "<funky>End of the Beta, click to restart !!!",
+                    "target": "<funky>Fin de la Beta, clickez pour recommencer !!!"
+                }
+            ]
+        }
+    ]
+}

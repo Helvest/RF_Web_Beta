@@ -1,0 +1,207 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "note": "",
+                    "info": "Char: gideon(unclear) | Voice: default_gideon_001",
+                    "source": "Yeesh… Awkward….",
+                    "target": "Yeesh… Awkward…."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(cheeky) | Voice: default_pacifica_001",
+                    "source": "Well, that was unexpected… But that’s another thing I love about this diner. Everyone has a different story to tell! There are so many unique people that come here, and it’s usually great if we want to gather information. Just listen around…",
+                    "target": "Well, that was unexpected… But that’s another thing I love about this diner. Everyone has a different story to tell! There are so many unique people that come here, and it’s usually great if we want to gather information. Just listen around…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(perplexed), gideon(perplexed) | Voice: default_pacifica_gideon_001",
+                    "source": "…",
+                    "target": "…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(perplexed) | Voice: default_gideon_002",
+                    "source": "...",
+                    "target": "..."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(perplexed) | Voice: default_gideon_003",
+                    "source": "By the way Tyler, did you see the weird electrical storm last night at the start of the pine forest?",
+                    "target": "By the way Tyler, did you see the weird electrical storm last night at the start of the pine forest?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(perplexed) | Voice: default_tyler_001",
+                    "source": "No, I was busy looking for my clothes actually.",
+                    "target": "No, I was busy looking for my clothes actually."
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(perplexed) | Voice: default_tyler_002",
+                    "source": "Your… clothes?",
+                    "target": "Your… clothes?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(frustrated) | Voice: default_tyler_003",
+                    "source": "Yeah, don’t laugh, but I think someone stole a bunch of my clothes. I was drying them on the clothesline in my garden yesterday when they disappeared. Luckily, I never wash my cap, so that’s something they’re not going to get to that easily!",
+                    "target": "Yeah, don’t laugh, but I think someone stole a bunch of my clothes. I was drying them on the clothesline in my garden yesterday when they disappeared. Luckily, I never wash my cap, so that’s something they’re not going to get to that easily!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(frustrated) | Voice: default_tyler_004",
+                    "source": "Dude, that’s kind of disgusting…",
+                    "target": "Dude, that’s kind of disgusting…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(frustrated) | Voice: default_tyler_005",
+                    "source": "You think it might’ve been one of those hobos that people have been talking about lately? Apparently, we got a ton that suddenly moved into town.",
+                    "target": "You think it might’ve been one of those hobos that people have been talking about lately? Apparently, we got a ton that suddenly moved into town."
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(thinking) | Voice: default_tyler_006",
+                    "source": "That is so weird…",
+                    "target": "That is so weird…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(thinking) | Voice: default_tyler_007",
+                    "source": "Then again, we shouldn’t be too surprised.",
+                    "target": "Then again, we shouldn’t be too surprised."
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(thinking) | Voice: default_tyler_008",
+                    "source": "The Falls are full of strange occurrences.",
+                    "target": "The Falls are full of strange occurrences."
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(sigh) | Voice: default_tyler_009",
+                    "source": "Very true…",
+                    "target": "Very true…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_002",
+                    "source": "Mister Tyler!",
+                    "target": "Mister Tyler!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(surprised) | Voice: default_gideon_004",
+                    "source": "Hey! What are you doing?",
+                    "target": "Hey! What are you doing?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_003",
+                    "source": "Could we investigate the place where your clothes were stolen? We’d like to help out.",
+                    "target": "Could we investigate the place where your clothes were stolen? We’d like to help out."
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(perplexed) | Voice: default_tyler_010",
+                    "source": "Eh… My house is locked so you two can’t steal anything. Sure, whatever. I live on the third street after the laser tag building.",
+                    "target": "Eh… My house is locked so you two can’t steal anything. Sure, whatever. I live on the third street after the laser tag building."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(anxious) | Voice: default_gideon_005",
+                    "source": "Wait a second!",
+                    "target": "Wait a second!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_004",
+                    "source": "Thank you sir!",
+                    "target": "Thank you sir!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: tyler(annoyed) | Voice: default_tyler_011",
+                    "source": "Though if you mess anything up, I’ll get you…",
+                    "target": "Though if you mess anything up, I’ll get you…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_006",
+                    "source": "Wow, wow! Slow down there Pacifica! We haven’t even gotten our food yet.",
+                    "target": "Wow, wow! Slow down there Pacifica! We haven’t even gotten our food yet."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(confident) | Voice: default_pacifica_005",
+                    "source": "We’re going to investigate! Food is best served after hard work. We can come back later!",
+                    "target": "We’re going to investigate! Food is best served after hard work. We can come back later!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(angry) | Voice: default_gideon_007",
+                    "source": "You wake me up and tempt me with all that food and now you’re dragging me out before I can even have a bite?",
+                    "target": "You wake me up and tempt me with all that food and now you’re dragging me out before I can even have a bite?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(angry) | Voice: default_gideon_008",
+                    "source": "How could you?!",
+                    "target": "How could you?!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(cheeky) | Voice: default_pacifica_006",
+                    "source": "Come on, it’ll be fun!",
+                    "target": "Come on, it’ll be fun!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(cheeky) | Voice: default_pacifica_007",
+                    "source": "Imagine how cool it will be once we uncover all of this town’s secrets, we might even find a lead on the Blue Dorito!",
+                    "target": "Imagine how cool it will be once we uncover all of this town’s secrets, we might even find a lead on the Blue Dorito!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(thinking) | Voice: default_pacifica_008",
+                    "source": "Although I'm still unsure about what to do first…",
+                    "target": "Although I'm still unsure about what to do first…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(disappointed) | Voice: default_gideon_009",
+                    "source": "Wait, I still haven't agreed to this!",
+                    "target": "Wait, I still haven't agreed to this!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(disappointed) | Voice: default_gideon_010",
+                    "source": "Let's talk about this over…",
+                    "target": "Let's talk about this over…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(thinking) | Voice: default_gideon_011",
+                    "source": "…over food?",
+                    "target": "…over food?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_009",
+                    "source": "Nope! So which one do you think we should go to first?",
+                    "target": "Nope! So which one do you think we should go to first?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(thinking) | Voice: default_gideon_012",
+                    "source": "Stop deciding things without me!",
+                    "target": "Stop deciding things without me!"
+                }
+            ]
+        }
+    ]
+}

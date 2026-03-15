@@ -6,9 +6,10 @@
     <type fullname="SoBody" preserve="all" />
     <type fullname="SoCharacterData" preserve="all" />
     <type fullname="SoExpression" preserve="all" />
+    <type fullname="SoNormal" preserve="all" />
     <type fullname="SoOverlayer" preserve="all" />
     <type fullname="SoSpritesData" preserve="all" />
-    <type fullname=".CharacterData" preserve="nothing" serialized="true" />
+    <type fullname="CharacterData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -32,6 +33,6 @@
     <type fullname="UnityEngine.Transform" preserve="all" />
   </assembly>
   <assembly fullname="Helvest.Tools">
-    <type fullname="Helvest.Tools.QuickLog" preserve="nothing" serialized="true" />
+    <type fullname="Helvest.Tools.QuickLogger" preserve="nothing" serialized="true" />
   </assembly>
 </linker>

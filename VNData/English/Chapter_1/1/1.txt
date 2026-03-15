@@ -1,6 +1,8 @@
 //Chapter 1 - Scene 1 - Gideon House
 
-[C_mat preset morning]
+[C_mat set gradient preset morning]
+//[C_mat preset morning]
+
 [music gideon_theme]
 [bg gideon_house_morning]
 [trans hide]
@@ -58,8 +60,9 @@ Yeah, whatever. Let’s just get out of here first.
 [music pacifica_theme]
 [bg town_street_morning]
 [C pacifica Gideon | show from outleft]
-[CF pacifica set perplexed]
+[C pacifica set perplexed]
 [trans hide]
+[F pacifica]
 Sooo… Your dad seemed like a really nice guy! Why did we have to leave so fast?
 
 [CF gideon set anxious]//(nervous)
@@ -98,5 +101,4 @@ Melting chocolate chip bliss with a fresh drop of whipped cream and juicy cherry
 [C all hide outright]
 [wait 1]
 //[autonext]
-
 [curtain][next Chapter_1/beta_end][end]

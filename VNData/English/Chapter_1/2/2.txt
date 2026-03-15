@@ -29,6 +29,7 @@ Really…?
 
 //change to Diner inside
 [trans show]
+//[clean]
 [bg diner_inside]
 [trans hide]
 [F narrator]

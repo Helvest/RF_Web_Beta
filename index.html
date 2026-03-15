@@ -7,6 +7,7 @@
     <title>Reverse Falls Open Project</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="stylesheet" href="TemplateData/crt-effect.css">
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="apple-touch-icon" sizes="180x180" href="TemplateData/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="TemplateData/favicon-32x32.png">
@@ -19,11 +20,13 @@
   <body class="dark">
     <div id="unity-container">
       <canvas id="unity-canvas"></canvas>
+      <div class="crt-scanlines"></div>
+      <div class="crt-glitch" id="crt-glitch"></div>
     </div>
     <div id="unity-warning"></div>
     <div id="loading-cover" style="display:none;">
       <div id="unity-loading-bar">
-        <div id="unity-logo"><img src="logo.png"></div>
+        <div id="unity-logo"><img src="logo.webp"></div>
         <div id="unity-progress-bar-empty" style="display: none;">
           <div id="unity-progress-bar-full"></div>
         </div>
@@ -37,11 +40,9 @@
           navigator.serviceWorker.register("ServiceWorker.js");
         }
       });
-
       const warningBanner = document.querySelector("#unity-warning");
 
-      function updateBannerVisibility()
-      {
+      function updateBannerVisibility(){
         warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
       }
 
@@ -130,9 +131,8 @@
         cacheControl: function (url) {
           // Define regular expressions for matching file types
           const revalidateFileTypes = /\.(data|bundle|txt)$/;
-          const immutableFileTypes = /\.(ogg|mp3|wav|jpg|jpeg|png|webp)$/;
+          const immutableFileTypes = /\.(ogg|mp3|wav|opus|jpg|jpeg|png|webp)$/;
 
-          // Caching enabled for .data, .bundle, and .txt files.
           // Revalidate if file is up to date before loading from cache
           if (revalidateFileTypes.test(url)) {
             return "must-revalidate";
@@ -149,8 +149,7 @@
         },
         showBanner: unityShowBanner,
       };
-
-      const container = document.querySelector("#unity-container");
+      
       const canvas = document.querySelector("#unity-canvas");
       const loadingCover = document.querySelector("#loading-cover");
       const progressBarEmpty = document.querySelector("#unity-progress-bar-empty");
@@ -181,70 +180,9 @@
       const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
 
       function isInstalled() {
-        if(navigator.fullscreen === true || navigator.standalone === true) return true;
+        if(Document.fullscreenElement || navigator.standalone) return true;
         if (isIOS) return /(iphone|ipod|ipad).*applewebkit/i.test(navigator.userAgent); 
         return isFullscreen || isStandalone;
-      }
-
-      const ratio_9_16 = 9 / 16;
-      const ratio_16_9 = 16 / 9;
-      //const mobileRez = 0.77;
-      
-      let scale = 1;//isMobile ? mobileRez : 1;
-      let abs_width = window.innerWidth * window.devicePixelRatio;
-      let abs_height = window.innerHeight * window.devicePixelRatio;
-
-      function ScaleRez(value)
-      {
-        scale = value;
-        canvas.width = abs_width * scale;
-        canvas.height = abs_height * scale;
-      }  
-
-      function OnResize()
-      {
-        let width = window.innerWidth;
-        let height = window.innerHeight;
-
-        let isPaysage = width > height;
-
-        if (isPaysage)
-        { 
-          const idealWidth = height * ratio_16_9;
-
-          if(idealWidth <= width){
-            width = idealWidth;
-          }else{
-            //const idealHeight = width * ratio_9_16;
-            //height = idealHeight;
-          }
-        }else{
-          const idealHeight = width * ratio_16_9;
-
-          if(idealHeight <= height){
-            height = idealHeight;
-          }else{
-            //const idealWidth = height * ratio_9_16;
-            //width = idealWidth;
-          }
-        }
-
-        container.style.width = width + "px";
-        container.style.height = height + "px";
-
-        abs_width = width * window.devicePixelRatio;
-        abs_height = height * window.devicePixelRatio;
-
-        ScaleRez(scale);
-      }
-
-      window.addEventListener("load", OnResize);
-      window.addEventListener("resize", OnResize);
-      window.addEventListener("orientationchange", OnResize);
-
-      function Test(value)
-      {
-        Debug("Test: " + value);
       }
 
       const script = document.createElement("script");
@@ -254,6 +192,8 @@
           preserveDrawingBuffer: true, //Add this line to preserve the Camera.clearFlags setting
           powerPreference: 1 //Add this line to preserve the Power Preference Player setting
         };
+
+        config.autoSyncPersistentDataPath = true;
 
         createUnityInstance(canvas, config, (progress) => {
           spinner.style.display = "none";
@@ -271,5 +211,6 @@
       };
       document.body.appendChild(script);
     </script>
+    <script src="TemplateData/crt-effect.js"></script>
   </body>
 </html>

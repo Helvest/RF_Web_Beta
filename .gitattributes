@@ -6,7 +6,7 @@
 *.json text eol=lf
 *.yaml text eol=lf
 *.md text eol=lf
-*.js text eol=lf
+#*.js text eol=lf
 *.html text eol=lf
 *.css text eol=lf
 *.xml text eol=lf
@@ -63,8 +63,8 @@
 *.hash text eol=lf
 
 # WebGL Build Output
-*.wasm filter=lfs diff=lfs merge=lfs -text
-*.data filter=lfs diff=lfs merge=lfs -text
+#*.wasm filter=lfs diff=lfs merge=lfs -text
+#*.data filter=lfs diff=lfs merge=lfs -text
 #*.unityweb filter=lfs diff=lfs merge=lfs -text
 
 # Documents & Web

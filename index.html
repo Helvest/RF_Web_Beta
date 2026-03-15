@@ -128,25 +128,6 @@
         productName: "Reverse Falls Open Project",
         productVersion: "1.0",
         matchWebGLToCanvasSize: false,
-        cacheControl: function (url) {
-          // Define regular expressions for matching file types
-          const revalidateFileTypes = /\.(data|bundle|txt)$/;
-          const immutableFileTypes = /\.(ogg|mp3|wav|opus|jpg|jpeg|png|webp)$/;
-
-          // Revalidate if file is up to date before loading from cache
-          if (revalidateFileTypes.test(url)) {
-            return "must-revalidate";
-          }
-
-          // Load file from cache without revalidation.
-          if (immutableFileTypes.test(url)) {
-            return "immutable";
-          }
-
-          // Disable explicit caching for all other files.
-          // Note: the default browser cache may cache them anyway.
-          return "no-store";
-        },
         showBanner: unityShowBanner,
       };
       

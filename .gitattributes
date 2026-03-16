@@ -1,4 +1,4 @@
-# Optimised for Unity and WebGL Builds
+# Optimised for Unity WebGL Builds
 
 # Normalize line endings
 * text=auto
@@ -58,8 +58,8 @@
 #*.hash text eol=lf
 
 # WebGL Build Output
-*.wasm filter=lfs diff=lfs merge=lfs binary
-*.data filter=lfs diff=lfs merge=lfs binary
+#*.wasm filter=lfs diff=lfs merge=lfs binary
+#*.data filter=lfs diff=lfs merge=lfs binary
 #*.unityweb filter=lfs diff=lfs merge=lfs binary
 
 # Documents & Web
@@ -69,4 +69,4 @@
 
 # Unity packages
 *.unitypackage filter=lfs diff=lfs merge=lfs binary
-*.psd filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs binary

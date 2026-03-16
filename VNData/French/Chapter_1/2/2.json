@@ -1,0 +1,483 @@
+{
+    "localisation": [
+        {
+            "label": "default",
+            "dialogues": [
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_001",
+                    "source": "You have got to be kidding me. I made my dad angry, just for this?!",
+                    "target": "You have got to be kidding me. I made my dad angry, just for this?!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_002",
+                    "source": "He's going to murder me when I get home!",
+                    "target": "He's going to murder me when I get home!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(cheeky) | Voice: default_pacifica_001",
+                    "source": "Not just any food, my dear Gideon. This is top quality breakfast, one of a kind in Reverse Falls!",
+                    "target": "Not just any food, my dear Gideon. This is top quality breakfast, one of a kind in Reverse Falls!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(skeptical) | Voice: default_gideon_003",
+                    "source": "Considering the size of this town it mustn't be very hard to find.",
+                    "target": "Considering the size of this town it mustn't be very hard to find."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(unclear) | Voice: default_pacifica_002",
+                    "source": "Don’t be grumpy… Take a look at the menu!",
+                    "target": "Don’t be grumpy… Take a look at the menu!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_004 | [0]: CF gideon set confused",
+                    "source": "If you think a menu is going to-[0] Hey, they have cake flavored pizza!",
+                    "target": "If you think a menu is going to-[0] Hey, they have cake flavored pizza!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_003",
+                    "source": "Hehe, told you so! Order anything you’d like, it’s on me.",
+                    "target": "Hehe, told you so! Order anything you’d like, it’s on me."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(perplex) | Voice: default_gideon_005",
+                    "source": "Really…?",
+                    "target": "Really…?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_001",
+                    "source": "The two enter at the diner and take a seat by the counter.",
+                    "target": "The two enter at the diner and take a seat by the counter."
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_001",
+                    "source": "“Babbling too fast to understand”",
+                    "target": "“Babbling too fast to understand”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_006",
+                    "source": "What?",
+                    "target": "What?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_004",
+                    "source": "Gideon, let me present to you the waitress of the Under the Rock,  “Active” Livia. Active Livia, here is my new friend, Gideon Pines.",
+                    "target": "Gideon, let me present to you the waitress of the Under the Rock,  “Active” Livia. Active Livia, here is my new friend, Gideon Pines."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_007",
+                    "source": "Nice to meet… you?",
+                    "target": "Nice to meet… you?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(happy) | Voice: default_livia_002",
+                    "source": "“More babbling too fast to understand”",
+                    "target": "“More babbling too fast to understand”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(confused) | Voice: default_gideon_008",
+                    "source": "<size=80%>Why is she talking so fast?",
+                    "target": "<size=80%>Why is she talking so fast?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(thinking) | Voice: default_pacifica_005",
+                    "source": "She REALLY likes espresso, so much so that she even invented a way of duplicating her amount of caffeíne per cup.",
+                    "target": "She REALLY likes espresso, so much so that she even invented a way of duplicating her amount of caffeíne per cup."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(shocked) | Voice: default_gideon_009",
+                    "source": "How??",
+                    "target": "How??"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(happy) | Voice: default_livia_003",
+                    "source": "“Even more babbling too fast to understand”",
+                    "target": "“Even more babbling too fast to understand”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(annoyed) | Voice: default_gideon_010",
+                    "source": "And isn’t there a way of making her calm down so I can understand what she’s saying?",
+                    "target": "And isn’t there a way of making her calm down so I can understand what she’s saying?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_006",
+                    "source": "Yep, we just have to say the magic words.",
+                    "target": "Yep, we just have to say the magic words."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_007",
+                    "source": "Hey, Livia!",
+                    "target": "Hey, Livia!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_004",
+                    "source": "Yeah?",
+                    "target": "Yeah?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_008",
+                    "source": "Can I have a “Sleeping Beauty”?",
+                    "target": "Can I have a “Sleeping Beauty”?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_005",
+                    "source": "“Babbling too fast” Sure!",
+                    "target": "“Babbling too fast” Sure!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(idle) | Voice: default_gideon_011",
+                    "source": "What’s a “Sleeping Beauty?”",
+                    "target": "What’s a “Sleeping Beauty?”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_009",
+                    "source": "It’s a triple ​​chamomile tea with a touch of sleeping pills.",
+                    "target": "It’s a triple ​​chamomile tea with a touch of sleeping pills."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(idle) | Voice: default_gideon_012",
+                    "source": "Whoa.",
+                    "target": "Whoa."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(cheeky) | Voice: default_pacifica_010",
+                    "source": "Yeah, I plan to mix it with her “Death Wish” coffee.",
+                    "target": "Yeah, I plan to mix it with her “Death Wish” coffee."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(unclear) | Voice: default_gideon_013",
+                    "source": "Death wish coffee?",
+                    "target": "Death wish coffee?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(idle) | Voice: default_pacifica_011",
+                    "source": "Oh! Shh! Here she comes!",
+                    "target": "Oh! Shh! Here she comes!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_002",
+                    "source": "Livia comes in with a large cup of tea that she places on the table. In her other hand rests her own coffee, which she takes a sip of as she places Pacifica’s order down.",
+                    "target": "Livia comes in with a large cup of tea that she places on the table. In her other hand rests her own coffee, which she takes a sip of as she places Pacifica’s order down."
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_006",
+                    "source": "“Babbling too fast to understand”",
+                    "target": "“Babbling too fast to understand”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_012",
+                    "source": "Oh, hey! Look at that! What’s that behind you?",
+                    "target": "Oh, hey! Look at that! What’s that behind you?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_013",
+                    "source": "Huh? What?",
+                    "target": "Huh? What?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful), idle | Voice: default_livia_idle_001",
+                    "source": "Where?",
+                    "target": "Where?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_014",
+                    "source": "Yeah, it’s right there, can’t you see it?",
+                    "target": "Yeah, it’s right there, can’t you see it?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_003",
+                    "source": "Pacifica quickly pours the tea into Livia’s mug hurriedly, right before she turns back around.",
+                    "target": "Pacifica quickly pours the tea into Livia’s mug hurriedly, right before she turns back around."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_015",
+                    "source": "Ohhh, It’s gone! I’m so sorry that you couldn't see it!",
+                    "target": "Ohhh, It’s gone! I’m so sorry that you couldn't see it!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_007",
+                    "source": "”babbles a bit more”",
+                    "target": "”babbles a bit more”"
+                },
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_004",
+                    "source": "Livia proceeds to take another sip of her coffee.",
+                    "target": "Livia proceeds to take another sip of her coffee."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(perplex) | Voice: default_gideon_014",
+                    "source": "How long does it take to have an effect?",
+                    "target": "How long does it take to have an effect?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(idle) | Voice: default_pacifica_016 | [0]: C Livia set blank",
+                    "source": "<size=80%>3… 2… 1…[0]",
+                    "target": "<size=80%>3… 2… 1…[0]"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(blank) | Voice: default_livia_008",
+                    "source": "Whoa… Is it just me or is the world moving so much faster now?",
+                    "target": "Whoa… Is it just me or is the world moving so much faster now?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_017",
+                    "source": "Nah, it’s just you. So what were you saying before the thing showed up?",
+                    "target": "Nah, it’s just you. So what were you saying before the thing showed up?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(blank) | Voice: default_livia_009",
+                    "source": "The what?",
+                    "target": "The what?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_018",
+                    "source": "The thing, the thing that made you turn around?",
+                    "target": "The thing, the thing that made you turn around?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(happy) | Voice: default_livia_010",
+                    "source": "Oh right, I was saying that I really shouldn’t legally sell you the “Sleeping Beauty”, due to its components.",
+                    "target": "Oh right, I was saying that I really shouldn’t legally sell you the “Sleeping Beauty”, due to its components."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(idle) | Voice: default_gideon_015",
+                    "source": "So why did you sell it anyway?",
+                    "target": "So why did you sell it anyway?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(happy) | Voice: default_livia_011",
+                    "source": "Oh, because I knew that Pacifica wouldn’t tell anyone, I trust her, and I would do the same for her if she needed me to keep a secret.",
+                    "target": "Oh, because I knew that Pacifica wouldn’t tell anyone, I trust her, and I would do the same for her if she needed me to keep a secret."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(confident) | Voice: default_pacifica_019",
+                    "source": "Awww!",
+                    "target": "Awww!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(shocked) | Voice: default_gideon_016",
+                    "source": "<size=80%>Oh, god, that’s so illegal.",
+                    "target": "<size=80%>Oh, god, that’s so illegal."
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_012",
+                    "source": "Alright, do you two want to order anything else?",
+                    "target": "Alright, do you two want to order anything else?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(anxious) | Voice: default_gideon_017",
+                    "source": "Uhhh… The cake flavored pizza please. Extra um… sprinkles?",
+                    "target": "Uhhh… The cake flavored pizza please. Extra um… sprinkles?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_020",
+                    "source": "And the usual pancakes for me!",
+                    "target": "And the usual pancakes for me!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_021",
+                    "source": "Lots of whipped cream please!",
+                    "target": "Lots of whipped cream please!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: livia(joyful) | Voice: default_livia_013",
+                    "source": "Coming right up.",
+                    "target": "Coming right up."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(idle) | Voice: default_gideon_018",
+                    "source": "You two seem to know each other very well.",
+                    "target": "You two seem to know each other very well."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_022",
+                    "source": "Of course we do! She’s the nearest thing I have to a bestie.",
+                    "target": "Of course we do! She’s the nearest thing I have to a bestie."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(thinking) | Voice: default_gideon_019",
+                    "source": "I see . . .",
+                    "target": "I see . . ."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(thinking) | Voice: default_gideon_020",
+                    "source": "Are you sure about paying for our meal?",
+                    "target": "Are you sure about paying for our meal?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_023",
+                    "source": "Yeah, it’d be my pleasure! To commemorate our newfound friendship and all.",
+                    "target": "Yeah, it’d be my pleasure! To commemorate our newfound friendship and all."
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(happy) | Voice: default_gideon_021",
+                    "source": "Wow that’s… that’s actually really kind of you. Thanks…",
+                    "target": "Wow that’s… that’s actually really kind of you. Thanks…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_024",
+                    "source": "Don’t sweat it, I love making my friends happy! I haven’t been making many around here, so it’s honestly nice.",
+                    "target": "Don’t sweat it, I love making my friends happy! I haven’t been making many around here, so it’s honestly nice."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(happy) | Voice: default_pacifica_025",
+                    "source": "Plus, I still need your help hunting down that thing from yesterday!",
+                    "target": "Plus, I still need your help hunting down that thing from yesterday!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: gideon(embarassed) | Voice: default_gideon_022",
+                    "source": "Right, so… What should we do about that little blue dorito? Didn’t you want to capture him?",
+                    "target": "Right, so… What should we do about that little blue dorito? Didn’t you want to capture him?"
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_026",
+                    "source": "Yup, but I’m not really sure how to start just yet.. We should figure out a plan after we’ve eaten.",
+                    "target": "Yup, but I’m not really sure how to start just yet.. We should figure out a plan after we’ve eaten."
+                },
+                {
+                    "note": "",
+                    "info": "Char: pacifica(joyful) | Voice: default_pacifica_027 | [0]: Sound hit_on_table | [1]: Screen shake",
+                    "source": "After all, [0][1]the best ideas come once you've eaten lots of sugar… Or something like that.",
+                    "target": "After all, [0][1]the best ideas come once you've eaten lots of sugar… Or something like that."
+                },
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_005",
+                    "source": "There is a sudden commotion in the diner.",
+                    "target": "There is a sudden commotion in the diner."
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(angry) | Voice: default_rosanna_001",
+                    "source": "No!!!",
+                    "target": "No!!!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(angry) | Voice: default_rosanna_002",
+                    "source": "That ascot was a gift! You can’t just replace it like that!",
+                    "target": "That ascot was a gift! You can’t just replace it like that!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(annoyed) | Voice: default_rosanna_003",
+                    "source": "I can’t deal with you anymore…",
+                    "target": "I can’t deal with you anymore…"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(annoyed) | Voice: default_rosanna_004",
+                    "source": "We’re through!",
+                    "target": "We’re through!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: scot(nervous) | Voice: default_scot_001",
+                    "source": "But… But mi Linda!",
+                    "target": "But… But mi Linda!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: scot(nervous) | Voice: default_scot_002",
+                    "source": "It wasn’t my fault! Some weird monster destroyed it!",
+                    "target": "It wasn’t my fault! Some weird monster destroyed it!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(furious) | Voice: default_rosanna_005",
+                    "source": "Who would actually believe that?!",
+                    "target": "Who would actually believe that?!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(furious) | Voice: default_rosanna_006",
+                    "source": "You're such an ass, Scot!",
+                    "target": "You're such an ass, Scot!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: scot(scared) | Voice: default_scot_003",
+                    "source": "Rosanna! NOOOOOOOOOOOOOO!!!",
+                    "target": "Rosanna! NOOOOOOOOOOOOOO!!!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: rosanna(annoyed) | Voice: default_rosanna_007",
+                    "source": "We’re through!",
+                    "target": "We’re through!"
+                },
+                {
+                    "note": "",
+                    "info": "Char: narrator | Voice: default_narrator_006",
+                    "source": "The woman stands up and quickly leaves the dinner, a stifling silence left in her wake.",
+                    "target": "The woman stands up and quickly leaves the dinner, a stifling silence left in her wake."
+                }
+            ]
+        }
+    ]
+}

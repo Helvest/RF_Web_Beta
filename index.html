@@ -50,7 +50,7 @@
         return typeof value === 'string' && !value.trim();
       }
 
-      const disableLog = true;
+      const disableLog = false;
 
       // Shows a temporary message banner/ribbon for a few seconds, or
       // a permanent error message on top of the canvas if type=='error'.
@@ -115,13 +115,13 @@
       }
 
   
-      const hideFullScreenButton = true;
+      const hideFullScreenButton = false;
       const loaderUrl = "Build/RF_Web_Beta.loader.js";
       const config = {
-        dataUrl: "Build/RF_Web_Beta.data.unityweb",
-        frameworkUrl: "Build/RF_Web_Beta.framework.js.unityweb",
-        codeUrl: "Build/RF_Web_Beta.wasm.unityweb",
-        symbolsUrl: "Build/RF_Web_Beta.symbols.json.unityweb",
+        dataUrl: "Build/RF_Web_Beta.data",
+        frameworkUrl: "Build/RF_Web_Beta.framework.js",
+        codeUrl: "Build/RF_Web_Beta.wasm",
+        symbolsUrl: "Build/RF_Web_Beta.symbols.json",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
@@ -170,7 +170,7 @@
       script.onload = () => {
         config['webglContextAttributes'] = {
           preserveDrawingBuffer: true, //Add this line to preserve the Camera.clearFlags setting
-          powerPreference: 0 //Add this line to preserve the Power Preference Player setting
+          powerPreference: 1 //Add this line to preserve the Power Preference Player setting
         };
 
         config.autoSyncPersistentDataPath = true;

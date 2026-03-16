@@ -1,8 +1,8 @@
 # This .gitignore file should be placed at the root of your Unity WebGL Build directory
 
 # Custom Folders
-**/[Ol]d
-/VNData/Localization/
+**/[Oo]ld
+VNData/Localization/
 
 # macOS system files
 .DS_Store

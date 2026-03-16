@@ -15,13 +15,13 @@
 *.png filter=lfs diff=lfs merge=lfs binary
 *.jpg filter=lfs diff=lfs merge=lfs binary
 *.jpeg filter=lfs diff=lfs merge=lfs binary
-#*.webp filter=lfs diff=lfs merge=lfs binary
+*.webp filter=lfs diff=lfs merge=lfs binary
 *.psd filter=lfs diff=lfs merge=lfs binary
 *.tga filter=lfs diff=lfs merge=lfs binary
 *.tiff filter=lfs diff=lfs merge=lfs binary
 *.gif filter=lfs diff=lfs merge=lfs binary
 *.ico binary
-#*.svg text eol=lf
+*.svg text eol=lf
 
 # Audio
 *.mp3 filter=lfs diff=lfs merge=lfs binary

@@ -2,7 +2,7 @@
 
 # Custom Folders
 **/[Ol]d
-/VNData/Localization
+/VNData/Localization/
 
 # macOS system files
 .DS_Store

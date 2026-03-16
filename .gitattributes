@@ -26,8 +26,8 @@
 # Audio
 *.mp3 filter=lfs diff=lfs merge=lfs binary
 *.wav filter=lfs diff=lfs merge=lfs binary
-#*.ogg filter=lfs diff=lfs merge=lfs binary
-#*.opus filter=lfs diff=lfs merge=lfs binary
+*.ogg filter=lfs diff=lfs merge=lfs binary
+*.opus filter=lfs diff=lfs merge=lfs binary
 *.flac filter=lfs diff=lfs merge=lfs binary
 
 # Video

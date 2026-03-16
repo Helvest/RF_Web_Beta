@@ -1,8 +1,9 @@
 # This .gitignore file should be placed at the root of your Unity WebGL Build directory
 
-# ============
-# Operating System Generated Files
-# ============
+# Custom Folders
+**/[Ol]d
+/VNData/Localization
+
 # macOS system files
 .DS_Store
 ._*
@@ -18,16 +19,10 @@ ehthumbs.db
 .idea/
 *.[Dd]ot[Ss]ettings
 
-# ============
-# IDE - Visual Studio
-# ============
 # Visual Studio cache and configuration directories
 .vs/
 .vsconfig
 
-# ============
-# IDE - Visual Studio Code
-# ============
 # VS Code workspace settings and extensions
 .vscode/
 *.code-workspace

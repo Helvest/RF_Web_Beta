@@ -60,7 +60,7 @@
 # WebGL Build Output
 *.wasm filter=lfs diff=lfs merge=lfs binary
 *.data filter=lfs diff=lfs merge=lfs binary
-*.unityweb filter=lfs diff=lfs merge=lfs binary
+#*.unityweb filter=lfs diff=lfs merge=lfs binary
 
 # Documents & Web
 *.pdf filter=lfs diff=lfs merge=lfs binary

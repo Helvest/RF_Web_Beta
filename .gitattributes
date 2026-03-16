@@ -3,13 +3,13 @@
 # Normalize line endings
 * text=auto
 *.cs text eol=lf
-#*.json text eol=lf
+*.json text eol=lf
 *.yaml text eol=lf
 *.md text eol=lf
 #*.js text eol=lf
-#*.html text eol=lf
-#*.css text eol=lf
-#*.xml text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.xml text eol=lf
 
 # Images
 *.png filter=lfs diff=lfs merge=lfs binary
@@ -63,8 +63,8 @@
 
 # Documents & Web
 *.pdf filter=lfs diff=lfs merge=lfs binary
-#*.manifest text eol=lf
-#*.webmanifest text eol=lf
+*.manifest text eol=lf
+*.webmanifest text eol=lf
 
 # Unity packages
-#*.unitypackage filter=lfs diff=lfs merge=lfs binary
+*.unitypackage filter=lfs diff=lfs merge=lfs binary

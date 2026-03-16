@@ -29,7 +29,7 @@ Pacifica, please just go before-
 //Bud doesn’t appear on screen.
 
 [F bud]
-BOY!!!
+GIDEON!!!
 WHO IS AT THE DOOR THIS EARLY IN THE MORNING? IT BETTER NOT BE THE POLICE!
 
 [CF pacifica set perplexed]//(curious)

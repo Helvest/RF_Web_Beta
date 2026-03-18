@@ -115,18 +115,37 @@
       }
 
   
-      const hideFullScreenButton = false;
-      const loaderUrl = "Build/40526c7a00f89a392bfa11f41ec20aec.loader.js";
+      const hideFullScreenButton = true;
+      const loaderUrl = "Build/RF_Web_Beta.loader.js";
       const config = {
-        dataUrl: "Build/45103a82bb260b18252adfe8c4b4e881.data.unityweb",
-        frameworkUrl: "Build/84a1ad86ff7d24ca01d1c8e6fa74098b.framework.js.unityweb",
-        codeUrl: "Build/024ce4e2aad9cdaa776579de01b0eacf.wasm.unityweb",
-        symbolsUrl: "Build/b7347a13bf73c53d7cf9bb3aae3657f8.symbols.json.unityweb",
+        dataUrl: "Build/RF_Web_Beta.data.unityweb",
+        frameworkUrl: "Build/RF_Web_Beta.framework.js.unityweb",
+        codeUrl: "Build/RF_Web_Beta.wasm.unityweb",
+        symbolsUrl: "Build/RF_Web_Beta.symbols.json.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Helvest",
         productName: "Reverse Falls Open Project",
         productVersion: "1.0",
         matchWebGLToCanvasSize: false,
+        cacheControl: function (url) {
+          // Define regular expressions for matching file types
+          const revalidateFileTypes = /\.(unityweb|wasm|data|bundle|txt|json|hash|xml|ogg|mp3|wav|opus|jpg|jpeg|png|webp|svg|ico)$/;
+          //const immutableFileTypes = /\.(ogg|mp3|wav|opus|jpg|jpeg|png|webp|svg|ico)$/;
+
+          // Revalidate if file is up to date before loading from cache
+          if (revalidateFileTypes.test(url)) {
+            return "must-revalidate";
+          }
+
+          // Load file from cache without revalidation.
+          //if (immutableFileTypes.test(url)) {
+            //return "immutable";
+          //}
+
+          // Disable explicit caching for all other files.
+          // Note: the default browser cache may cache them anyway.
+          return "no-store";
+        },
         showBanner: unityShowBanner,
       };
       
